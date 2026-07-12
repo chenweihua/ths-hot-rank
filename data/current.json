@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-12 17:07:34",
+  "update_time": "2026-07-12 18:29:06",
   "source": "同花顺热榜",
   "total": 100,
   "data": [
@@ -10,7 +10,7 @@
       "price": 8.54,
       "turnover": 33.09,
       "change_pct": 5.69,
-      "hot_value": "274101.0",
+      "hot_value": "140383.0",
       "rank_chg": 0,
       "popularity_tag": "",
       "concept_tags": [
@@ -28,8 +28,8 @@
       "price": 38.41,
       "turnover": 16.88,
       "change_pct": 7.65,
-      "hot_value": "255635.0",
-      "rank_chg": 0,
+      "hot_value": "125514.0",
+      "rank_chg": 1,
       "popularity_tag": "",
       "concept_tags": [
         "WiFi 6",
@@ -46,8 +46,8 @@
       "price": 25.31,
       "turnover": 14.89,
       "change_pct": 6.66,
-      "hot_value": "219472.0",
-      "rank_chg": 0,
+      "hot_value": "123734.0",
+      "rank_chg": -1,
       "popularity_tag": "持续上榜",
       "concept_tags": [
         "国家大基金持股",
@@ -59,30 +59,12 @@
     },
     {
       "rank": 4,
-      "code": "601127",
-      "name": "赛力斯",
-      "price": 59.9,
-      "turnover": 2.06,
-      "change_pct": 1.58,
-      "hot_value": "207934.0",
-      "rank_chg": 0,
-      "popularity_tag": "",
-      "concept_tags": [
-        "华为汽车",
-        "参股银行"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 5,
       "code": "600118",
       "name": "中国卫星",
       "price": 90.02,
       "turnover": 5.29,
       "change_pct": 10.0,
-      "hot_value": "182400.0",
+      "hot_value": "83387.0",
       "rank_chg": 0,
       "popularity_tag": "首板涨停",
       "concept_tags": [
@@ -94,18 +76,36 @@
       "browse_rank": 0
     },
     {
-      "rank": 6,
+      "rank": 5,
       "code": "000725",
       "name": "京东方A",
       "price": 7.59,
       "turnover": 10.76,
       "change_pct": -6.87,
-      "hot_value": "154062.0",
-      "rank_chg": 0,
+      "hot_value": "80389.0",
+      "rank_chg": 1,
       "popularity_tag": "持续上榜",
       "concept_tags": [
         "电子纸",
         "MicroLED概念"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 6,
+      "code": "601127",
+      "name": "赛力斯",
+      "price": 59.9,
+      "turnover": 2.06,
+      "change_pct": 1.58,
+      "hot_value": "79341.0",
+      "rank_chg": -1,
+      "popularity_tag": "",
+      "concept_tags": [
+        "华为汽车",
+        "参股银行"
       ],
       "analyse": "",
       "xueqiu_rank": 0,
@@ -118,7 +118,7 @@
       "price": 89.52,
       "turnover": 19.37,
       "change_pct": 4.11,
-      "hot_value": "146089.0",
+      "hot_value": "70473.0",
       "rank_chg": 0,
       "popularity_tag": "3天2板",
       "concept_tags": [
@@ -131,31 +131,13 @@
     },
     {
       "rank": 8,
-      "code": "603019",
-      "name": "中科曙光",
-      "price": 107.5,
-      "turnover": 10.93,
-      "change_pct": 3.38,
-      "hot_value": "140476.0",
-      "rank_chg": 0,
-      "popularity_tag": "",
-      "concept_tags": [
-        "中国AI 50",
-        "东数西算(算力)"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 9,
       "code": "002342",
       "name": "巨力索具",
       "price": 11.07,
       "turnover": 17.97,
       "change_pct": 10.04,
-      "hot_value": "134251.0",
-      "rank_chg": 0,
+      "hot_value": "62609.0",
+      "rank_chg": 1,
       "popularity_tag": "首板涨停",
       "concept_tags": [
         "海工装备",
@@ -166,18 +148,36 @@
       "browse_rank": 0
     },
     {
-      "rank": 10,
-      "code": "605090",
-      "name": "九丰能源",
-      "price": 37.98,
-      "turnover": 5.08,
-      "change_pct": 9.99,
-      "hot_value": "122615.0",
-      "rank_chg": 0,
-      "popularity_tag": "首板涨停",
+      "rank": 9,
+      "code": "603019",
+      "name": "中科曙光",
+      "price": 107.5,
+      "turnover": 10.93,
+      "change_pct": 3.38,
+      "hot_value": "62493.0",
+      "rank_chg": -1,
+      "popularity_tag": "",
       "concept_tags": [
-        "俄乌冲突概念",
-        "煤化工概念"
+        "中国AI 50",
+        "东数西算(算力)"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 10,
+      "code": "600584",
+      "name": "长电科技",
+      "price": 101.11,
+      "turnover": 17.09,
+      "change_pct": -2.33,
+      "hot_value": "59705.0",
+      "rank_chg": 0,
+      "popularity_tag": "持续上榜",
+      "concept_tags": [
+        "国家大基金持股",
+        "存储芯片"
       ],
       "analyse": "",
       "xueqiu_rank": 0,
@@ -185,17 +185,17 @@
     },
     {
       "rank": 11,
-      "code": "600584",
-      "name": "长电科技",
-      "price": 101.11,
-      "turnover": 17.09,
-      "change_pct": -2.33,
-      "hot_value": "120490.0",
+      "code": "605090",
+      "name": "九丰能源",
+      "price": 37.98,
+      "turnover": 5.08,
+      "change_pct": 9.99,
+      "hot_value": "52514.0",
       "rank_chg": 0,
-      "popularity_tag": "持续上榜",
+      "popularity_tag": "首板涨停",
       "concept_tags": [
-        "国家大基金持股",
-        "存储芯片"
+        "俄乌冲突概念",
+        "煤化工概念"
       ],
       "analyse": "",
       "xueqiu_rank": 0,
@@ -208,7 +208,7 @@
       "price": 612.0,
       "turnover": 13.28,
       "change_pct": -7.76,
-      "hot_value": "101604.0",
+      "hot_value": "51336.0",
       "rank_chg": 0,
       "popularity_tag": "2天1板",
       "concept_tags": [
@@ -221,17 +221,17 @@
     },
     {
       "rank": 13,
-      "code": "300065",
-      "name": "海兰信",
-      "price": 28.79,
-      "turnover": 18.81,
-      "change_pct": 20.01,
-      "hot_value": "97012.0",
+      "code": "600667",
+      "name": "太极实业",
+      "price": 25.26,
+      "turnover": 20.7,
+      "change_pct": -3.84,
+      "hot_value": "45963.0",
       "rank_chg": 0,
-      "popularity_tag": "首板涨停",
+      "popularity_tag": "2天1板",
       "concept_tags": [
-        "军工信息化",
-        "商业航天"
+        "存储芯片",
+        "先进封装"
       ],
       "analyse": "",
       "xueqiu_rank": 0,
@@ -239,17 +239,17 @@
     },
     {
       "rank": 14,
-      "code": "600879",
-      "name": "航天电子",
-      "price": 23.29,
-      "turnover": 7.95,
-      "change_pct": 10.01,
-      "hot_value": "93683.0",
+      "code": "300065",
+      "name": "海兰信",
+      "price": 28.79,
+      "turnover": 18.81,
+      "change_pct": 20.01,
+      "hot_value": "44474.0",
       "rank_chg": 0,
       "popularity_tag": "首板涨停",
       "concept_tags": [
-        "太赫兹",
-        "军工信息化"
+        "军工信息化",
+        "商业航天"
       ],
       "analyse": "",
       "xueqiu_rank": 0,
@@ -262,8 +262,8 @@
       "price": 57.91,
       "turnover": 19.25,
       "change_pct": 2.97,
-      "hot_value": "92293.0",
-      "rank_chg": 0,
+      "hot_value": "42897.0",
+      "rank_chg": 1,
       "popularity_tag": "2天1板",
       "concept_tags": [
         "存储芯片",
@@ -275,17 +275,17 @@
     },
     {
       "rank": 16,
-      "code": "300308",
-      "name": "中际旭创",
-      "price": 1093.98,
-      "turnover": 3.81,
-      "change_pct": -8.45,
-      "hot_value": "86855.0",
-      "rank_chg": 0,
-      "popularity_tag": "",
+      "code": "600879",
+      "name": "航天电子",
+      "price": 23.29,
+      "turnover": 7.95,
+      "change_pct": 10.01,
+      "hot_value": "41426.0",
+      "rank_chg": 1,
+      "popularity_tag": "首板涨停",
       "concept_tags": [
-        "共封装光学(CPO)",
-        "F5G概念"
+        "太赫兹",
+        "军工信息化"
       ],
       "analyse": "",
       "xueqiu_rank": 0,
@@ -298,8 +298,8 @@
       "price": 60.0,
       "turnover": 19.03,
       "change_pct": 1.04,
-      "hot_value": "83429.0",
-      "rank_chg": 0,
+      "hot_value": "41289.0",
+      "rank_chg": -2,
       "popularity_tag": "4天2板",
       "concept_tags": [
         "中芯国际概念",
@@ -311,30 +311,12 @@
     },
     {
       "rank": 18,
-      "code": "600667",
-      "name": "太极实业",
-      "price": 25.26,
-      "turnover": 20.7,
-      "change_pct": -3.84,
-      "hot_value": "82483.0",
-      "rank_chg": 0,
-      "popularity_tag": "2天1板",
-      "concept_tags": [
-        "存储芯片",
-        "先进封装"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 19,
       "code": "002747",
       "name": "埃斯顿",
       "price": 42.78,
       "turnover": 19.3,
       "change_pct": 3.01,
-      "hot_value": "79388.0",
+      "hot_value": "38552.0",
       "rank_chg": 0,
       "popularity_tag": "",
       "concept_tags": [
@@ -346,18 +328,36 @@
       "browse_rank": 0
     },
     {
-      "rank": 20,
-      "code": "600410",
-      "name": "华胜天成",
-      "price": 16.56,
-      "turnover": 10.3,
-      "change_pct": 10.03,
-      "hot_value": "79073.0",
-      "rank_chg": 1,
-      "popularity_tag": "首板涨停",
+      "rank": 19,
+      "code": "300308",
+      "name": "中际旭创",
+      "price": 1093.98,
+      "turnover": 3.81,
+      "change_pct": -8.45,
+      "hot_value": "37959.0",
+      "rank_chg": 0,
+      "popularity_tag": "",
       "concept_tags": [
-        "云计算",
-        "网络安全"
+        "共封装光学(CPO)",
+        "F5G概念"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 20,
+      "code": "002407",
+      "name": "多氟多",
+      "price": 41.1,
+      "turnover": 18.37,
+      "change_pct": -5.84,
+      "hot_value": "36822.0",
+      "rank_chg": 1,
+      "popularity_tag": "",
+      "concept_tags": [
+        "氟化工概念",
+        "PVDF概念"
       ],
       "analyse": "",
       "xueqiu_rank": 0,
@@ -365,17 +365,17 @@
     },
     {
       "rank": 21,
-      "code": "000063",
-      "name": "中兴通讯",
-      "price": 40.53,
-      "turnover": 11.18,
-      "change_pct": 0.5,
-      "hot_value": "78668.0",
+      "code": "600410",
+      "name": "华胜天成",
+      "price": 16.56,
+      "turnover": 10.3,
+      "change_pct": 10.03,
+      "hot_value": "36592.0",
       "rank_chg": -1,
-      "popularity_tag": "",
+      "popularity_tag": "首板涨停",
       "concept_tags": [
-        "光纤概念",
-        "6G概念"
+        "云计算",
+        "网络安全"
       ],
       "analyse": "",
       "xueqiu_rank": 0,
@@ -388,8 +388,8 @@
       "price": 17.0,
       "turnover": 25.34,
       "change_pct": -9.09,
-      "hot_value": "75403.0",
-      "rank_chg": 1,
+      "hot_value": "35447.0",
+      "rank_chg": 0,
       "popularity_tag": "",
       "concept_tags": [
         "培育钻石",
@@ -401,17 +401,17 @@
     },
     {
       "rank": 23,
-      "code": "002407",
-      "name": "多氟多",
-      "price": 41.1,
-      "turnover": 18.37,
-      "change_pct": -5.84,
-      "hot_value": "74804.0",
-      "rank_chg": -1,
-      "popularity_tag": "",
+      "code": "002414",
+      "name": "高德红外",
+      "price": 14.64,
+      "turnover": 6.0,
+      "change_pct": 9.99,
+      "hot_value": "35250.0",
+      "rank_chg": 0,
+      "popularity_tag": "2天2板",
       "concept_tags": [
-        "氟化工概念",
-        "PVDF概念"
+        "军民融合",
+        "军工"
       ],
       "analyse": "",
       "xueqiu_rank": 0,
@@ -419,17 +419,17 @@
     },
     {
       "rank": 24,
-      "code": "002414",
-      "name": "高德红外",
-      "price": 14.64,
-      "turnover": 6.0,
-      "change_pct": 9.99,
-      "hot_value": "73597.0",
-      "rank_chg": 0,
-      "popularity_tag": "2天2板",
+      "code": "603928",
+      "name": "兴业股份",
+      "price": 18.8,
+      "turnover": 24.33,
+      "change_pct": 4.44,
+      "hot_value": "33930.0",
+      "rank_chg": 1,
+      "popularity_tag": "11天6板",
       "concept_tags": [
-        "军民融合",
-        "军工"
+        "丙烯酸",
+        "锂电池概念"
       ],
       "analyse": "",
       "xueqiu_rank": 0,
@@ -442,8 +442,8 @@
       "price": 22.36,
       "turnover": 7.96,
       "change_pct": 9.99,
-      "hot_value": "72216.0",
-      "rank_chg": 0,
+      "hot_value": "33778.0",
+      "rank_chg": -1,
       "popularity_tag": "首板涨停",
       "concept_tags": [
         "商业航天",
@@ -455,17 +455,17 @@
     },
     {
       "rank": 26,
-      "code": "002261",
-      "name": "拓维信息",
-      "price": 32.08,
-      "turnover": 12.12,
+      "code": "000063",
+      "name": "中兴通讯",
+      "price": 40.53,
+      "turnover": 11.18,
       "change_pct": 0.5,
-      "hot_value": "67516.0",
+      "hot_value": "33316.0",
       "rank_chg": 0,
       "popularity_tag": "",
       "concept_tags": [
-        "云计算",
-        "华为欧拉"
+        "光纤概念",
+        "6G概念"
       ],
       "analyse": "",
       "xueqiu_rank": 0,
@@ -473,17 +473,17 @@
     },
     {
       "rank": 27,
-      "code": "600360",
-      "name": "华微电子",
-      "price": 16.79,
-      "turnover": 29.05,
-      "change_pct": 5.0,
-      "hot_value": "66708.0",
-      "rank_chg": 1,
-      "popularity_tag": "",
+      "code": "002384",
+      "name": "东山精密",
+      "price": 242.3,
+      "turnover": 8.58,
+      "change_pct": -7.28,
+      "hot_value": "32286.0",
+      "rank_chg": 0,
+      "popularity_tag": "2天1板",
       "concept_tags": [
-        "第三代半导体",
-        "汽车电子"
+        "共封装光学(CPO)",
+        "光纤概念"
       ],
       "analyse": "",
       "xueqiu_rank": 0,
@@ -496,7 +496,7 @@
       "price": 77.79,
       "turnover": 10.57,
       "change_pct": -2.84,
-      "hot_value": "66265.0",
+      "hot_value": "31524.0",
       "rank_chg": 1,
       "popularity_tag": "",
       "concept_tags": [
@@ -509,13 +509,31 @@
     },
     {
       "rank": 29,
+      "code": "600360",
+      "name": "华微电子",
+      "price": 16.79,
+      "turnover": 29.05,
+      "change_pct": 5.0,
+      "hot_value": "31324.0",
+      "rank_chg": -1,
+      "popularity_tag": "",
+      "concept_tags": [
+        "第三代半导体",
+        "汽车电子"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 30,
       "code": "000636",
       "name": "风华高科",
       "price": 60.01,
       "turnover": 9.03,
       "change_pct": -6.89,
-      "hot_value": "65798.0",
-      "rank_chg": 1,
+      "hot_value": "30973.0",
+      "rank_chg": 0,
       "popularity_tag": "",
       "concept_tags": [
         "超级电容",
@@ -526,36 +544,18 @@
       "browse_rank": 0
     },
     {
-      "rank": 30,
-      "code": "002384",
-      "name": "东山精密",
-      "price": 242.3,
-      "turnover": 8.58,
-      "change_pct": -7.28,
-      "hot_value": "65415.0",
-      "rank_chg": -3,
-      "popularity_tag": "2天1板",
-      "concept_tags": [
-        "共封装光学(CPO)",
-        "光纤概念"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
       "rank": 31,
-      "code": "603538",
-      "name": "美诺华",
-      "price": 30.88,
-      "turnover": 21.23,
-      "change_pct": 10.01,
-      "hot_value": "64979.0",
-      "rank_chg": 0,
-      "popularity_tag": "首板涨停",
+      "code": "603629",
+      "name": "利通电子",
+      "price": 116.6,
+      "turnover": 9.94,
+      "change_pct": -5.47,
+      "hot_value": "30241.0",
+      "rank_chg": 5,
+      "popularity_tag": "",
       "concept_tags": [
-        "减肥药",
-        "CRO概念"
+        "算力租赁",
+        "英伟达概念"
       ],
       "analyse": "",
       "xueqiu_rank": 0,
@@ -563,30 +563,12 @@
     },
     {
       "rank": 32,
-      "code": "603928",
-      "name": "兴业股份",
-      "price": 18.8,
-      "turnover": 24.33,
-      "change_pct": 4.44,
-      "hot_value": "64483.0",
-      "rank_chg": 0,
-      "popularity_tag": "11天6板",
-      "concept_tags": [
-        "丙烯酸",
-        "锂电池概念"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 33,
       "code": "000066",
       "name": "中国长城",
       "price": 19.45,
       "turnover": 10.32,
       "change_pct": -2.16,
-      "hot_value": "62756.0",
+      "hot_value": "29942.0",
       "rank_chg": 0,
       "popularity_tag": "",
       "concept_tags": [
@@ -598,104 +580,14 @@
       "browse_rank": 0
     },
     {
-      "rank": 34,
-      "code": "600992",
-      "name": "贵绳股份",
-      "price": 10.65,
-      "turnover": 7.03,
-      "change_pct": 10.02,
-      "hot_value": "57897.0",
-      "rank_chg": 0,
-      "popularity_tag": "2天2板",
-      "concept_tags": [
-        "国企改革",
-        "国产航母"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 35,
-      "code": "603629",
-      "name": "利通电子",
-      "price": 116.6,
-      "turnover": 9.94,
-      "change_pct": -5.47,
-      "hot_value": "57448.0",
-      "rank_chg": 0,
-      "popularity_tag": "",
-      "concept_tags": [
-        "算力租赁",
-        "英伟达概念"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 36,
-      "code": "002361",
-      "name": "神剑股份",
-      "price": 12.73,
-      "turnover": 10.9,
-      "change_pct": 10.03,
-      "hot_value": "55887.0",
-      "rank_chg": 2,
-      "popularity_tag": "首板涨停",
-      "concept_tags": [
-        "航空发动机",
-        "卫星导航"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 37,
-      "code": "002739",
-      "name": "儒意电影",
-      "price": 10.43,
-      "turnover": 8.98,
-      "change_pct": 7.75,
-      "hot_value": "55879.0",
-      "rank_chg": -1,
-      "popularity_tag": "",
-      "concept_tags": [
-        "IP经济(谷子经济)",
-        "文化传媒概念"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 38,
-      "code": "000892",
-      "name": "欢瑞世纪",
-      "price": 4.2,
-      "turnover": 20.22,
-      "change_pct": 9.95,
-      "hot_value": "55182.0",
-      "rank_chg": -1,
-      "popularity_tag": "2天2板",
-      "concept_tags": [
-        "短剧游戏",
-        "IP经济(谷子经济)"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 39,
+      "rank": 33,
       "code": "000620",
       "name": "盈新发展",
       "price": 3.63,
       "turnover": 12.92,
       "change_pct": 10.0,
-      "hot_value": "55072.0",
-      "rank_chg": 1,
+      "hot_value": "28827.0",
+      "rank_chg": 2,
       "popularity_tag": "首板涨停",
       "concept_tags": [
         "短剧游戏",
@@ -706,32 +598,104 @@
       "browse_rank": 0
     },
     {
-      "rank": 40,
-      "code": "600522",
-      "name": "中天科技",
-      "price": 45.91,
-      "turnover": 9.33,
-      "change_pct": -2.61,
-      "hot_value": "54583.0",
-      "rank_chg": -1,
+      "rank": 34,
+      "code": "002261",
+      "name": "拓维信息",
+      "price": 32.08,
+      "turnover": 12.12,
+      "change_pct": 0.5,
+      "hot_value": "28633.0",
+      "rank_chg": 0,
       "popularity_tag": "",
       "concept_tags": [
-        "光纤概念",
-        "共封装光学(CPO)"
+        "云计算",
+        "华为欧拉"
       ],
       "analyse": "",
       "xueqiu_rank": 0,
       "browse_rank": 0
     },
     {
-      "rank": 41,
+      "rank": 35,
+      "code": "603538",
+      "name": "美诺华",
+      "price": 30.88,
+      "turnover": 21.23,
+      "change_pct": 10.01,
+      "hot_value": "28632.0",
+      "rank_chg": -2,
+      "popularity_tag": "首板涨停",
+      "concept_tags": [
+        "减肥药",
+        "CRO概念"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 36,
+      "code": "600992",
+      "name": "贵绳股份",
+      "price": 10.65,
+      "turnover": 7.03,
+      "change_pct": 10.02,
+      "hot_value": "27732.0",
+      "rank_chg": 1,
+      "popularity_tag": "2天2板",
+      "concept_tags": [
+        "国企改革",
+        "国产航母"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 37,
+      "code": "000892",
+      "name": "欢瑞世纪",
+      "price": 4.2,
+      "turnover": 20.22,
+      "change_pct": 9.95,
+      "hot_value": "26864.0",
+      "rank_chg": 2,
+      "popularity_tag": "2天2板",
+      "concept_tags": [
+        "短剧游戏",
+        "IP经济(谷子经济)"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 38,
+      "code": "002739",
+      "name": "儒意电影",
+      "price": 10.43,
+      "turnover": 8.98,
+      "change_pct": 7.75,
+      "hot_value": "26639.0",
+      "rank_chg": 0,
+      "popularity_tag": "",
+      "concept_tags": [
+        "IP经济(谷子经济)",
+        "文化传媒概念"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 39,
       "code": "000547",
       "name": "航天发展",
       "price": 18.17,
       "turnover": 8.39,
       "change_pct": 9.99,
-      "hot_value": "53790.0",
-      "rank_chg": 0,
+      "hot_value": "26360.0",
+      "rank_chg": 1,
       "popularity_tag": "首板涨停",
       "concept_tags": [
         "军工信息化",
@@ -742,18 +706,54 @@
       "browse_rank": 0
     },
     {
+      "rank": 40,
+      "code": "301583",
+      "name": "托伦斯",
+      "price": 216.7,
+      "turnover": 81.35,
+      "change_pct": 858.85,
+      "hot_value": "26187.0",
+      "rank_chg": 1,
+      "popularity_tag": "",
+      "concept_tags": [
+        "高端装备",
+        "存储芯片"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 41,
+      "code": "601991",
+      "name": "大唐发电",
+      "price": 6.64,
+      "turnover": 5.27,
+      "change_pct": 1.07,
+      "hot_value": "25973.0",
+      "rank_chg": 3,
+      "popularity_tag": "",
+      "concept_tags": [
+        "绿色电力",
+        "风电"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
       "rank": 42,
-      "code": "603127",
-      "name": "昭衍新药",
-      "price": 43.22,
-      "turnover": 8.5,
-      "change_pct": 10.0,
-      "hot_value": "52809.0",
-      "rank_chg": 0,
+      "code": "002361",
+      "name": "神剑股份",
+      "price": 12.73,
+      "turnover": 10.9,
+      "change_pct": 10.03,
+      "hot_value": "25727.0",
+      "rank_chg": 3,
       "popularity_tag": "首板涨停",
       "concept_tags": [
-        "CRO概念",
-        "细胞免疫治疗"
+        "航空发动机",
+        "卫星导航"
       ],
       "analyse": "",
       "xueqiu_rank": 0,
@@ -761,17 +761,17 @@
     },
     {
       "rank": 43,
-      "code": "301583",
-      "name": "托伦斯",
-      "price": 216.7,
-      "turnover": 81.35,
-      "change_pct": 858.85,
-      "hot_value": "52188.0",
+      "code": "600522",
+      "name": "中天科技",
+      "price": 45.91,
+      "turnover": 9.33,
+      "change_pct": -2.61,
+      "hot_value": "25583.0",
       "rank_chg": 0,
       "popularity_tag": "",
       "concept_tags": [
-        "高端装备",
-        "存储芯片"
+        "光纤概念",
+        "共封装光学(CPO)"
       ],
       "analyse": "",
       "xueqiu_rank": 0,
@@ -784,8 +784,8 @@
       "price": 29.54,
       "turnover": 9.28,
       "change_pct": 10.02,
-      "hot_value": "50769.0",
-      "rank_chg": 0,
+      "hot_value": "25207.0",
+      "rank_chg": 2,
       "popularity_tag": "首板涨停",
       "concept_tags": [
         "禽流感",
@@ -797,17 +797,17 @@
     },
     {
       "rank": 45,
-      "code": "601138",
-      "name": "工业富联",
-      "price": 66.27,
-      "turnover": 1.05,
-      "change_pct": -4.69,
-      "hot_value": "49052.0",
-      "rank_chg": 0,
-      "popularity_tag": "",
+      "code": "603127",
+      "name": "昭衍新药",
+      "price": 43.22,
+      "turnover": 8.5,
+      "change_pct": 10.0,
+      "hot_value": "24094.0",
+      "rank_chg": 2,
+      "popularity_tag": "首板涨停",
       "concept_tags": [
-        "同花顺果指数",
-        "共封装光学(CPO)"
+        "CRO概念",
+        "细胞免疫治疗"
       ],
       "analyse": "",
       "xueqiu_rank": 0,
@@ -815,49 +815,13 @@
     },
     {
       "rank": 46,
-      "code": "002115",
-      "name": "三维通信",
-      "price": 10.95,
-      "turnover": 1.29,
-      "change_pct": 10.05,
-      "hot_value": "48550.0",
-      "rank_chg": 0,
-      "popularity_tag": "首板涨停",
-      "concept_tags": [
-        "智慧灯杆",
-        "卫星导航"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 47,
-      "code": "002396",
-      "name": "星网锐捷",
-      "price": 27.47,
-      "turnover": 17.59,
-      "change_pct": -5.14,
-      "hot_value": "48306.0",
-      "rank_chg": 0,
-      "popularity_tag": "9天5板",
-      "concept_tags": [
-        "WiFi 6",
-        "F5G概念"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 48,
       "code": "603137",
       "name": "恒尚节能",
       "price": 26.75,
       "turnover": 21.16,
       "change_pct": 6.15,
-      "hot_value": "47960.0",
-      "rank_chg": 0,
+      "hot_value": "23905.0",
+      "rank_chg": 2,
       "popularity_tag": "8天7板",
       "concept_tags": [
         "装配式建筑",
@@ -868,18 +832,54 @@
       "browse_rank": 0
     },
     {
-      "rank": 49,
-      "code": "601991",
-      "name": "大唐发电",
-      "price": 6.64,
-      "turnover": 5.27,
-      "change_pct": 1.07,
-      "hot_value": "47732.0",
-      "rank_chg": 0,
+      "rank": 47,
+      "code": "601138",
+      "name": "工业富联",
+      "price": 66.27,
+      "turnover": 1.05,
+      "change_pct": -4.69,
+      "hot_value": "23894.0",
+      "rank_chg": 2,
       "popularity_tag": "",
       "concept_tags": [
-        "绿色电力",
-        "风电"
+        "同花顺果指数",
+        "共封装光学(CPO)"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 48,
+      "code": "002396",
+      "name": "星网锐捷",
+      "price": 27.47,
+      "turnover": 17.59,
+      "change_pct": -5.14,
+      "hot_value": "23060.0",
+      "rank_chg": 2,
+      "popularity_tag": "9天5板",
+      "concept_tags": [
+        "WiFi 6",
+        "F5G概念"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 49,
+      "code": "000759",
+      "name": "中百集团",
+      "price": 6.66,
+      "turnover": 15.88,
+      "change_pct": 1.22,
+      "hot_value": "22397.0",
+      "rank_chg": -18,
+      "popularity_tag": "",
+      "concept_tags": [
+        "免税店",
+        "预制菜"
       ],
       "analyse": "",
       "xueqiu_rank": 0,
@@ -892,8 +892,8 @@
       "price": 70.95,
       "turnover": 13.35,
       "change_pct": -1.69,
-      "hot_value": "46533.0",
-      "rank_chg": 0,
+      "hot_value": "22330.0",
+      "rank_chg": 1,
       "popularity_tag": "2天1板",
       "concept_tags": [
         "国家大基金持股",
@@ -905,12 +905,30 @@
     },
     {
       "rank": 51,
+      "code": "000887",
+      "name": "中鼎股份",
+      "price": 20.68,
+      "turnover": 8.25,
+      "change_pct": 10.0,
+      "hot_value": "22199.0",
+      "rank_chg": 2,
+      "popularity_tag": "2天2板",
+      "concept_tags": [
+        "减速器",
+        "人形机器人"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 52,
       "code": "601698",
       "name": "中国卫通",
       "price": 32.88,
       "turnover": 1.55,
       "change_pct": 10.0,
-      "hot_value": "46506.0",
+      "hot_value": "22100.0",
       "rank_chg": 0,
       "popularity_tag": "首板涨停",
       "concept_tags": [
@@ -922,50 +940,14 @@
       "browse_rank": 0
     },
     {
-      "rank": 52,
-      "code": "001208",
-      "name": "华菱线缆",
-      "price": 15.99,
-      "turnover": 13.75,
-      "change_pct": 9.97,
-      "hot_value": "45995.0",
-      "rank_chg": 0,
-      "popularity_tag": "3天2板",
-      "concept_tags": [
-        "卫星导航",
-        "商业航天"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
       "rank": 53,
-      "code": "002409",
-      "name": "雅克科技",
-      "price": 207.17,
-      "turnover": 14.31,
-      "change_pct": -0.88,
-      "hot_value": "44847.0",
-      "rank_chg": 0,
-      "popularity_tag": "2天1板",
-      "concept_tags": [
-        "国家大基金持股",
-        "中芯国际概念"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 54,
       "code": "600884",
       "name": "杉杉股份",
       "price": 11.76,
       "turnover": 3.47,
       "change_pct": -1.51,
-      "hot_value": "44063.0",
-      "rank_chg": 1,
+      "hot_value": "21943.0",
+      "rank_chg": 3,
       "popularity_tag": "",
       "concept_tags": [
         "钠离子电池",
@@ -976,68 +958,14 @@
       "browse_rank": 0
     },
     {
-      "rank": 55,
-      "code": "000887",
-      "name": "中鼎股份",
-      "price": 20.68,
-      "turnover": 8.25,
-      "change_pct": 10.0,
-      "hot_value": "43326.0",
-      "rank_chg": -1,
-      "popularity_tag": "2天2板",
-      "concept_tags": [
-        "减速器",
-        "人形机器人"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 56,
-      "code": "002594",
-      "name": "比亚迪",
-      "price": 90.0,
-      "turnover": 2.03,
-      "change_pct": 3.6,
-      "hot_value": "43169.0",
-      "rank_chg": 0,
-      "popularity_tag": "",
-      "concept_tags": [
-        "超级品牌",
-        "同花顺漂亮100"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 57,
-      "code": "001270",
-      "name": "铖昌科技",
-      "price": 166.3,
-      "turnover": 11.04,
-      "change_pct": 1.27,
-      "hot_value": "42767.0",
-      "rank_chg": 2,
-      "popularity_tag": "",
-      "concept_tags": [
-        "6G概念",
-        "卫星导航"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 58,
+      "rank": 54,
       "code": "002829",
       "name": "星网宇达",
       "price": 19.5,
       "turnover": 10.21,
       "change_pct": 9.98,
-      "hot_value": "42757.0",
-      "rank_chg": -1,
+      "hot_value": "21889.0",
+      "rank_chg": 3,
       "popularity_tag": "2天2板",
       "concept_tags": [
         "军工信息化",
@@ -1048,31 +976,67 @@
       "browse_rank": 0
     },
     {
-      "rank": 59,
-      "code": "600498",
-      "name": "烽火通信",
-      "price": 56.87,
-      "turnover": 12.29,
-      "change_pct": 0.12,
-      "hot_value": "42508.0",
-      "rank_chg": -1,
-      "popularity_tag": "",
+      "rank": 55,
+      "code": "002115",
+      "name": "三维通信",
+      "price": 10.95,
+      "turnover": 1.29,
+      "change_pct": 10.05,
+      "hot_value": "21848.0",
+      "rank_chg": 0,
+      "popularity_tag": "首板涨停",
       "concept_tags": [
-        "光纤概念",
-        "F5G概念"
+        "智慧灯杆",
+        "卫星导航"
       ],
       "analyse": "",
       "xueqiu_rank": 0,
       "browse_rank": 0
     },
     {
-      "rank": 60,
+      "rank": 56,
+      "code": "001208",
+      "name": "华菱线缆",
+      "price": 15.99,
+      "turnover": 13.75,
+      "change_pct": 9.97,
+      "hot_value": "21677.0",
+      "rank_chg": -2,
+      "popularity_tag": "3天2板",
+      "concept_tags": [
+        "卫星导航",
+        "商业航天"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 57,
+      "code": "600396",
+      "name": "华电辽能",
+      "price": 12.9,
+      "turnover": 13.78,
+      "change_pct": 5.56,
+      "hot_value": "20741.0",
+      "rank_chg": 2,
+      "popularity_tag": "",
+      "concept_tags": [
+        "超超临界发电",
+        "绿色电力"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 58,
       "code": "603118",
       "name": "共进股份",
       "price": 14.2,
       "turnover": 11.88,
       "change_pct": 5.81,
-      "hot_value": "42283.0",
+      "hot_value": "20600.0",
       "rank_chg": 0,
       "popularity_tag": "",
       "concept_tags": [
@@ -1084,32 +1048,32 @@
       "browse_rank": 0
     },
     {
-      "rank": 61,
-      "code": "603698",
-      "name": "航天工程",
-      "price": 44.09,
-      "turnover": 6.43,
-      "change_pct": 10.01,
-      "hot_value": "41457.0",
-      "rank_chg": 0,
-      "popularity_tag": "首板涨停",
+      "rank": 59,
+      "code": "002409",
+      "name": "雅克科技",
+      "price": 207.17,
+      "turnover": 14.31,
+      "change_pct": -0.88,
+      "hot_value": "20494.0",
+      "rank_chg": 1,
+      "popularity_tag": "2天1板",
       "concept_tags": [
-        "军民融合",
-        "军工"
+        "国家大基金持股",
+        "中芯国际概念"
       ],
       "analyse": "",
       "xueqiu_rank": 0,
       "browse_rank": 0
     },
     {
-      "rank": 62,
+      "rank": 60,
       "code": "600664",
       "name": "哈药股份",
       "price": 3.37,
       "turnover": 3.97,
       "change_pct": 10.13,
-      "hot_value": "41350.0",
-      "rank_chg": 0,
+      "hot_value": "20204.0",
+      "rank_chg": 1,
       "popularity_tag": "首板涨停",
       "concept_tags": [
         "流感",
@@ -1120,13 +1084,31 @@
       "browse_rank": 0
     },
     {
-      "rank": 63,
+      "rank": 61,
+      "code": "002594",
+      "name": "比亚迪",
+      "price": 90.0,
+      "turnover": 2.03,
+      "change_pct": 3.6,
+      "hot_value": "20202.0",
+      "rank_chg": 1,
+      "popularity_tag": "",
+      "concept_tags": [
+        "超级品牌",
+        "同花顺漂亮100"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 62,
       "code": "002192",
       "name": "融捷股份",
       "price": 71.15,
       "turnover": 14.27,
       "change_pct": -10.01,
-      "hot_value": "40647.0",
+      "hot_value": "19930.0",
       "rank_chg": 1,
       "popularity_tag": "",
       "concept_tags": [
@@ -1138,13 +1120,103 @@
       "browse_rank": 0
     },
     {
+      "rank": 63,
+      "code": "600498",
+      "name": "烽火通信",
+      "price": 56.87,
+      "turnover": 12.29,
+      "change_pct": 0.12,
+      "hot_value": "19792.0",
+      "rank_chg": 1,
+      "popularity_tag": "",
+      "concept_tags": [
+        "光纤概念",
+        "F5G概念"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
       "rank": 64,
+      "code": "002436",
+      "name": "兴森科技",
+      "price": 41.13,
+      "turnover": 9.06,
+      "change_pct": -7.47,
+      "hot_value": "19673.0",
+      "rank_chg": -22,
+      "popularity_tag": "2天1板",
+      "concept_tags": [
+        "PCB概念",
+        "共封装光学(CPO)"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 65,
+      "code": "002457",
+      "name": "青龙管业",
+      "price": 15.76,
+      "turnover": 23.12,
+      "change_pct": 4.65,
+      "hot_value": "19572.0",
+      "rank_chg": 1,
+      "popularity_tag": "",
+      "concept_tags": [
+        "地下管网",
+        "新型城镇化"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 66,
+      "code": "603698",
+      "name": "航天工程",
+      "price": 44.09,
+      "turnover": 6.43,
+      "change_pct": 10.01,
+      "hot_value": "19545.0",
+      "rank_chg": -1,
+      "popularity_tag": "首板涨停",
+      "concept_tags": [
+        "军民融合",
+        "军工"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 67,
+      "code": "000779",
+      "name": "甘咨询",
+      "price": 10.6,
+      "turnover": 18.33,
+      "change_pct": 8.05,
+      "hot_value": "19368.0",
+      "rank_chg": 1,
+      "popularity_tag": "",
+      "concept_tags": [
+        "新型城镇化",
+        "房屋检测"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 68,
       "code": "600129",
       "name": "太极集团",
       "price": 16.58,
       "turnover": 9.58,
       "change_pct": 7.73,
-      "hot_value": "40390.0",
+      "hot_value": "19095.0",
       "rank_chg": -1,
       "popularity_tag": "",
       "concept_tags": [
@@ -1156,90 +1228,18 @@
       "browse_rank": 0
     },
     {
-      "rank": 65,
-      "code": "000034",
-      "name": "神州数码",
-      "price": 29.62,
-      "turnover": 12.27,
-      "change_pct": 2.74,
-      "hot_value": "40015.0",
-      "rank_chg": 0,
-      "popularity_tag": "",
-      "concept_tags": [
-        "算力租赁",
-        "华为昇腾"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 66,
-      "code": "002457",
-      "name": "青龙管业",
-      "price": 15.76,
-      "turnover": 23.12,
-      "change_pct": 4.65,
-      "hot_value": "39125.0",
-      "rank_chg": 2,
-      "popularity_tag": "",
-      "concept_tags": [
-        "地下管网",
-        "新型城镇化"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 67,
-      "code": "600343",
-      "name": "航天动力",
-      "price": 27.72,
-      "turnover": 6.59,
-      "change_pct": 10.0,
-      "hot_value": "39102.0",
-      "rank_chg": -1,
-      "popularity_tag": "首板涨停",
-      "concept_tags": [
-        "军民融合",
-        "大飞机"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 68,
-      "code": "600176",
-      "name": "中国巨石",
-      "price": 55.7,
-      "turnover": 6.17,
-      "change_pct": -5.11,
-      "hot_value": "38981.0",
-      "rank_chg": -1,
-      "popularity_tag": "",
-      "concept_tags": [
-        "PCB概念",
-        "2026一季报预增"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
       "rank": 69,
-      "code": "002281",
-      "name": "光迅科技",
-      "price": 233.45,
-      "turnover": 7.52,
-      "change_pct": -2.11,
-      "hot_value": "38304.0",
+      "code": "001270",
+      "name": "铖昌科技",
+      "price": 166.3,
+      "turnover": 11.04,
+      "change_pct": 1.27,
+      "hot_value": "18617.0",
       "rank_chg": 0,
-      "popularity_tag": "2天1板",
+      "popularity_tag": "",
       "concept_tags": [
-        "F5G概念",
-        "光纤概念"
+        "6G概念",
+        "卫星导航"
       ],
       "analyse": "",
       "xueqiu_rank": 0,
@@ -1247,17 +1247,17 @@
     },
     {
       "rank": 70,
-      "code": "601608",
-      "name": "中信重工",
-      "price": 5.04,
-      "turnover": 1.7,
-      "change_pct": 10.04,
-      "hot_value": "38116.0",
+      "code": "603823",
+      "name": "百合花",
+      "price": 66.16,
+      "turnover": 6.12,
+      "change_pct": -4.28,
+      "hot_value": "18617.0",
       "rank_chg": 0,
-      "popularity_tag": "首板涨停",
+      "popularity_tag": "",
       "concept_tags": [
-        "大飞机",
-        "国产航母"
+        "光刻胶",
+        "PEEK材料"
       ],
       "analyse": "",
       "xueqiu_rank": 0,
@@ -1265,17 +1265,17 @@
     },
     {
       "rank": 71,
-      "code": "000779",
-      "name": "甘咨询",
-      "price": 10.6,
-      "turnover": 18.33,
-      "change_pct": 8.05,
-      "hot_value": "37651.0",
-      "rank_chg": 0,
+      "code": "600460",
+      "name": "士兰微",
+      "price": 44.51,
+      "turnover": 11.16,
+      "change_pct": -8.04,
+      "hot_value": "18576.0",
+      "rank_chg": 1,
       "popularity_tag": "",
       "concept_tags": [
-        "新型城镇化",
-        "房屋检测"
+        "国家大基金持股",
+        "汽车芯片"
       ],
       "analyse": "",
       "xueqiu_rank": 0,
@@ -1283,17 +1283,17 @@
     },
     {
       "rank": 72,
-      "code": "600460",
-      "name": "士兰微",
-      "price": 44.51,
-      "turnover": 11.16,
-      "change_pct": -8.04,
-      "hot_value": "37200.0",
-      "rank_chg": 0,
+      "code": "600176",
+      "name": "中国巨石",
+      "price": 55.7,
+      "turnover": 6.17,
+      "change_pct": -5.11,
+      "hot_value": "18456.0",
+      "rank_chg": -1,
       "popularity_tag": "",
       "concept_tags": [
-        "国家大基金持股",
-        "汽车芯片"
+        "PCB概念",
+        "2026一季报预增"
       ],
       "analyse": "",
       "xueqiu_rank": 0,
@@ -1306,8 +1306,8 @@
       "price": 18.74,
       "turnover": 10.58,
       "change_pct": 9.98,
-      "hot_value": "37179.0",
-      "rank_chg": 0,
+      "hot_value": "18352.0",
+      "rank_chg": 1,
       "popularity_tag": "2天2板",
       "concept_tags": [
         "仿制药一致性评价",
@@ -1319,17 +1319,17 @@
     },
     {
       "rank": 74,
-      "code": "000988",
-      "name": "华工科技",
-      "price": 158.07,
-      "turnover": 7.34,
-      "change_pct": -0.58,
-      "hot_value": "36696.0",
-      "rank_chg": 1,
+      "code": "600378",
+      "name": "昊华科技",
+      "price": 60.58,
+      "turnover": 8.91,
+      "change_pct": -8.49,
+      "hot_value": "18206.0",
+      "rank_chg": -1,
       "popularity_tag": "",
       "concept_tags": [
-        "F5G概念",
-        "共封装光学(CPO)"
+        "氟化工概念",
+        "PVDF概念"
       ],
       "analyse": "",
       "xueqiu_rank": 0,
@@ -1337,17 +1337,17 @@
     },
     {
       "rank": 75,
-      "code": "600378",
-      "name": "昊华科技",
-      "price": 60.58,
-      "turnover": 8.91,
-      "change_pct": -8.49,
-      "hot_value": "36637.0",
-      "rank_chg": 1,
-      "popularity_tag": "",
+      "code": "601608",
+      "name": "中信重工",
+      "price": 5.04,
+      "turnover": 1.7,
+      "change_pct": 10.04,
+      "hot_value": "17694.0",
+      "rank_chg": 2,
+      "popularity_tag": "首板涨停",
       "concept_tags": [
-        "氟化工概念",
-        "PVDF概念"
+        "大飞机",
+        "国产航母"
       ],
       "analyse": "",
       "xueqiu_rank": 0,
@@ -1360,8 +1360,8 @@
       "price": 40.06,
       "turnover": 8.97,
       "change_pct": -3.38,
-      "hot_value": "36564.0",
-      "rank_chg": 2,
+      "hot_value": "17638.0",
+      "rank_chg": 3,
       "popularity_tag": "",
       "concept_tags": [
         "氟化工概念",
@@ -1373,121 +1373,13 @@
     },
     {
       "rank": 77,
-      "code": "600396",
-      "name": "华电辽能",
-      "price": 12.9,
-      "turnover": 13.78,
-      "change_pct": 5.56,
-      "hot_value": "36539.0",
-      "rank_chg": 0,
-      "popularity_tag": "",
-      "concept_tags": [
-        "超超临界发电",
-        "绿色电力"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 78,
-      "code": "002714",
-      "name": "牧原股份",
-      "price": 38.14,
-      "turnover": 2.63,
-      "change_pct": 2.78,
-      "hot_value": "36509.0",
-      "rank_chg": -4,
-      "popularity_tag": "",
-      "concept_tags": [
-        "猪肉",
-        "同花顺漂亮100"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 79,
-      "code": "600703",
-      "name": "三安光电",
-      "price": 16.94,
-      "turnover": 6.66,
-      "change_pct": -4.83,
-      "hot_value": "35709.0",
-      "rank_chg": 1,
-      "popularity_tag": "",
-      "concept_tags": [
-        "共封装光学(CPO)",
-        "第三代半导体"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 80,
-      "code": "603259",
-      "name": "药明康德",
-      "price": 123.3,
-      "turnover": 2.76,
-      "change_pct": 1.84,
-      "hot_value": "35674.0",
-      "rank_chg": -1,
-      "popularity_tag": "",
-      "concept_tags": [
-        "创新药",
-        "CRO概念"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 81,
-      "code": "603823",
-      "name": "百合花",
-      "price": 66.16,
-      "turnover": 6.12,
-      "change_pct": -4.28,
-      "hot_value": "35585.0",
-      "rank_chg": 0,
-      "popularity_tag": "",
-      "concept_tags": [
-        "光刻胶",
-        "PEEK材料"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 82,
-      "code": "600745",
-      "name": "*ST闻泰",
-      "price": 20.84,
-      "turnover": 8.95,
-      "change_pct": 7.92,
-      "hot_value": "34705.0",
-      "rank_chg": 2,
-      "popularity_tag": "",
-      "concept_tags": [
-        "ST板块",
-        "同花顺漂亮100"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 83,
       "code": "002558",
       "name": "巨人网络",
       "price": 29.56,
       "turnover": 7.66,
       "change_pct": 4.38,
-      "hot_value": "34373.0",
-      "rank_chg": -1,
+      "hot_value": "17621.0",
+      "rank_chg": -2,
       "popularity_tag": "",
       "concept_tags": [
         "电子竞技",
@@ -1498,14 +1390,14 @@
       "browse_rank": 0
     },
     {
-      "rank": 84,
+      "rank": 78,
       "code": "601899",
       "name": "紫金矿业",
       "price": 27.72,
       "turnover": 1.29,
       "change_pct": 0.36,
-      "hot_value": "34344.0",
-      "rank_chg": 1,
+      "hot_value": "17544.0",
+      "rank_chg": 0,
       "popularity_tag": "",
       "concept_tags": [
         "金属铅",
@@ -1516,31 +1408,67 @@
       "browse_rank": 0
     },
     {
-      "rank": 85,
-      "code": "002050",
-      "name": "三花智控",
-      "price": 43.2,
-      "turnover": 3.04,
-      "change_pct": 0.82,
-      "hot_value": "34135.0",
-      "rank_chg": -2,
+      "rank": 79,
+      "code": "000034",
+      "name": "神州数码",
+      "price": 29.62,
+      "turnover": 12.27,
+      "change_pct": 2.74,
+      "hot_value": "17375.0",
+      "rank_chg": -3,
       "popularity_tag": "",
       "concept_tags": [
-        "人形机器人",
-        "汽车热管理"
+        "算力租赁",
+        "华为昇腾"
       ],
       "analyse": "",
       "xueqiu_rank": 0,
       "browse_rank": 0
     },
     {
-      "rank": 86,
+      "rank": 80,
+      "code": "600343",
+      "name": "航天动力",
+      "price": 27.72,
+      "turnover": 6.59,
+      "change_pct": 10.0,
+      "hot_value": "17149.0",
+      "rank_chg": 1,
+      "popularity_tag": "首板涨停",
+      "concept_tags": [
+        "军民融合",
+        "大飞机"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 81,
+      "code": "600745",
+      "name": "*ST闻泰",
+      "price": 20.84,
+      "turnover": 8.95,
+      "change_pct": 7.92,
+      "hot_value": "16929.0",
+      "rank_chg": 3,
+      "popularity_tag": "",
+      "concept_tags": [
+        "ST板块",
+        "同花顺漂亮100"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 82,
       "code": "002038",
       "name": "双鹭药业",
       "price": 6.38,
       "turnover": 8.47,
       "change_pct": 10.0,
-      "hot_value": "33996.0",
+      "hot_value": "16894.0",
       "rank_chg": 0,
       "popularity_tag": "首板涨停",
       "concept_tags": [
@@ -1552,18 +1480,90 @@
       "browse_rank": 0
     },
     {
-      "rank": 87,
-      "code": "002408",
-      "name": "齐翔腾达",
-      "price": 4.9,
-      "turnover": 1.14,
-      "change_pct": 4.26,
-      "hot_value": "33787.0",
+      "rank": 83,
+      "code": "600703",
+      "name": "三安光电",
+      "price": 16.94,
+      "turnover": 6.66,
+      "change_pct": -4.83,
+      "hot_value": "16846.0",
+      "rank_chg": 2,
+      "popularity_tag": "",
+      "concept_tags": [
+        "共封装光学(CPO)",
+        "第三代半导体"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 84,
+      "code": "002714",
+      "name": "牧原股份",
+      "price": 38.14,
+      "turnover": 2.63,
+      "change_pct": 2.78,
+      "hot_value": "16822.0",
+      "rank_chg": -4,
+      "popularity_tag": "",
+      "concept_tags": [
+        "猪肉",
+        "同花顺漂亮100"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 85,
+      "code": "002281",
+      "name": "光迅科技",
+      "price": 233.45,
+      "turnover": 7.52,
+      "change_pct": -2.11,
+      "hot_value": "16792.0",
+      "rank_chg": -2,
+      "popularity_tag": "2天1板",
+      "concept_tags": [
+        "F5G概念",
+        "光纤概念"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 86,
+      "code": "603259",
+      "name": "药明康德",
+      "price": 123.3,
+      "turnover": 2.76,
+      "change_pct": 1.84,
+      "hot_value": "16755.0",
       "rank_chg": 0,
       "popularity_tag": "",
       "concept_tags": [
-        "环氧丙烷",
-        "可降解塑料"
+        "创新药",
+        "CRO概念"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 87,
+      "code": "000988",
+      "name": "华工科技",
+      "price": 158.07,
+      "turnover": 7.34,
+      "change_pct": -0.58,
+      "hot_value": "16599.0",
+      "rank_chg": 0,
+      "popularity_tag": "",
+      "concept_tags": [
+        "F5G概念",
+        "共封装光学(CPO)"
       ],
       "analyse": "",
       "xueqiu_rank": 0,
@@ -1571,17 +1571,17 @@
     },
     {
       "rank": 88,
-      "code": "000100",
-      "name": "TCL科技",
-      "price": 5.12,
-      "turnover": 6.5,
-      "change_pct": -4.48,
-      "hot_value": "33016.0",
-      "rank_chg": 1,
-      "popularity_tag": "",
+      "code": "600759",
+      "name": "ST洲际",
+      "price": 2.52,
+      "turnover": 9.29,
+      "change_pct": 2.44,
+      "hot_value": "16495.0",
+      "rank_chg": 0,
+      "popularity_tag": "8天5板",
       "concept_tags": [
-        "MicroLED概念",
-        "柔性屏(折叠屏)"
+        "俄乌冲突概念",
+        "天然气"
       ],
       "analyse": "",
       "xueqiu_rank": 0,
@@ -1594,8 +1594,8 @@
       "price": 26.32,
       "turnover": 8.71,
       "change_pct": 9.99,
-      "hot_value": "32991.0",
-      "rank_chg": -1,
+      "hot_value": "16209.0",
+      "rank_chg": 0,
       "popularity_tag": "首板涨停",
       "concept_tags": [
         "智能座舱",
@@ -1607,17 +1607,17 @@
     },
     {
       "rank": 90,
-      "code": "605589",
-      "name": "圣泉集团",
-      "price": 52.38,
-      "turnover": 5.27,
-      "change_pct": -5.3,
-      "hot_value": "32644.0",
+      "code": "000100",
+      "name": "TCL科技",
+      "price": 5.12,
+      "turnover": 6.5,
+      "change_pct": -4.48,
+      "hot_value": "16130.0",
       "rank_chg": 0,
       "popularity_tag": "",
       "concept_tags": [
-        "光刻胶",
-        "先进封装"
+        "MicroLED概念",
+        "柔性屏(折叠屏)"
       ],
       "analyse": "",
       "xueqiu_rank": 0,
@@ -1625,31 +1625,13 @@
     },
     {
       "rank": 91,
-      "code": "300475",
-      "name": "香农芯创",
-      "price": 271.0,
-      "turnover": 9.65,
-      "change_pct": 1.13,
-      "hot_value": "32529.0",
-      "rank_chg": 0,
-      "popularity_tag": "",
-      "concept_tags": [
-        "存储芯片",
-        "芯片概念"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 92,
       "code": "002129",
       "name": "TCL中环",
       "price": 10.66,
       "turnover": 8.5,
       "change_pct": -3.35,
-      "hot_value": "32095.0",
-      "rank_chg": 1,
+      "hot_value": "16085.0",
+      "rank_chg": 0,
       "popularity_tag": "",
       "concept_tags": [
         "BC电池",
@@ -1660,18 +1642,36 @@
       "browse_rank": 0
     },
     {
-      "rank": 93,
-      "code": "300476",
-      "name": "胜宏科技",
-      "price": 272.0,
-      "turnover": 5.7,
-      "change_pct": -8.32,
-      "hot_value": "31898.0",
-      "rank_chg": 1,
+      "rank": 92,
+      "code": "600105",
+      "name": "永鼎股份",
+      "price": 49.04,
+      "turnover": 9.52,
+      "change_pct": -3.2,
+      "hot_value": "16020.0",
+      "rank_chg": 8,
       "popularity_tag": "",
       "concept_tags": [
         "共封装光学(CPO)",
-        "PCB概念"
+        "光纤概念"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 93,
+      "code": "002674",
+      "name": "兴业科技",
+      "price": 30.8,
+      "turnover": 10.93,
+      "change_pct": -0.03,
+      "hot_value": "15854.0",
+      "rank_chg": -1,
+      "popularity_tag": "16天8板",
+      "concept_tags": [
+        "华为汽车",
+        "PPP概念"
       ],
       "analyse": "",
       "xueqiu_rank": 0,
@@ -1679,85 +1679,13 @@
     },
     {
       "rank": 94,
-      "code": "600673",
-      "name": "东阳光",
-      "price": 37.15,
-      "turnover": 2.81,
-      "change_pct": -3.1,
-      "hot_value": "31895.0",
-      "rank_chg": 1,
-      "popularity_tag": "",
-      "concept_tags": [
-        "算力租赁",
-        "东数西算(算力)"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 95,
-      "code": "600900",
-      "name": "长江电力",
-      "price": 28.03,
-      "turnover": 0.6,
-      "change_pct": 0.94,
-      "hot_value": "31705.0",
-      "rank_chg": -3,
-      "popularity_tag": "",
-      "concept_tags": [
-        "高股息精选",
-        "同花顺中特估100"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 96,
-      "code": "001309",
-      "name": "德明利",
-      "price": 799.98,
-      "turnover": 9.14,
-      "change_pct": -7.03,
-      "hot_value": "31466.0",
-      "rank_chg": 1,
-      "popularity_tag": "",
-      "concept_tags": [
-        "存储芯片",
-        "中芯国际概念"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 97,
-      "code": "600759",
-      "name": "ST洲际",
-      "price": 2.52,
-      "turnover": 9.29,
-      "change_pct": 2.44,
-      "hot_value": "31318.0",
+      "code": "002131",
+      "name": "利欧股份",
+      "price": 4.61,
+      "turnover": 12.89,
+      "change_pct": 5.98,
+      "hot_value": "15795.0",
       "rank_chg": -1,
-      "popularity_tag": "8天5板",
-      "concept_tags": [
-        "俄乌冲突概念",
-        "天然气"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 98,
-      "code": "300058",
-      "name": "蓝色光标",
-      "price": 13.81,
-      "turnover": 15.84,
-      "change_pct": 6.81,
-      "hot_value": "30829.0",
-      "rank_chg": 0,
       "popularity_tag": "",
       "concept_tags": [
         "快手概念",
@@ -1768,18 +1696,90 @@
       "browse_rank": 0
     },
     {
-      "rank": 99,
-      "code": "002674",
-      "name": "兴业科技",
-      "price": 30.8,
-      "turnover": 10.93,
-      "change_pct": -0.03,
-      "hot_value": "30725.0",
+      "rank": 95,
+      "code": "002119",
+      "name": "康强电子",
+      "price": 32.23,
+      "turnover": 15.79,
+      "change_pct": -7.52,
+      "hot_value": "15496.0",
       "rank_chg": 2,
-      "popularity_tag": "16天8板",
+      "popularity_tag": "",
       "concept_tags": [
-        "华为汽车",
-        "PPP概念"
+        "存储芯片",
+        "先进封装"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 96,
+      "code": "600673",
+      "name": "东阳光",
+      "price": 37.15,
+      "turnover": 2.81,
+      "change_pct": -3.1,
+      "hot_value": "15379.0",
+      "rank_chg": -2,
+      "popularity_tag": "",
+      "concept_tags": [
+        "算力租赁",
+        "东数西算(算力)"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 97,
+      "code": "001309",
+      "name": "德明利",
+      "price": 799.98,
+      "turnover": 9.14,
+      "change_pct": -7.03,
+      "hot_value": "15299.0",
+      "rank_chg": -2,
+      "popularity_tag": "",
+      "concept_tags": [
+        "存储芯片",
+        "中芯国际概念"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 98,
+      "code": "002815",
+      "name": "崇达技术",
+      "price": 18.08,
+      "turnover": 22.54,
+      "change_pct": 5.42,
+      "hot_value": "15179.0",
+      "rank_chg": 1,
+      "popularity_tag": "2天1板",
+      "concept_tags": [
+        "PCB概念",
+        "共封装光学(CPO)"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 99,
+      "code": "002050",
+      "name": "三花智控",
+      "price": 43.2,
+      "turnover": 3.04,
+      "change_pct": 0.82,
+      "hot_value": "15055.0",
+      "rank_chg": -1,
+      "popularity_tag": "",
+      "concept_tags": [
+        "人形机器人",
+        "汽车热管理"
       ],
       "analyse": "",
       "xueqiu_rank": 0,
@@ -1792,8 +1792,8 @@
       "price": 55.75,
       "turnover": 2.09,
       "change_pct": 0.25,
-      "hot_value": "30293.0",
-      "rank_chg": 0,
+      "hot_value": "14879.0",
+      "rank_chg": -4,
       "popularity_tag": "",
       "concept_tags": [
         "创新药",
