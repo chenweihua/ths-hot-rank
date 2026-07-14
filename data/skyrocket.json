@@ -1,14 +1,336 @@
 {
-  "update_time": "2026-07-14 04:11:04",
+  "update_time": "2026-07-14 06:35:59",
   "source": "同花顺飙升榜",
   "total": 100,
   "data": [
     {
       "rank": 1,
+      "code": "601899",
+      "name": "紫金矿业",
+      "rate": "142932.5",
+      "change_pct": 5.92,
+      "hot_rank_chg": 7,
+      "popularity_tag": "",
+      "concept_tags": [
+        "金属铅",
+        "金属锌"
+      ],
+      "analyse": ""
+    },
+    {
+      "rank": 2,
+      "code": "603137",
+      "name": "恒尚节能",
+      "rate": "128271.5",
+      "change_pct": 9.96,
+      "hot_rank_chg": 6,
+      "popularity_tag": "10天8板",
+      "concept_tags": [
+        "装配式建筑",
+        "建筑节能"
+      ],
+      "analyse": ""
+    },
+    {
+      "rank": 3,
+      "code": "601600",
+      "name": "中国铝业",
+      "rate": "113664.0",
+      "change_pct": 8.51,
+      "hot_rank_chg": 12,
+      "popularity_tag": "",
+      "concept_tags": [
+        "小金属概念",
+        "稀土永磁"
+      ],
+      "analyse": ""
+    },
+    {
+      "rank": 4,
+      "code": "603127",
+      "name": "昭衍新药",
+      "rate": "112492.0",
+      "change_pct": 6.63,
+      "hot_rank_chg": 6,
+      "popularity_tag": "",
+      "concept_tags": [
+        "CRO概念",
+        "细胞免疫治疗"
+      ],
+      "analyse": ""
+    },
+    {
+      "rank": 5,
+      "code": "002594",
+      "name": "比亚迪",
+      "rate": "93078.0",
+      "change_pct": 3.98,
+      "hot_rank_chg": 12,
+      "popularity_tag": "",
+      "concept_tags": [
+        "超级品牌",
+        "同花顺漂亮100"
+      ],
+      "analyse": ""
+    },
+    {
+      "rank": 6,
+      "code": "003020",
+      "name": "立方制药",
+      "rate": "89492.5",
+      "change_pct": 0.39,
+      "hot_rank_chg": 18,
+      "popularity_tag": "4天3板",
+      "concept_tags": [
+        "仿制药一致性评价",
+        "肝炎概念"
+      ],
+      "analyse": ""
+    },
+    {
+      "rank": 7,
+      "code": "002821",
+      "name": "凯莱英",
+      "rate": "83936.5",
+      "change_pct": 7.12,
+      "hot_rank_chg": 20,
+      "popularity_tag": "",
+      "concept_tags": [
+        "CRO概念",
+        "减肥药"
+      ],
+      "analyse": ""
+    },
+    {
+      "rank": 8,
+      "code": "600362",
+      "name": "江西铜业",
+      "rate": "83750.0",
+      "change_pct": 9.1,
+      "hot_rank_chg": 8,
+      "popularity_tag": "",
+      "concept_tags": [
+        "黄金概念",
+        "金属铜"
+      ],
+      "analyse": ""
+    },
+    {
+      "rank": 9,
+      "code": "600759",
+      "name": "ST洲际",
+      "rate": "67761.0",
+      "change_pct": 10.07,
+      "hot_rank_chg": 10,
+      "popularity_tag": "10天5板",
+      "concept_tags": [
+        "俄乌冲突概念",
+        "天然气"
+      ],
+      "analyse": ""
+    },
+    {
+      "rank": 10,
+      "code": "601336",
+      "name": "新华保险",
+      "rate": "52253.5",
+      "change_pct": 4.21,
+      "hot_rank_chg": 52,
+      "popularity_tag": "",
+      "concept_tags": [
+        "证金持股",
+        "互联网保险"
+      ],
+      "analyse": ""
+    },
+    {
+      "rank": 11,
+      "code": "603993",
+      "name": "洛阳钼业",
+      "rate": "52196.0",
+      "change_pct": 7.41,
+      "hot_rank_chg": 4,
+      "popularity_tag": "",
+      "concept_tags": [
+        "黄金概念",
+        "金属铜"
+      ],
+      "analyse": ""
+    },
+    {
+      "rank": 12,
+      "code": "600129",
+      "name": "太极集团",
+      "rate": "47875.0",
+      "change_pct": 0.06,
+      "hot_rank_chg": 12,
+      "popularity_tag": "",
+      "concept_tags": [
+        "禽流感",
+        "医药电商"
+      ],
+      "analyse": ""
+    },
+    {
+      "rank": 13,
+      "code": "603313",
+      "name": "梦百合",
+      "rate": "41904.0",
+      "change_pct": 8.64,
+      "hot_rank_chg": 7,
+      "popularity_tag": "2天1板",
+      "concept_tags": [
+        "跨境电商",
+        "C2M概念"
+      ],
+      "analyse": ""
+    },
+    {
+      "rank": 14,
+      "code": "000630",
+      "name": "铜陵有色",
+      "rate": "41659.0",
+      "change_pct": 5.29,
+      "hot_rank_chg": 8,
+      "popularity_tag": "",
+      "concept_tags": [
+        "金属铜",
+        "黄金概念"
+      ],
+      "analyse": ""
+    },
+    {
+      "rank": 15,
+      "code": "603259",
+      "name": "药明康德",
+      "rate": "41508.0",
+      "change_pct": 5.42,
+      "hot_rank_chg": 3,
+      "popularity_tag": "",
+      "concept_tags": [
+        "创新药",
+        "CRO概念"
+      ],
+      "analyse": ""
+    },
+    {
+      "rank": 16,
+      "code": "000807",
+      "name": "云铝股份",
+      "rate": "37358.5",
+      "change_pct": 8.67,
+      "hot_rank_chg": 7,
+      "popularity_tag": "",
+      "concept_tags": [
+        "俄乌冲突概念",
+        "西部大开发"
+      ],
+      "analyse": ""
+    },
+    {
+      "rank": 17,
+      "code": "002379",
+      "name": "宏桥控股",
+      "rate": "37349.0",
+      "change_pct": 10.0,
+      "hot_rank_chg": 13,
+      "popularity_tag": "2天2板",
+      "concept_tags": [
+        "金属回收",
+        "深股通"
+      ],
+      "analyse": "行业原因：\n1、据期货日报7月13日报道，中国铝业、云铝股份等多家上市铝企公布上半年业绩预告，净利润普遍翻倍，行业景气度高涨，核心驱动来自电解铝价格上涨及氧化铝等原材料成本大幅下降。\n2、据国信期货7月10日研报，中东局势再次发酵，打破了市场对铝供应顺畅恢复的乐观预期，前期地缘溢价重新回归定价体系，叠加宏观风险偏好修复，共同推动铝价进入阶段性反弹。\n公司原因：\n1、据2026年7月11日公告，公司预计2026年上半年归母净利润150亿元至160亿元，同比增长69.72%至81.04%，主要因电解铝市场销售价格同比大幅上涨，相关业务毛利显著提升，且借款规模缩减使财务利息支出大幅减少。\n2、据2026年5月22日投资者关系活动记录表，公司是铝产业链龙头，2025年电解铝业务营收占比68%，未来仍将聚焦电解铝主业，在电解铝全球供需紧平衡及铝价中枢上行趋势下，公司对全年业绩表现充满信心。\n3、据2026年3月27日业绩说明会，公司已完成重大资产重组，转型为集氧化铝、电解铝及铝深加工于一体的全产业链企业，具备全产业链布局带来的成本优势。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+    },
+    {
+      "rank": 18,
+      "code": "002532",
+      "name": "天山铝业",
+      "rate": "35026.5",
+      "change_pct": 9.96,
+      "hot_rank_chg": 30,
+      "popularity_tag": "首板涨停",
+      "concept_tags": [
+        "俄乌冲突概念",
+        "钠离子电池"
+      ],
+      "analyse": "行业原因：\n1、据期货日报7月13日报道，中国铝业、云铝股份等多家上市铝企公布上半年业绩预告，净利润普遍翻倍，行业景气度高涨，核心驱动来自电解铝价格上涨及氧化铝等原材料成本大幅下降。\n2、据国信期货7月10日研报，中东局势再次发酵，打破了市场对铝供应顺畅恢复的乐观预期，前期地缘溢价重新回归定价体系，叠加宏观风险偏好修复，共同推动铝价进入阶段性反弹。\n公司原因：\n1、据2026年7月6日公告，公司预计2026年上半年归母净利润42亿元，同比增长101.52%，主要因电解铝销售价格上行、140万吨能效提升项目推进及高纯铝、铝箔产品量价齐升。\n2、公司拥有铝土矿、氧化铝、发电、电解铝、高纯铝、铝箔的全产业链一体化布局，具备低成本竞争优势，是国内单厂规模第二大的电解铝龙头企业。\n3、据2026年7月11日公告，公司已完成2至3亿元股份回购，回购股份拟用于员工持股计划或股权激励。\n4、公司铝箔产品应用于新能源汽车、储能等领域，2025年铝箔产量同比增长283.73%，2026年计划产量25万吨，有望成为新盈利增长点。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+    },
+    {
+      "rank": 19,
+      "code": "600497",
+      "name": "驰宏锌锗",
+      "rate": "31662.5",
+      "change_pct": 9.33,
+      "hot_rank_chg": 6,
+      "popularity_tag": "",
+      "concept_tags": [
+        "金属锌",
+        "金属铅"
+      ],
+      "analyse": ""
+    },
+    {
+      "rank": 20,
+      "code": "300164",
+      "name": "通源石油",
+      "rate": "31566.5",
+      "change_pct": 20.04,
+      "hot_rank_chg": 3,
+      "popularity_tag": "首板涨停",
+      "concept_tags": [
+        "页岩气",
+        "俄乌冲突概念"
+      ],
+      "analyse": "行业原因：\n据央视新闻，当地时间7月13日，美国总统特朗普发文表示，美国将重新实施“针对伊朗的封锁”，该措施仅针对伊朗的船只或客户，限制其进出霍尔木兹海峡，其他所有国家均可公平、公开地使用该海峡。他还表示，美国将针对所有经由此处运输的货物收取20%的费用，相关流程与部署工作将立即启动。\n公司原因：\n1、据2026年6月9日公告，公司成功中标阿尔及利亚国家石油公司多相混输泵泵送与淡化盐水注入服务项目，合同期4年，合计金额约1.50亿美元。该项目属老油田稳产核心刚需服务，覆盖其全自营陆上油田。\n2、据2025年年报及2026年5月20日投资者关系活动记录表，公司此前中标的阿尔及利亚EPF和天然气压缩机项目合同金额1.26亿美元正等待甲方推进合同签署，标志公司天然气回收处理业务成功进军海外市场。\n3、据2025年年报，公司是油气田开发解决方案和技术服务提供商，以射孔为核心业务，具备钻完井一体化全产业链服务能力，北美业务为经营压舱石；国内天然气回收处理业务累计已投产14口井。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+    },
+    {
+      "rank": 21,
+      "code": "603669",
+      "name": "灵康药业",
+      "rate": "29396.0",
+      "change_pct": 6.47,
+      "hot_rank_chg": 30,
+      "popularity_tag": "2天1板",
+      "concept_tags": [
+        "阿尔茨海默概念",
+        "仿制药一致性评价"
+      ],
+      "analyse": ""
+    },
+    {
+      "rank": 22,
+      "code": "300534",
+      "name": "陇神戎发",
+      "rate": "28337.0",
+      "change_pct": 14.22,
+      "hot_rank_chg": 26,
+      "popularity_tag": "2天1板",
+      "concept_tags": [
+        "流感",
+        "医药电商"
+      ],
+      "analyse": ""
+    },
+    {
+      "rank": 23,
+      "code": "300912",
+      "name": "凯龙高科",
+      "rate": "28288.0",
+      "change_pct": 19.98,
+      "hot_rank_chg": 28,
+      "popularity_tag": "首板涨停",
+      "concept_tags": [
+        "人形机器人",
+        "汽车热管理"
+      ],
+      "analyse": "1、据2026年5月26日投资者关系活动记录表，公司布局具身智能相关业务，聚焦人形机器人系列检测设备的研发、生产与销售，推出了“灵巧手操作力动态检测”等智能检测设备，并成立无锡市凯奇具身智能机器人科技有限公司，推出“惠灵嘉”系列产品，在“AI+环保”、“AI+教育服务”等多个场景中应用。\n2、据2026年7月4日公告，公司拟以发行股份及支付现金的方式购买深圳市金旺达机电有限公司70%股权，该标的专注研发与生产精密传动功能部件，有助于完善公司机器人产业链布局，目前交易各项工作有序推进。\n3、据2025年年度报告，公司是国内最早成功研发、生产柴油机SCR系统的企业之一，完全自主知识产权的国四、国五、国六后处理系统首台套诞生于凯龙高科，是全国发动机标准化技术委员会/柴油机SCR尾气后处理工作组召集单位。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+    },
+    {
+      "rank": 24,
       "code": "603538",
       "name": "美诺华",
-      "rate": "84310.0",
-      "change_pct": 3.7,
+      "rate": "26905.5",
+      "change_pct": 6.85,
       "hot_rank_chg": 0,
       "popularity_tag": "",
       "concept_tags": [
@@ -18,656 +340,82 @@
       "analyse": ""
     },
     {
-      "rank": 2,
-      "code": "001248",
-      "name": "华润新能源",
-      "rate": "65909.5",
-      "change_pct": 2.3,
-      "hot_rank_chg": 2,
-      "popularity_tag": "",
-      "concept_tags": [
-        "新股与次新股",
-        "注册制次新股"
-      ],
-      "analyse": ""
-    },
-    {
-      "rank": 3,
-      "code": "002317",
-      "name": "众生药业",
-      "rate": "55238.0",
-      "change_pct": -0.95,
-      "hot_rank_chg": 3,
-      "popularity_tag": "",
-      "concept_tags": [
-        "禽流感",
-        "猴痘概念"
-      ],
-      "analyse": ""
-    },
-    {
-      "rank": 4,
-      "code": "002038",
-      "name": "双鹭药业",
-      "rate": "44097.0",
-      "change_pct": 2.98,
-      "hot_rank_chg": 8,
-      "popularity_tag": "",
-      "concept_tags": [
-        "仿制药一致性评价",
-        "创新药"
-      ],
-      "analyse": ""
-    },
-    {
-      "rank": 5,
-      "code": "003020",
-      "name": "立方制药",
-      "rate": "31913.0",
-      "change_pct": 3.54,
-      "hot_rank_chg": 3,
-      "popularity_tag": "4天3板",
-      "concept_tags": [
-        "仿制药一致性评价",
-        "肝炎概念"
-      ],
-      "analyse": ""
-    },
-    {
-      "rank": 6,
-      "code": "600129",
-      "name": "太极集团",
-      "rate": "25065.5",
-      "change_pct": -0.11,
-      "hot_rank_chg": 4,
-      "popularity_tag": "",
-      "concept_tags": [
-        "禽流感",
-        "医药电商"
-      ],
-      "analyse": ""
-    },
-    {
-      "rank": 7,
-      "code": "600488",
-      "name": "津药药业",
-      "rate": "24423.5",
-      "change_pct": 6.31,
-      "hot_rank_chg": 2,
-      "popularity_tag": "",
-      "concept_tags": [
-        "仿制药一致性评价",
-        "创新药"
-      ],
-      "analyse": ""
-    },
-    {
-      "rank": 8,
-      "code": "300164",
-      "name": "通源石油",
-      "rate": "18447.5",
-      "change_pct": 15.19,
-      "hot_rank_chg": 3,
-      "popularity_tag": "",
-      "concept_tags": [
-        "页岩气",
-        "俄乌冲突概念"
-      ],
-      "analyse": ""
-    },
-    {
-      "rank": 9,
-      "code": "301520",
-      "name": "万邦医药",
-      "rate": "13366.5",
-      "change_pct": -6.36,
-      "hot_rank_chg": 5,
-      "popularity_tag": "",
-      "concept_tags": [
-        "仿制药一致性评价",
-        "创新药"
-      ],
-      "analyse": ""
-    },
-    {
-      "rank": 10,
-      "code": "603318",
-      "name": "水发燃气",
-      "rate": "10992.0",
-      "change_pct": 5.38,
-      "hot_rank_chg": 6,
-      "popularity_tag": "2天1板",
-      "concept_tags": [
-        "天然气",
-        "氢能源"
-      ],
-      "analyse": ""
-    },
-    {
-      "rank": 11,
-      "code": "600513",
-      "name": "联环药业",
-      "rate": "8104.0",
-      "change_pct": 3.4,
-      "hot_rank_chg": 8,
-      "popularity_tag": "3天2板",
-      "concept_tags": [
-        "仿制药一致性评价",
-        "创新药"
-      ],
-      "analyse": ""
-    },
-    {
-      "rank": 12,
-      "code": "603127",
-      "name": "昭衍新药",
-      "rate": "7868.5",
-      "change_pct": -1.93,
-      "hot_rank_chg": 5,
-      "popularity_tag": "",
-      "concept_tags": [
-        "CRO概念",
-        "细胞免疫治疗"
-      ],
-      "analyse": ""
-    },
-    {
-      "rank": 13,
-      "code": "601857",
-      "name": "中国石油",
-      "rate": "7535.0",
-      "change_pct": 3.21,
-      "hot_rank_chg": 5,
-      "popularity_tag": "",
-      "concept_tags": [
-        "页岩气",
-        "俄乌冲突概念"
-      ],
-      "analyse": ""
-    },
-    {
-      "rank": 14,
-      "code": "920072",
-      "name": "科莱瑞迪",
-      "rate": "6939.0",
-      "change_pct": 25.55,
-      "hot_rank_chg": 17,
-      "popularity_tag": "",
-      "concept_tags": [
-        "智能医疗",
-        "专精特新"
-      ],
-      "analyse": ""
-    },
-    {
-      "rank": 15,
-      "code": "600703",
-      "name": "三安光电",
-      "rate": "6847.5",
-      "change_pct": -9.09,
-      "hot_rank_chg": 1,
-      "popularity_tag": "",
-      "concept_tags": [
-        "共封装光学(CPO)",
-        "第三代半导体"
-      ],
-      "analyse": ""
-    },
-    {
-      "rank": 16,
-      "code": "002379",
-      "name": "宏桥控股",
-      "rate": "6790.0",
-      "change_pct": 6.79,
-      "hot_rank_chg": 11,
-      "popularity_tag": "2天1板",
-      "concept_tags": [
-        "金属回收",
-        "深股通"
-      ],
-      "analyse": ""
-    },
-    {
-      "rank": 17,
-      "code": "002335",
-      "name": "科华数据",
-      "rate": "5950.5",
-      "change_pct": -3.52,
-      "hot_rank_chg": 18,
-      "popularity_tag": "",
-      "concept_tags": [
-        "液冷服务器",
-        "东数西算(算力)"
-      ],
-      "analyse": ""
-    },
-    {
-      "rank": 18,
-      "code": "002582",
-      "name": "好想你",
-      "rate": "5915.0",
-      "change_pct": 6.17,
-      "hot_rank_chg": 16,
-      "popularity_tag": "",
-      "concept_tags": [
-        "预制菜",
-        "IP经济(谷子经济)"
-      ],
-      "analyse": ""
-    },
-    {
-      "rank": 19,
-      "code": "300287",
-      "name": "飞利信",
-      "rate": "5730.5",
-      "change_pct": 2.66,
-      "hot_rank_chg": 8,
-      "popularity_tag": "",
-      "concept_tags": [
-        "网络安全",
-        "智慧政务"
-      ],
-      "analyse": ""
-    },
-    {
-      "rank": 20,
-      "code": "600595",
-      "name": "中孚实业",
-      "rate": "5459.5",
-      "change_pct": 5.19,
-      "hot_rank_chg": 41,
-      "popularity_tag": "",
-      "concept_tags": [
-        "煤炭概念",
-        "超导概念"
-      ],
-      "analyse": ""
-    },
-    {
-      "rank": 21,
-      "code": "601600",
-      "name": "中国铝业",
-      "rate": "5179.0",
-      "change_pct": 4.44,
-      "hot_rank_chg": 4,
-      "popularity_tag": "",
-      "concept_tags": [
-        "小金属概念",
-        "稀土永磁"
-      ],
-      "analyse": ""
-    },
-    {
-      "rank": 22,
-      "code": "603296",
-      "name": "华勤技术",
-      "rate": "5024.0",
-      "change_pct": -8.93,
-      "hot_rank_chg": 9,
-      "popularity_tag": "",
-      "concept_tags": [
-        "AI PC",
-        "智能音箱"
-      ],
-      "analyse": ""
-    },
-    {
-      "rank": 23,
-      "code": "000034",
-      "name": "神州数码",
-      "rate": "4800.0",
-      "change_pct": -8.12,
-      "hot_rank_chg": 2,
-      "popularity_tag": "",
-      "concept_tags": [
-        "算力租赁",
-        "华为昇腾"
-      ],
-      "analyse": ""
-    },
-    {
-      "rank": 24,
-      "code": "003001",
-      "name": "中岩大地",
-      "rate": "3969.5",
-      "change_pct": 1.49,
-      "hot_rank_chg": 52,
-      "popularity_tag": "",
-      "concept_tags": [
-        "土壤修复",
-        "水利"
-      ],
-      "analyse": ""
-    },
-    {
       "rank": 25,
-      "code": "600722",
-      "name": "金牛化工",
-      "rate": "3769.5",
-      "change_pct": 3.33,
-      "hot_rank_chg": 12,
+      "code": "601162",
+      "name": "天风证券",
+      "rate": "26278.5",
+      "change_pct": 0.79,
+      "hot_rank_chg": 11,
       "popularity_tag": "",
       "concept_tags": [
-        "煤化工概念",
-        "国企改革"
+        "期货概念",
+        "物业管理"
       ],
       "analyse": ""
     },
     {
       "rank": 26,
-      "code": "300483",
-      "name": "首华燃气",
-      "rate": "3696.5",
-      "change_pct": 6.87,
-      "hot_rank_chg": 13,
+      "code": "601318",
+      "name": "中国平安",
+      "rate": "25436.0",
+      "change_pct": 0.04,
+      "hot_rank_chg": 31,
       "popularity_tag": "",
       "concept_tags": [
-        "俄乌冲突概念",
-        "天然气"
+        "证金持股",
+        "同花顺中特估100"
       ],
       "analyse": ""
     },
     {
       "rank": 27,
-      "code": "002472",
-      "name": "双环传动",
-      "rate": "3499.0",
-      "change_pct": 0.47,
-      "hot_rank_chg": 6,
+      "code": "300420",
+      "name": "五洋自控",
+      "rate": "24652.0",
+      "change_pct": -6.23,
+      "hot_rank_chg": 133,
       "popularity_tag": "",
       "concept_tags": [
-        "减速器",
-        "机器人概念"
+        "新型工业化",
+        "智能物流"
       ],
       "analyse": ""
     },
     {
       "rank": 28,
-      "code": "600188",
-      "name": "兖矿能源",
-      "rate": "3332.5",
-      "change_pct": 6.57,
-      "hot_rank_chg": 14,
+      "code": "002497",
+      "name": "雅化集团",
+      "rate": "23801.0",
+      "change_pct": 3.2,
+      "hot_rank_chg": 17,
       "popularity_tag": "",
       "concept_tags": [
-        "煤炭概念",
-        "煤化工概念"
+        "固态电池",
+        "锂电池概念"
       ],
       "analyse": ""
     },
     {
       "rank": 29,
-      "code": "600121",
-      "name": "郑州煤电",
-      "rate": "3305.0",
-      "change_pct": 4.07,
-      "hot_rank_chg": 21,
+      "code": "601628",
+      "name": "中国人寿",
+      "rate": "23088.5",
+      "change_pct": 3.37,
+      "hot_rank_chg": 48,
       "popularity_tag": "",
       "concept_tags": [
-        "煤炭概念",
-        "国企改革"
+        "证金持股",
+        "同花顺中特估100"
       ],
       "analyse": ""
     },
     {
       "rank": 30,
-      "code": "688192",
-      "name": "迪哲医药",
-      "rate": "3294.0",
-      "change_pct": -1.0,
-      "hot_rank_chg": 175,
-      "popularity_tag": "",
-      "concept_tags": [
-        "创新药",
-        "沪股通"
-      ],
-      "analyse": ""
-    },
-    {
-      "rank": 31,
-      "code": "002532",
-      "name": "天山铝业",
-      "rate": "3180.5",
-      "change_pct": 4.4,
-      "hot_rank_chg": 20,
-      "popularity_tag": "",
-      "concept_tags": [
-        "俄乌冲突概念",
-        "钠离子电池"
-      ],
-      "analyse": ""
-    },
-    {
-      "rank": 32,
-      "code": "000677",
-      "name": "ST海龙",
-      "rate": "2867.5",
-      "change_pct": 8.12,
-      "hot_rank_chg": 27,
-      "popularity_tag": "",
-      "concept_tags": [
-        "ST板块",
-        "京津冀一体化"
-      ],
-      "analyse": ""
-    },
-    {
-      "rank": 33,
-      "code": "000807",
-      "name": "云铝股份",
-      "rate": "2853.0",
-      "change_pct": 5.59,
-      "hot_rank_chg": 1,
-      "popularity_tag": "",
-      "concept_tags": [
-        "俄乌冲突概念",
-        "西部大开发"
-      ],
-      "analyse": ""
-    },
-    {
-      "rank": 34,
-      "code": "002907",
-      "name": "华森制药",
-      "rate": "2808.0",
-      "change_pct": 0.69,
-      "hot_rank_chg": 16,
-      "popularity_tag": "",
-      "concept_tags": [
-        "仿制药一致性评价",
-        "医药电商"
-      ],
-      "analyse": ""
-    },
-    {
-      "rank": 35,
-      "code": "002162",
-      "name": "悦心健康",
-      "rate": "2784.0",
-      "change_pct": 10.09,
-      "hot_rank_chg": 3,
-      "popularity_tag": "首板涨停",
-      "concept_tags": [
-        "三胎概念",
-        "职业教育"
-      ],
-      "analyse": "1、据2026年7月14日业绩预告，公司预计2026年上半年归母净利润450万元至600万元，同比增长154.52%至239.37%，主要系康养业务收入同比增长约103%及城市更新业务收入增长约39%所致。\n2、据2026年7月14日业绩预告，公司康养业务增长源于2026年1月并购控股浙江康芮嘉养健康管理有限公司，以及受托运营的上海奉贤区金海悦心颐养院纳入合并报表。\n3、据2026年7月1日投资者关系活动记录表，公司坚定推行“公建民营”合作模式，构建“机构+社区+居家”的区域养老服务网络，目前已落地运营上海奉贤金海悦心颐养院等多个项目，其中奉贤项目入住率达97%以上。\n4、据2026年4月6日投资者关系，2025年公司通过参股投资了上海金矢机器人科技有限公司，并合资设立上海悦心金矢机器人科技有限公司。合资公司将专注于老年人智能护理设备、康复辅助器具等产品的研发与销售。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
-    },
-    {
-      "rank": 36,
-      "code": "600227",
-      "name": "赤天化",
-      "rate": "2505.5",
-      "change_pct": 7.88,
-      "hot_rank_chg": 7,
-      "popularity_tag": "",
-      "concept_tags": [
-        "化肥",
-        "煤化工概念"
-      ],
-      "analyse": ""
-    },
-    {
-      "rank": 37,
-      "code": "600475",
-      "name": "华光环能",
-      "rate": "2481.5",
-      "change_pct": 5.7,
-      "hot_rank_chg": 43,
-      "popularity_tag": "",
-      "concept_tags": [
-        "垃圾分类",
-        "PPP概念"
-      ],
-      "analyse": ""
-    },
-    {
-      "rank": 38,
-      "code": "605196",
-      "name": "华通线缆",
-      "rate": "2304.5",
-      "change_pct": 2.96,
-      "hot_rank_chg": 69,
-      "popularity_tag": "",
-      "concept_tags": [
-        "一带一路",
-        "中俄贸易概念"
-      ],
-      "analyse": ""
-    },
-    {
-      "rank": 39,
-      "code": "603166",
-      "name": "福达股份",
-      "rate": "2285.0",
-      "change_pct": -0.29,
-      "hot_rank_chg": 141,
-      "popularity_tag": "",
-      "concept_tags": [
-        "减速器",
-        "人形机器人"
-      ],
-      "analyse": ""
-    },
-    {
-      "rank": 40,
-      "code": "600546",
-      "name": "山煤国际",
-      "rate": "2149.0",
-      "change_pct": 6.64,
-      "hot_rank_chg": 30,
-      "popularity_tag": "",
-      "concept_tags": [
-        "煤炭概念",
-        "超超临界发电"
-      ],
-      "analyse": ""
-    },
-    {
-      "rank": 41,
-      "code": "600028",
-      "name": "中国石化",
-      "rate": "2115.0",
-      "change_pct": 1.84,
-      "hot_rank_chg": 13,
-      "popularity_tag": "",
-      "concept_tags": [
-        "页岩气",
-        "可燃冰"
-      ],
-      "analyse": ""
-    },
-    {
-      "rank": 42,
-      "code": "301295",
-      "name": "美硕科技",
-      "rate": "2101.5",
-      "change_pct": -18.08,
-      "hot_rank_chg": 38,
-      "popularity_tag": "",
-      "concept_tags": [
-        "专精特新",
-        "智能家居"
-      ],
-      "analyse": ""
-    },
-    {
-      "rank": 43,
-      "code": "601666",
-      "name": "平煤股份",
-      "rate": "1975.5",
-      "change_pct": 5.06,
-      "hot_rank_chg": 70,
-      "popularity_tag": "",
-      "concept_tags": [
-        "煤炭概念",
-        "煤化工概念"
-      ],
-      "analyse": ""
-    },
-    {
-      "rank": 44,
-      "code": "300191",
-      "name": "潜能恒信",
-      "rate": "1934.0",
-      "change_pct": 9.12,
-      "hot_rank_chg": 9,
-      "popularity_tag": "",
-      "concept_tags": [
-        "可燃冰",
-        "俄乌冲突概念"
-      ],
-      "analyse": ""
-    },
-    {
-      "rank": 45,
-      "code": "688256",
-      "name": "寒武纪",
-      "rate": "1920.5",
-      "change_pct": -3.6,
-      "hot_rank_chg": 6,
-      "popularity_tag": "",
-      "concept_tags": [
-        "先进封装",
-        "汽车芯片"
-      ],
-      "analyse": ""
-    },
-    {
-      "rank": 46,
-      "code": "600120",
-      "name": "浙江东方",
-      "rate": "1817.5",
-      "change_pct": 0,
-      "hot_rank_chg": 22,
-      "popularity_tag": "",
-      "concept_tags": [
-        "信托概念",
-        "参股保险"
-      ],
-      "analyse": ""
-    },
-    {
-      "rank": 47,
-      "code": "300274",
-      "name": "阳光电源",
-      "rate": "1659.0",
-      "change_pct": -6.02,
-      "hot_rank_chg": 0,
-      "popularity_tag": "",
-      "concept_tags": [
-        "宁德时代概念",
-        "储能"
-      ],
-      "analyse": ""
-    },
-    {
-      "rank": 48,
       "code": "000933",
       "name": "神火股份",
-      "rate": "1628.0",
-      "change_pct": 3.76,
-      "hot_rank_chg": 5,
+      "rate": "22064.5",
+      "change_pct": 6.49,
+      "hot_rank_chg": 10,
       "popularity_tag": "",
       "concept_tags": [
         "俄乌冲突概念",
@@ -676,30 +424,282 @@
       "analyse": ""
     },
     {
-      "rank": 49,
-      "code": "000651",
-      "name": "格力电器",
-      "rate": "1623.5",
-      "change_pct": 0.49,
-      "hot_rank_chg": 10,
+      "rank": 31,
+      "code": "920088",
+      "name": "科力股份",
+      "rate": "21425.0",
+      "change_pct": 21.96,
+      "hot_rank_chg": 26,
       "popularity_tag": "",
       "concept_tags": [
-        "超级品牌",
-        "高股息精选"
+        "一带一路",
+        "空气能热泵"
+      ],
+      "analyse": ""
+    },
+    {
+      "rank": 32,
+      "code": "603077",
+      "name": "和邦生物",
+      "rate": "20569.0",
+      "change_pct": 10.1,
+      "hot_rank_chg": 14,
+      "popularity_tag": "首板涨停",
+      "concept_tags": [
+        "草甘膦",
+        "磷化工"
+      ],
+      "analyse": "1、据2026年7月14日公告，公司预计2026年半年度实现归母净利润3.70亿元至4.30亿元，同比增加614.68%到730.57%，主要系部分产品价格快速上涨。\n2、据2026年7月14日公告，受地缘冲突影响，黄磷等原材料成本提升及美国将草甘膦纳入关键战略物资，推动草甘膦、双甘膦价格走高，板块利润明显改善。\n3、据2026年7月14日公告，蛋氨酸行业因原料短缺导致供应缺口扩大，价格快速上涨，带动公司蛋氨酸板块利润上升。\n4、据2025年年报，公司拥有马边烟峰磷矿，并通过控股AEV控制澳大利亚最大高品质磷矿Wonarah磷矿，合计拥有62,391万吨储量的磷矿资源。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+    },
+    {
+      "rank": 33,
+      "code": "600988",
+      "name": "赤峰黄金",
+      "rate": "19793.5",
+      "change_pct": 6.22,
+      "hot_rank_chg": 6,
+      "popularity_tag": "",
+      "concept_tags": [
+        "金属铅",
+        "黄金概念"
+      ],
+      "analyse": ""
+    },
+    {
+      "rank": 34,
+      "code": "002466",
+      "name": "天齐锂业",
+      "rate": "19717.0",
+      "change_pct": 3.75,
+      "hot_rank_chg": 7,
+      "popularity_tag": "",
+      "concept_tags": [
+        "盐湖提锂",
+        "小金属概念"
+      ],
+      "analyse": ""
+    },
+    {
+      "rank": 35,
+      "code": "601168",
+      "name": "西部矿业",
+      "rate": "19600.5",
+      "change_pct": 7.36,
+      "hot_rank_chg": 11,
+      "popularity_tag": "",
+      "concept_tags": [
+        "金属锌",
+        "金属铅"
+      ],
+      "analyse": ""
+    },
+    {
+      "rank": 36,
+      "code": "600595",
+      "name": "中孚实业",
+      "rate": "19515.0",
+      "change_pct": 10.03,
+      "hot_rank_chg": 22,
+      "popularity_tag": "首板涨停",
+      "concept_tags": [
+        "煤炭概念",
+        "超导概念"
+      ],
+      "analyse": "行业原因：\n1、据期货日报7月13日报道，中国铝业、云铝股份等多家上市铝企公布上半年业绩预告，净利润普遍翻倍，行业景气度高涨，核心驱动来自电解铝价格上涨及氧化铝等原材料成本大幅下降。\n2、据国信期货7月10日研报，中东局势再次发酵，打破了市场对铝供应顺畅恢复的乐观预期，前期地缘溢价重新回归定价体系，叠加宏观风险偏好修复，共同推动铝价进入阶段性反弹。\n公司原因：\n1、据2026年7月9日公告，公司预计2026年半年度实现归母净利润18亿元至19.5亿元，同比增加154.42%至175.62%；业绩增长主因电解铝价格保持高位运行、一体化产业链协同效应降低综合成本及铝精深加工产销量增长。\n2、据2026年6月30日投资者关系活动记录表，公司电解铝产能为75万吨/年，二季度电解铝价格延续高位运行态势；铝精深加工业务订单充足，处于满负荷生产状态，2026年一季度出口10.63万吨，出口规模位居全国同类产品前列。\n3、据2025年年报及2026年6月30日投资者关系活动记录表，公司已构建“高效协同煤电铝+绿色水电铝+再生铝+铝精深加工”产业链布局，主要产品涵盖易拉罐罐体料、新能源电池铝塑膜用铝箔、汽车板用铝等。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+    },
+    {
+      "rank": 37,
+      "code": "600989",
+      "name": "宝丰能源",
+      "rate": "19398.5",
+      "change_pct": 6.37,
+      "hot_rank_chg": 9,
+      "popularity_tag": "",
+      "concept_tags": [
+        "煤化工概念",
+        "煤炭概念"
+      ],
+      "analyse": ""
+    },
+    {
+      "rank": 38,
+      "code": "300191",
+      "name": "潜能恒信",
+      "rate": "18971.0",
+      "change_pct": 15.31,
+      "hot_rank_chg": 6,
+      "popularity_tag": "",
+      "concept_tags": [
+        "可燃冰",
+        "俄乌冲突概念"
+      ],
+      "analyse": ""
+    },
+    {
+      "rank": 39,
+      "code": "300332",
+      "name": "天壕能源",
+      "rate": "18948.5",
+      "change_pct": 5.62,
+      "hot_rank_chg": 40,
+      "popularity_tag": "",
+      "concept_tags": [
+        "页岩气",
+        "天然气"
+      ],
+      "analyse": ""
+    },
+    {
+      "rank": 40,
+      "code": "002258",
+      "name": "利尔化学",
+      "rate": "18614.5",
+      "change_pct": -4.65,
+      "hot_rank_chg": 61,
+      "popularity_tag": "",
+      "concept_tags": [
+        "草甘膦",
+        "国企改革"
+      ],
+      "analyse": ""
+    },
+    {
+      "rank": 41,
+      "code": "000960",
+      "name": "锡业股份",
+      "rate": "17241.5",
+      "change_pct": 5.47,
+      "hot_rank_chg": 3,
+      "popularity_tag": "",
+      "concept_tags": [
+        "金属锌",
+        "金属铅"
+      ],
+      "analyse": ""
+    },
+    {
+      "rank": 42,
+      "code": "000301",
+      "name": "东方盛虹",
+      "rate": "16814.5",
+      "change_pct": 7.81,
+      "hot_rank_chg": 26,
+      "popularity_tag": "",
+      "concept_tags": [
+        "环氧丙烷",
+        "POE胶膜"
+      ],
+      "analyse": ""
+    },
+    {
+      "rank": 43,
+      "code": "002546",
+      "name": "新联电子",
+      "rate": "16728.0",
+      "change_pct": 6.24,
+      "hot_rank_chg": 28,
+      "popularity_tag": "",
+      "concept_tags": [
+        "电力物联网",
+        "智能电网"
+      ],
+      "analyse": ""
+    },
+    {
+      "rank": 44,
+      "code": "300274",
+      "name": "阳光电源",
+      "rate": "16710.0",
+      "change_pct": 0.18,
+      "hot_rank_chg": 4,
+      "popularity_tag": "",
+      "concept_tags": [
+        "宁德时代概念",
+        "储能"
+      ],
+      "analyse": ""
+    },
+    {
+      "rank": 45,
+      "code": "600111",
+      "name": "北方稀土",
+      "rate": "16470.5",
+      "change_pct": 1.8,
+      "hot_rank_chg": 4,
+      "popularity_tag": "",
+      "concept_tags": [
+        "稀土永磁",
+        "小金属概念"
+      ],
+      "analyse": ""
+    },
+    {
+      "rank": 46,
+      "code": "600909",
+      "name": "华安证券",
+      "rate": "16446.5",
+      "change_pct": 5.15,
+      "hot_rank_chg": 7,
+      "popularity_tag": "",
+      "concept_tags": [
+        "期货概念",
+        "国企改革"
+      ],
+      "analyse": ""
+    },
+    {
+      "rank": 47,
+      "code": "600309",
+      "name": "万华化学",
+      "rate": "16126.5",
+      "change_pct": 3.91,
+      "hot_rank_chg": 20,
+      "popularity_tag": "",
+      "concept_tags": [
+        "煤化工概念",
+        "环氧丙烷"
+      ],
+      "analyse": ""
+    },
+    {
+      "rank": 48,
+      "code": "002490",
+      "name": "山东墨龙",
+      "rate": "16098.0",
+      "change_pct": 6.9,
+      "hot_rank_chg": 11,
+      "popularity_tag": "",
+      "concept_tags": [
+        "页岩气",
+        "天然气"
+      ],
+      "analyse": ""
+    },
+    {
+      "rank": 49,
+      "code": "000776",
+      "name": "广发证券",
+      "rate": "15594.5",
+      "change_pct": 3.11,
+      "hot_rank_chg": 43,
+      "popularity_tag": "",
+      "concept_tags": [
+        "期货概念",
+        "证金持股"
       ],
       "analyse": ""
     },
     {
       "rank": 50,
-      "code": "603367",
-      "name": "辰欣药业",
-      "rate": "1622.0",
-      "change_pct": 6.19,
-      "hot_rank_chg": 30,
+      "code": "603687",
+      "name": "大胜达",
+      "rate": "15284.5",
+      "change_pct": 6.8,
+      "hot_rank_chg": 20,
       "popularity_tag": "",
       "concept_tags": [
-        "仿制药一致性评价",
-        "流感"
+        "钙钛矿电池",
+        "烟草"
       ],
       "analyse": ""
     }
