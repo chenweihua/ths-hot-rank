@@ -1,821 +1,807 @@
 {
-  "update_time": "2026-07-22 10:02:04",
+  "update_time": "2026-07-22 12:12:49",
   "data": [
-    {
-      "name": "算力租赁",
-      "zt_count": 2,
-      "total_in_rank": 5,
-      "total_hot": 1073926.0,
-      "stocks": [
-        {
-          "code": "000815",
-          "name": "美利云",
-          "change_pct": 10.03,
-          "hot_value": "176156.0",
-          "is_zt": true
-        },
-        {
-          "code": "603629",
-          "name": "利通电子",
-          "change_pct": 10.0,
-          "hot_value": "145974.0",
-          "is_zt": true
-        },
-        {
-          "code": "000938",
-          "name": "紫光股份",
-          "change_pct": 8.3,
-          "hot_value": "510922.0",
-          "is_zt": false
-        },
-        {
-          "code": "000889",
-          "name": "中嘉博创",
-          "change_pct": 5.0,
-          "hot_value": "59984.0",
-          "is_zt": false
-        },
-        {
-          "code": "000977",
-          "name": "浪潮信息",
-          "change_pct": 2.04,
-          "hot_value": "180890.0",
-          "is_zt": false
-        }
-      ],
-      "avg_hot": 214785.2
-    },
     {
       "name": "WiFi 6",
       "zt_count": 2,
       "total_in_rank": 4,
-      "total_hot": 924548.0,
+      "total_hot": 873127.0,
       "stocks": [
         {
           "code": "301165",
           "name": "锐捷网络",
           "change_pct": 13.66,
-          "hot_value": "79340.0",
+          "hot_value": "83409.0",
           "is_zt": true
         },
         {
           "code": "603118",
           "name": "共进股份",
           "change_pct": 9.98,
-          "hot_value": "157922.0",
+          "hot_value": "136536.0",
           "is_zt": true
         },
         {
           "code": "002396",
           "name": "星网锐捷",
           "change_pct": 9.43,
-          "hot_value": "176364.0",
+          "hot_value": "175726.0",
           "is_zt": false
         },
         {
           "code": "000938",
           "name": "紫光股份",
           "change_pct": 8.3,
-          "hot_value": "510922.0",
+          "hot_value": "477456.0",
           "is_zt": false
         }
       ],
-      "avg_hot": 231137.0
+      "avg_hot": 218281.75
+    },
+    {
+      "name": "算力租赁",
+      "zt_count": 2,
+      "total_in_rank": 4,
+      "total_hot": 950398.0,
+      "stocks": [
+        {
+          "code": "000815",
+          "name": "美利云",
+          "change_pct": 10.03,
+          "hot_value": "150335.0",
+          "is_zt": true
+        },
+        {
+          "code": "603629",
+          "name": "利通电子",
+          "change_pct": 10.0,
+          "hot_value": "138301.0",
+          "is_zt": true
+        },
+        {
+          "code": "000938",
+          "name": "紫光股份",
+          "change_pct": 8.3,
+          "hot_value": "477456.0",
+          "is_zt": false
+        },
+        {
+          "code": "000977",
+          "name": "浪潮信息",
+          "change_pct": 2.04,
+          "hot_value": "184306.0",
+          "is_zt": false
+        }
+      ],
+      "avg_hot": 237599.5
     },
     {
       "name": "绿色电力",
       "zt_count": 2,
       "total_in_rank": 3,
-      "total_hot": 444736.0,
+      "total_hot": 469169.0,
       "stocks": [
         {
           "code": "600396",
           "name": "华电辽能",
           "change_pct": 10.03,
-          "hot_value": "139408.0",
+          "hot_value": "166863.0",
           "is_zt": true
         },
         {
           "code": "001258",
           "name": "立新能源",
           "change_pct": 9.99,
-          "hot_value": "172937.0",
+          "hot_value": "152257.0",
           "is_zt": true
         },
         {
           "code": "601991",
           "name": "大唐发电",
           "change_pct": 4.98,
-          "hot_value": "132391.0",
+          "hot_value": "150049.0",
           "is_zt": false
         }
       ],
-      "avg_hot": 148245.33333333334
+      "avg_hot": 156389.66666666666
     },
     {
       "name": "超超临界发电",
       "zt_count": 2,
       "total_in_rank": 2,
-      "total_hot": 247276.0,
+      "total_hot": 275770.0,
       "stocks": [
         {
           "code": "600396",
           "name": "华电辽能",
           "change_pct": 10.03,
-          "hot_value": "139408.0",
+          "hot_value": "166863.0",
           "is_zt": true
         },
         {
           "code": "600744",
           "name": "华银电力",
           "change_pct": 9.97,
-          "hot_value": "107868.0",
+          "hot_value": "108907.0",
           "is_zt": true
         }
       ],
-      "avg_hot": 123638.0
+      "avg_hot": 137885.0
     },
     {
       "name": "共封装光学(CPO)",
       "zt_count": 1,
       "total_in_rank": 9,
-      "total_hot": 751434.0,
+      "total_hot": 744752.0,
       "stocks": [
         {
           "code": "301165",
           "name": "锐捷网络",
           "change_pct": 13.66,
-          "hot_value": "79340.0",
+          "hot_value": "83409.0",
           "is_zt": true
         },
         {
           "code": "300285",
           "name": "国瓷材料",
           "change_pct": 0.55,
-          "hot_value": "70884.0",
+          "hot_value": "67004.0",
           "is_zt": false
         },
         {
           "code": "000988",
           "name": "华工科技",
           "change_pct": 0.32,
-          "hot_value": "57685.0",
+          "hot_value": "58424.0",
           "is_zt": false
         },
         {
           "code": "601138",
           "name": "工业富联",
           "change_pct": -0.44,
-          "hot_value": "62116.0",
+          "hot_value": "63302.0",
           "is_zt": false
         },
         {
           "code": "002384",
           "name": "东山精密",
           "change_pct": -5.84,
-          "hot_value": "187266.0",
+          "hot_value": "183958.0",
           "is_zt": false
         },
         {
           "code": "600522",
           "name": "中天科技",
           "change_pct": -6.15,
-          "hot_value": "73329.0",
+          "hot_value": "71262.0",
           "is_zt": false
         },
         {
           "code": "300308",
           "name": "中际旭创",
           "change_pct": -6.66,
-          "hot_value": "96297.0",
+          "hot_value": "92536.0",
           "is_zt": false
         },
         {
           "code": "000636",
           "name": "风华高科",
           "change_pct": -6.81,
-          "hot_value": "53442.0",
+          "hot_value": "53515.0",
           "is_zt": false
         },
         {
           "code": "300502",
           "name": "新易盛",
           "change_pct": -7.79,
-          "hot_value": "71075.0",
+          "hot_value": "71342.0",
           "is_zt": false
         }
       ],
-      "avg_hot": 83492.66666666667
+      "avg_hot": 82750.22222222222
     },
     {
       "name": "存储芯片",
       "zt_count": 1,
       "total_in_rank": 7,
-      "total_hot": 1530545.0,
+      "total_hot": 1413781.0,
       "stocks": [
         {
           "code": "301583",
           "name": "托伦斯",
           "change_pct": 20.0,
-          "hot_value": "88047.0",
+          "hot_value": "76370.0",
           "is_zt": true
         },
         {
           "code": "002156",
           "name": "通富微电",
           "change_pct": 8.08,
-          "hot_value": "298668.0",
+          "hot_value": "260235.0",
           "is_zt": false
         },
         {
           "code": "000021",
           "name": "深科技",
           "change_pct": 4.06,
-          "hot_value": "211909.0",
+          "hot_value": "206678.0",
           "is_zt": false
         },
         {
           "code": "600584",
           "name": "长电科技",
           "change_pct": 1.29,
-          "hot_value": "283536.0",
+          "hot_value": "272135.0",
           "is_zt": false
         },
         {
           "code": "600667",
           "name": "太极实业",
           "change_pct": 0,
-          "hot_value": "140966.0",
+          "hot_value": "137006.0",
           "is_zt": false
         },
         {
           "code": "603986",
           "name": "兆易创新",
           "change_pct": -1.16,
-          "hot_value": "170371.0",
+          "hot_value": "160863.0",
           "is_zt": false
         },
         {
           "code": "001309",
           "name": "德明利",
           "change_pct": -10.0,
-          "hot_value": "337048.0",
+          "hot_value": "300494.0",
           "is_zt": false
         }
       ],
-      "avg_hot": 218649.2857142857
+      "avg_hot": 201968.7142857143
     },
     {
       "name": "F5G概念",
       "zt_count": 1,
       "total_in_rank": 6,
-      "total_hot": 691475.0,
+      "total_hot": 664490.0,
       "stocks": [
         {
           "code": "603118",
           "name": "共进股份",
           "change_pct": 9.98,
-          "hot_value": "157922.0",
+          "hot_value": "136536.0",
           "is_zt": true
         },
         {
           "code": "002396",
           "name": "星网锐捷",
           "change_pct": 9.43,
-          "hot_value": "176364.0",
+          "hot_value": "175726.0",
           "is_zt": false
         },
         {
           "code": "002281",
           "name": "光迅科技",
           "change_pct": 2.62,
-          "hot_value": "87465.0",
+          "hot_value": "87937.0",
           "is_zt": false
         },
         {
           "code": "000988",
           "name": "华工科技",
           "change_pct": 0.32,
-          "hot_value": "57685.0",
+          "hot_value": "58424.0",
           "is_zt": false
         },
         {
           "code": "300308",
           "name": "中际旭创",
           "change_pct": -6.66,
-          "hot_value": "96297.0",
+          "hot_value": "92536.0",
           "is_zt": false
         },
         {
           "code": "600487",
           "name": "亨通光电",
           "change_pct": -8.07,
-          "hot_value": "115742.0",
+          "hot_value": "113331.0",
           "is_zt": false
         }
       ],
-      "avg_hot": 115245.83333333333
-    },
-    {
-      "name": "云计算",
-      "zt_count": 1,
-      "total_in_rank": 1,
-      "total_hot": 176156.0,
-      "stocks": [
-        {
-          "code": "000815",
-          "name": "美利云",
-          "change_pct": 10.03,
-          "hot_value": "176156.0",
-          "is_zt": true
-        }
-      ],
-      "avg_hot": 176156.0
+      "avg_hot": 110748.33333333333
     },
     {
       "name": "光热发电",
       "zt_count": 1,
       "total_in_rank": 1,
-      "total_hot": 172937.0,
+      "total_hot": 152257.0,
       "stocks": [
         {
           "code": "001258",
           "name": "立新能源",
           "change_pct": 9.99,
-          "hot_value": "172937.0",
+          "hot_value": "152257.0",
           "is_zt": true
         }
       ],
-      "avg_hot": 172937.0
+      "avg_hot": 152257.0
+    },
+    {
+      "name": "云计算",
+      "zt_count": 1,
+      "total_in_rank": 1,
+      "total_hot": 150335.0,
+      "stocks": [
+        {
+          "code": "000815",
+          "name": "美利云",
+          "change_pct": 10.03,
+          "hot_value": "150335.0",
+          "is_zt": true
+        }
+      ],
+      "avg_hot": 150335.0
     },
     {
       "name": "英伟达概念",
       "zt_count": 1,
       "total_in_rank": 1,
-      "total_hot": 145974.0,
+      "total_hot": 138301.0,
       "stocks": [
         {
           "code": "603629",
           "name": "利通电子",
           "change_pct": 10.0,
-          "hot_value": "145974.0",
+          "hot_value": "138301.0",
           "is_zt": true
         }
       ],
-      "avg_hot": 145974.0
+      "avg_hot": 138301.0
     },
     {
       "name": "虚拟电厂",
       "zt_count": 1,
       "total_in_rank": 1,
-      "total_hot": 107868.0,
+      "total_hot": 108907.0,
       "stocks": [
         {
           "code": "600744",
           "name": "华银电力",
           "change_pct": 9.97,
-          "hot_value": "107868.0",
+          "hot_value": "108907.0",
           "is_zt": true
         }
       ],
-      "avg_hot": 107868.0
+      "avg_hot": 108907.0
     },
     {
       "name": "高端装备",
       "zt_count": 1,
       "total_in_rank": 1,
-      "total_hot": 88047.0,
+      "total_hot": 76370.0,
       "stocks": [
         {
           "code": "301583",
           "name": "托伦斯",
           "change_pct": 20.0,
-          "hot_value": "88047.0",
+          "hot_value": "76370.0",
           "is_zt": true
         }
       ],
-      "avg_hot": 88047.0
+      "avg_hot": 76370.0
+    },
+    {
+      "name": "猴痘概念",
+      "zt_count": 1,
+      "total_in_rank": 1,
+      "total_hot": 59639.0,
+      "stocks": [
+        {
+          "code": "000566",
+          "name": "海南海药",
+          "change_pct": 9.92,
+          "hot_value": "59639.0",
+          "is_zt": true
+        }
+      ],
+      "avg_hot": 59639.0
+    },
+    {
+      "name": "肝炎概念",
+      "zt_count": 1,
+      "total_in_rank": 1,
+      "total_hot": 59639.0,
+      "stocks": [
+        {
+          "code": "000566",
+          "name": "海南海药",
+          "change_pct": 9.92,
+          "hot_value": "59639.0",
+          "is_zt": true
+        }
+      ],
+      "avg_hot": 59639.0
+    },
+    {
+      "name": "煤化工概念",
+      "zt_count": 1,
+      "total_in_rank": 1,
+      "total_hot": 58778.0,
+      "stocks": [
+        {
+          "code": "600722",
+          "name": "金牛化工",
+          "change_pct": 9.99,
+          "hot_value": "58778.0",
+          "is_zt": true
+        }
+      ],
+      "avg_hot": 58778.0
+    },
+    {
+      "name": "国企改革",
+      "zt_count": 1,
+      "total_in_rank": 1,
+      "total_hot": 58778.0,
+      "stocks": [
+        {
+          "code": "600722",
+          "name": "金牛化工",
+          "change_pct": 9.99,
+          "hot_value": "58778.0",
+          "is_zt": true
+        }
+      ],
+      "avg_hot": 58778.0
     },
     {
       "name": "国家大基金持股",
       "zt_count": 0,
       "total_in_rank": 6,
-      "total_hot": 1053981.0,
+      "total_hot": 976762.0,
       "stocks": [
         {
           "code": "002156",
           "name": "通富微电",
           "change_pct": 8.08,
-          "hot_value": "298668.0",
+          "hot_value": "260235.0",
           "is_zt": false
         },
         {
           "code": "002409",
           "name": "雅克科技",
           "change_pct": 4.4,
-          "hot_value": "64536.0",
+          "hot_value": "59606.0",
           "is_zt": false
         },
         {
           "code": "600206",
           "name": "有研新材",
           "change_pct": 2.99,
-          "hot_value": "94190.0",
+          "hot_value": "93548.0",
           "is_zt": false
         },
         {
           "code": "002371",
           "name": "北方华创",
           "change_pct": 2.61,
-          "hot_value": "76239.0",
+          "hot_value": "66289.0",
           "is_zt": false
         },
         {
           "code": "600584",
           "name": "长电科技",
           "change_pct": 1.29,
-          "hot_value": "283536.0",
+          "hot_value": "272135.0",
           "is_zt": false
         },
         {
           "code": "002185",
           "name": "华天科技",
           "change_pct": 0.38,
-          "hot_value": "236812.0",
+          "hot_value": "224949.0",
           "is_zt": false
         }
       ],
-      "avg_hot": 175663.5
+      "avg_hot": 162793.66666666666
     },
     {
       "name": "光纤概念",
       "zt_count": 0,
       "total_in_rank": 6,
-      "total_hot": 605487.0,
+      "total_hot": 605953.0,
       "stocks": [
         {
           "code": "000063",
           "name": "中兴通讯",
           "change_pct": 7.51,
-          "hot_value": "70409.0",
+          "hot_value": "81110.0",
           "is_zt": false
         },
         {
           "code": "002281",
           "name": "光迅科技",
           "change_pct": 2.62,
-          "hot_value": "87465.0",
+          "hot_value": "87937.0",
           "is_zt": false
         },
         {
           "code": "002384",
           "name": "东山精密",
           "change_pct": -5.84,
-          "hot_value": "187266.0",
+          "hot_value": "183958.0",
           "is_zt": false
         },
         {
           "code": "600522",
           "name": "中天科技",
           "change_pct": -6.15,
-          "hot_value": "73329.0",
+          "hot_value": "71262.0",
           "is_zt": false
         },
         {
           "code": "600487",
           "name": "亨通光电",
           "change_pct": -8.07,
-          "hot_value": "115742.0",
+          "hot_value": "113331.0",
           "is_zt": false
         },
         {
           "code": "601869",
           "name": "长飞光纤",
           "change_pct": -9.92,
-          "hot_value": "71276.0",
+          "hot_value": "68355.0",
           "is_zt": false
         }
       ],
-      "avg_hot": 100914.5
+      "avg_hot": 100992.16666666667
     },
     {
       "name": "中芯国际概念",
       "zt_count": 0,
       "total_in_rank": 4,
-      "total_hot": 572013.0,
+      "total_hot": 519937.0,
       "stocks": [
         {
           "code": "002409",
           "name": "雅克科技",
           "change_pct": 4.4,
-          "hot_value": "64536.0",
+          "hot_value": "59606.0",
           "is_zt": false
         },
         {
           "code": "600206",
           "name": "有研新材",
           "change_pct": 2.99,
-          "hot_value": "94190.0",
+          "hot_value": "93548.0",
           "is_zt": false
         },
         {
           "code": "002371",
           "name": "北方华创",
           "change_pct": 2.61,
-          "hot_value": "76239.0",
+          "hot_value": "66289.0",
           "is_zt": false
         },
         {
           "code": "001309",
           "name": "德明利",
           "change_pct": -10.0,
-          "hot_value": "337048.0",
+          "hot_value": "300494.0",
           "is_zt": false
         }
       ],
-      "avg_hot": 143003.25
+      "avg_hot": 129984.25
     },
     {
       "name": "先进封装",
       "zt_count": 0,
       "total_in_rank": 3,
-      "total_hot": 589687.0,
+      "total_hot": 568633.0,
       "stocks": [
         {
           "code": "000021",
           "name": "深科技",
           "change_pct": 4.06,
-          "hot_value": "211909.0",
+          "hot_value": "206678.0",
           "is_zt": false
         },
         {
           "code": "002185",
           "name": "华天科技",
           "change_pct": 0.38,
-          "hot_value": "236812.0",
+          "hot_value": "224949.0",
           "is_zt": false
         },
         {
           "code": "600667",
           "name": "太极实业",
           "change_pct": 0,
-          "hot_value": "140966.0",
+          "hot_value": "137006.0",
           "is_zt": false
         }
       ],
-      "avg_hot": 196562.33333333334
+      "avg_hot": 189544.33333333334
     },
     {
       "name": "中国AI 50",
       "zt_count": 0,
       "total_in_rank": 2,
-      "total_hot": 263817.0,
+      "total_hot": 273153.0,
       "stocks": [
         {
           "code": "603019",
           "name": "中科曙光",
           "change_pct": 4.36,
-          "hot_value": "82927.0",
+          "hot_value": "88847.0",
           "is_zt": false
         },
         {
           "code": "000977",
           "name": "浪潮信息",
           "change_pct": 2.04,
-          "hot_value": "180890.0",
+          "hot_value": "184306.0",
           "is_zt": false
         }
       ],
-      "avg_hot": 131908.5
+      "avg_hot": 136576.5
     },
     {
-      "name": "5G",
+      "name": "CRO概念",
       "zt_count": 0,
       "total_in_rank": 2,
-      "total_hot": 130868.0,
+      "total_hot": 160657.0,
       "stocks": [
         {
-          "code": "000889",
-          "name": "中嘉博创",
-          "change_pct": 5.0,
-          "hot_value": "59984.0",
+          "code": "603538",
+          "name": "美诺华",
+          "change_pct": 4.54,
+          "hot_value": "105974.0",
           "is_zt": false
         },
         {
-          "code": "300285",
-          "name": "国瓷材料",
-          "change_pct": 0.55,
-          "hot_value": "70884.0",
+          "code": "603127",
+          "name": "昭衍新药",
+          "change_pct": -2.16,
+          "hot_value": "54683.0",
           "is_zt": false
         }
       ],
-      "avg_hot": 65434.0
-    },
-    {
-      "name": "氟化工概念",
-      "zt_count": 0,
-      "total_in_rank": 2,
-      "total_hot": 122590.0,
-      "stocks": [
-        {
-          "code": "002759",
-          "name": "天际股份",
-          "change_pct": 8.41,
-          "hot_value": "69602.0",
-          "is_zt": false
-        },
-        {
-          "code": "002407",
-          "name": "多氟多",
-          "change_pct": -1.16,
-          "hot_value": "52988.0",
-          "is_zt": false
-        }
-      ],
-      "avg_hot": 61295.0
+      "avg_hot": 80328.5
     },
     {
       "name": "PCB概念",
       "zt_count": 0,
       "total_in_rank": 2,
-      "total_hot": 116224.0,
+      "total_hot": 113147.0,
       "stocks": [
         {
           "code": "600176",
           "name": "中国巨石",
           "change_pct": -10.0,
-          "hot_value": "53838.0",
+          "hot_value": "54021.0",
           "is_zt": false
         },
         {
           "code": "301217",
           "name": "铜冠铜箔",
           "change_pct": -11.33,
-          "hot_value": "62386.0",
+          "hot_value": "59126.0",
           "is_zt": false
         }
       ],
-      "avg_hot": 58112.0
+      "avg_hot": 56573.5
     },
     {
       "name": "流感",
       "zt_count": 0,
       "total_in_rank": 1,
-      "total_hot": 258240.0,
+      "total_hot": 279554.0,
       "stocks": [
         {
           "code": "600664",
           "name": "哈药股份",
           "change_pct": 2.4,
-          "hot_value": "258240.0",
+          "hot_value": "279554.0",
           "is_zt": false
         }
       ],
-      "avg_hot": 258240.0
+      "avg_hot": 279554.0
     },
     {
       "name": "医药电商",
       "zt_count": 0,
       "total_in_rank": 1,
-      "total_hot": 258240.0,
+      "total_hot": 279554.0,
       "stocks": [
         {
           "code": "600664",
           "name": "哈药股份",
           "change_pct": 2.4,
-          "hot_value": "258240.0",
+          "hot_value": "279554.0",
           "is_zt": false
         }
       ],
-      "avg_hot": 258240.0
+      "avg_hot": 279554.0
     },
     {
       "name": "电子纸",
       "zt_count": 0,
       "total_in_rank": 1,
-      "total_hot": 174193.0,
+      "total_hot": 169000.0,
       "stocks": [
         {
           "code": "000725",
           "name": "京东方A",
           "change_pct": -4.28,
-          "hot_value": "174193.0",
+          "hot_value": "169000.0",
           "is_zt": false
         }
       ],
-      "avg_hot": 174193.0
+      "avg_hot": 169000.0
     },
     {
       "name": "MicroLED概念",
       "zt_count": 0,
       "total_in_rank": 1,
-      "total_hot": 174193.0,
+      "total_hot": 169000.0,
       "stocks": [
         {
           "code": "000725",
           "name": "京东方A",
           "change_pct": -4.28,
-          "hot_value": "174193.0",
+          "hot_value": "169000.0",
           "is_zt": false
         }
       ],
-      "avg_hot": 174193.0
+      "avg_hot": 169000.0
     },
     {
       "name": "汽车芯片",
       "zt_count": 0,
       "total_in_rank": 1,
-      "total_hot": 170371.0,
+      "total_hot": 160863.0,
       "stocks": [
         {
           "code": "603986",
           "name": "兆易创新",
           "change_pct": -1.16,
-          "hot_value": "170371.0",
+          "hot_value": "160863.0",
           "is_zt": false
         }
       ],
-      "avg_hot": 170371.0
+      "avg_hot": 160863.0
     },
     {
       "name": "风电",
       "zt_count": 0,
       "total_in_rank": 1,
-      "total_hot": 132391.0,
+      "total_hot": 150049.0,
       "stocks": [
         {
           "code": "601991",
           "name": "大唐发电",
           "change_pct": 4.98,
-          "hot_value": "132391.0",
+          "hot_value": "150049.0",
           "is_zt": false
         }
       ],
-      "avg_hot": 132391.0
-    },
-    {
-      "name": "血氧仪",
-      "zt_count": 0,
-      "total_in_rank": 1,
-      "total_hot": 117641.0,
-      "stocks": [
-        {
-          "code": "002432",
-          "name": "九安医疗",
-          "change_pct": 2.37,
-          "hot_value": "117641.0",
-          "is_zt": false
-        }
-      ],
-      "avg_hot": 117641.0
-    },
-    {
-      "name": "天津自贸区",
-      "zt_count": 0,
-      "total_in_rank": 1,
-      "total_hot": 117641.0,
-      "stocks": [
-        {
-          "code": "002432",
-          "name": "九安医疗",
-          "change_pct": 2.37,
-          "hot_value": "117641.0",
-          "is_zt": false
-        }
-      ],
-      "avg_hot": 117641.0
+      "avg_hot": 150049.0
     },
     {
       "name": "金属铅",
       "zt_count": 0,
       "total_in_rank": 1,
-      "total_hot": 108830.0,
+      "total_hot": 113582.0,
       "stocks": [
         {
           "code": "601899",
           "name": "紫金矿业",
           "change_pct": 6.59,
-          "hot_value": "108830.0",
+          "hot_value": "113582.0",
           "is_zt": false
         }
       ],
-      "avg_hot": 108830.0
-    },
-    {
-      "name": "金属锌",
-      "zt_count": 0,
-      "total_in_rank": 1,
-      "total_hot": 108830.0,
-      "stocks": [
-        {
-          "code": "601899",
-          "name": "紫金矿业",
-          "change_pct": 6.59,
-          "hot_value": "108830.0",
-          "is_zt": false
-        }
-      ],
-      "avg_hot": 108830.0
+      "avg_hot": 113582.0
     }
   ]
 }
