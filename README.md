@@ -47,4 +47,4 @@ python -m http.server 8000
 
 ## 访问地址
 
-https://enivabizicu338-bit.github.io/ths-hot-rank/
+https://chenweihua.github.io/ths-hot-rank/
