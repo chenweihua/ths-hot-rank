@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-14 06:55:21",
+  "update_time": "2026-08-14 08:21:59",
   "source": "同花顺热榜",
   "total": 100,
   "data": [
@@ -7,10 +7,10 @@
       "rank": 1,
       "code": "600667",
       "name": "太极实业",
-      "price": 23.17,
-      "turnover": 17.09,
-      "change_pct": -2.61,
-      "hot_value": "697853.0",
+      "price": 22.95,
+      "turnover": 17.8,
+      "change_pct": -3.49,
+      "hot_value": "701885.0",
       "rank_chg": 0,
       "popularity_tag": "",
       "concept_tags": [
@@ -23,30 +23,12 @@
     },
     {
       "rank": 2,
-      "code": "600721",
-      "name": "百花医药",
-      "price": 13.69,
-      "turnover": 29.49,
-      "change_pct": -5.59,
-      "hot_value": "623774.0",
-      "rank_chg": 0,
-      "popularity_tag": "9天7板",
-      "concept_tags": [
-        "青蒿素",
-        "肝炎概念"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 3,
       "code": "601991",
       "name": "大唐发电",
-      "price": 6.51,
-      "turnover": 6.94,
-      "change_pct": -6.07,
-      "hot_value": "613074.0",
+      "price": 6.48,
+      "turnover": 7.08,
+      "change_pct": -6.36,
+      "hot_value": "549413.0",
       "rank_chg": 0,
       "popularity_tag": "2天1板",
       "concept_tags": [
@@ -58,14 +40,14 @@
       "browse_rank": 0
     },
     {
-      "rank": 4,
+      "rank": 3,
       "code": "600396",
       "name": "华电辽能",
-      "price": 16.92,
-      "turnover": 18.5,
-      "change_pct": -9.66,
-      "hot_value": "524992.0",
-      "rank_chg": 0,
+      "price": 16.99,
+      "turnover": 19.25,
+      "change_pct": -9.29,
+      "hot_value": "522047.0",
+      "rank_chg": 2,
       "popularity_tag": "",
       "concept_tags": [
         "超超临界发电",
@@ -76,50 +58,32 @@
       "browse_rank": 0
     },
     {
+      "rank": 4,
+      "code": "600721",
+      "name": "百花医药",
+      "price": 13.81,
+      "turnover": 31.23,
+      "change_pct": -4.76,
+      "hot_value": "517772.0",
+      "rank_chg": -1,
+      "popularity_tag": "9天7板",
+      "concept_tags": [
+        "青蒿素",
+        "肝炎概念"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
       "rank": 5,
-      "code": "000636",
-      "name": "风华高科",
-      "price": 62.73,
-      "turnover": 12.26,
-      "change_pct": 1.13,
-      "hot_value": "497989.0",
-      "rank_chg": 0,
-      "popularity_tag": "",
-      "concept_tags": [
-        "超级电容",
-        "共封装光学(CPO)"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 6,
-      "code": "605179",
-      "name": "一鸣食品",
-      "price": 32.3,
-      "turnover": 10.09,
-      "change_pct": -3.5,
-      "hot_value": "482632.0",
-      "rank_chg": 0,
-      "popularity_tag": "14天9板",
-      "concept_tags": [
-        "乳业",
-        "三胎概念"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 7,
       "code": "000938",
       "name": "紫光股份",
-      "price": 39.91,
-      "turnover": 11.15,
-      "change_pct": 0.78,
-      "hot_value": "458962.0",
-      "rank_chg": 0,
+      "price": 39.95,
+      "turnover": 11.35,
+      "change_pct": 0.88,
+      "hot_value": "508404.0",
+      "rank_chg": -1,
       "popularity_tag": "",
       "concept_tags": [
         "WiFi 6",
@@ -130,13 +94,49 @@
       "browse_rank": 0
     },
     {
+      "rank": 6,
+      "code": "000636",
+      "name": "风华高科",
+      "price": 62.73,
+      "turnover": 12.69,
+      "change_pct": 1.14,
+      "hot_value": "504669.0",
+      "rank_chg": 1,
+      "popularity_tag": "",
+      "concept_tags": [
+        "超级电容",
+        "共封装光学(CPO)"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 7,
+      "code": "605179",
+      "name": "一鸣食品",
+      "price": 31.91,
+      "turnover": 10.38,
+      "change_pct": -4.55,
+      "hot_value": "490231.0",
+      "rank_chg": -1,
+      "popularity_tag": "14天9板",
+      "concept_tags": [
+        "乳业",
+        "三胎概念"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
       "rank": 8,
       "code": "688825",
       "name": "长鑫科技",
-      "price": 55.02,
-      "turnover": 7.85,
-      "change_pct": 4.05,
-      "hot_value": "435738.0",
+      "price": 55.18,
+      "turnover": 8.04,
+      "change_pct": 4.35,
+      "hot_value": "475466.0",
       "rank_chg": 0,
       "popularity_tag": "持续上榜",
       "concept_tags": [
@@ -149,84 +149,12 @@
     },
     {
       "rank": 9,
-      "code": "002081",
-      "name": "金螳螂",
-      "price": 5.29,
-      "turnover": 19.68,
-      "change_pct": 9.98,
-      "hot_value": "395682.0",
-      "rank_chg": 0,
-      "popularity_tag": "3天3板",
-      "concept_tags": [
-        "新型城镇化",
-        "光伏建筑一体化"
-      ],
-      "analyse": "1、据2026年5月18日投资者关系活动记录表，洁净室是公司重点布局的战略新赛道，已具备在电子半导体、新能源、大健康、实验室等高附加值领域构建系统集成能力，代表项目包括南京集成电路产业服务中心、杰华特微电子高性能电源芯片项目等。\n2、据2026年2月27日互动易，公司参建的贵州华为云数据中心项目，为公司在大型数据中心基础设施建设领域积累了高精密施工管控、全流程质量把控、绿色建材应用以及“工厂化预制+现场装配化”建造等成熟实践经验。\n3、据2026年5月18日投资者关系活动记录表，2025年全年海外业务完成产值同比增长约47%，海外营业收入占比提升至8.66%，已成为公司核心增长引擎；公司已形成以东南亚为战略中心、辐射中亚、中东及非洲的全球化布局。\n4、据2025年年报，公司多年蝉联“中国建筑装饰行业综合数据统计”装饰类、设计类双第一，累计获“鲁班奖”144项，在高端公共建筑、酒店、医疗、交通枢纽等领域形成稳定的优质客户群体与良好口碑。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 10,
-      "code": "600664",
-      "name": "哈药股份",
-      "price": 8.91,
-      "turnover": 14.36,
-      "change_pct": 0.56,
-      "hot_value": "389193.0",
-      "rank_chg": 0,
-      "popularity_tag": "持续上榜",
-      "concept_tags": [
-        "流感",
-        "医药电商"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 11,
-      "code": "002407",
-      "name": "多氟多",
-      "price": 39.16,
-      "turnover": 17.8,
-      "change_pct": 0.49,
-      "hot_value": "368906.0",
-      "rank_chg": 0,
-      "popularity_tag": "",
-      "concept_tags": [
-        "氟化工概念",
-        "PVDF概念"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 12,
-      "code": "002131",
-      "name": "利欧股份",
-      "price": 5.35,
-      "turnover": 17.64,
-      "change_pct": -3.78,
-      "hot_value": "366391.0",
-      "rank_chg": 0,
-      "popularity_tag": "",
-      "concept_tags": [
-        "快手概念",
-        "小红书概念"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 13,
       "code": "603629",
       "name": "利通电子",
       "price": 137.5,
-      "turnover": 18.79,
+      "turnover": 18.83,
       "change_pct": 10.0,
-      "hot_value": "359942.0",
+      "hot_value": "466836.0",
       "rank_chg": 0,
       "popularity_tag": "首板涨停",
       "concept_tags": [
@@ -238,13 +166,103 @@
       "browse_rank": 0
     },
     {
+      "rank": 10,
+      "code": "002081",
+      "name": "金螳螂",
+      "price": 5.29,
+      "turnover": 19.72,
+      "change_pct": 9.98,
+      "hot_value": "424232.0",
+      "rank_chg": 0,
+      "popularity_tag": "3天3板",
+      "concept_tags": [
+        "新型城镇化",
+        "光伏建筑一体化"
+      ],
+      "analyse": "1、据2026年5月18日投资者关系活动记录表，洁净室是公司重点布局的战略新赛道，已具备在电子半导体、新能源、大健康、实验室等高附加值领域构建系统集成能力，代表项目包括南京集成电路产业服务中心、杰华特微电子高性能电源芯片项目等。\n2、据2026年2月27日互动易，公司参建的贵州华为云数据中心项目，为公司在大型数据中心基础设施建设领域积累了高精密施工管控、全流程质量把控、绿色建材应用以及“工厂化预制+现场装配化”建造等成熟实践经验。\n3、据2026年5月18日投资者关系活动记录表，2025年全年海外业务完成产值同比增长约47%，海外营业收入占比提升至8.66%，已成为公司核心增长引擎；公司已形成以东南亚为战略中心、辐射中亚、中东及非洲的全球化布局。\n4、据2025年年报，公司多年蝉联“中国建筑装饰行业综合数据统计”装饰类、设计类双第一，累计获“鲁班奖”144项，在高端公共建筑、酒店、医疗、交通枢纽等领域形成稳定的优质客户群体与良好口碑。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 11,
+      "code": "600664",
+      "name": "哈药股份",
+      "price": 8.91,
+      "turnover": 14.89,
+      "change_pct": 0.56,
+      "hot_value": "392498.0",
+      "rank_chg": 0,
+      "popularity_tag": "6天3板",
+      "concept_tags": [
+        "流感",
+        "医药电商"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 12,
+      "code": "600487",
+      "name": "亨通光电",
+      "price": 62.98,
+      "turnover": 12.97,
+      "change_pct": 10.01,
+      "hot_value": "381368.0",
+      "rank_chg": 0,
+      "popularity_tag": "首板涨停",
+      "concept_tags": [
+        "光纤概念",
+        "F5G概念"
+      ],
+      "analyse": "行业原因：\n1、美股光通信巨头Lumentum及Coherent最新财报显示AI数据中心光互联需求爆发，Coherent季度营收创20.5亿美元历史新高，下季指引全面超预期。\n2、中国银河证券8月13日研报指出，伴随下半年800G/1.6T批量出货，硅光方案出货占比提升，光通信板块盈利能力有望边际改善。\n公司原因：\n1、据2026年5月18日投资者关系活动记录表，公司面向算力中心应用场景，正在布局面向下一代的高速光互联产品；公司参股熹联光芯从事硅光芯片设计，并与长光华芯等共同发起设立星钥光子，旨在建设中国专业硅光集成芯片量产工厂，围绕公司硅光及CPO布局提供协同作用。\n2、据2026年5月18日投资者关系活动记录表，AI数据中心业务是公司目前最核心的战略方向之一，公司光纤光缆产品已大批量应用于国内外数据中心，专为数据中心开发的高密度MPO光缆组件等产品已广泛应用于大型数据中心；公司计划对内蒙古基地光棒产能在内蒙古一期的基础上提升1.5倍。\n3、据2026年5月18日投资者关系活动记录表，公司拥有海底光缆、海底接驳盒、中继器等全产业链，是全球前四具备跨洋洲际海底光缆通信网络综合解决方案能力的唯一中国企业，截至2025年末，全球海底光缆签约交付里程数累计突破130,000公里。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 13,
+      "code": "002407",
+      "name": "多氟多",
+      "price": 39.16,
+      "turnover": 18.32,
+      "change_pct": 0.49,
+      "hot_value": "376965.0",
+      "rank_chg": 0,
+      "popularity_tag": "",
+      "concept_tags": [
+        "氟化工概念",
+        "PVDF概念"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
       "rank": 14,
+      "code": "002131",
+      "name": "利欧股份",
+      "price": 5.33,
+      "turnover": 17.94,
+      "change_pct": -4.14,
+      "hot_value": "336616.0",
+      "rank_chg": 0,
+      "popularity_tag": "",
+      "concept_tags": [
+        "快手概念",
+        "小红书概念"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 15,
       "code": "603986",
       "name": "兆易创新",
-      "price": 416.57,
-      "turnover": 6.86,
-      "change_pct": 2.98,
-      "hot_value": "335533.0",
+      "price": 417.48,
+      "turnover": 7.11,
+      "change_pct": 3.21,
+      "hot_value": "327184.0",
       "rank_chg": 0,
       "popularity_tag": "",
       "concept_tags": [
@@ -256,13 +274,13 @@
       "browse_rank": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "code": "000802",
       "name": "北京文化",
-      "price": 6.0,
-      "turnover": 43.14,
-      "change_pct": -4.15,
-      "hot_value": "335176.0",
+      "price": 5.92,
+      "turnover": 45.47,
+      "change_pct": -5.43,
+      "hot_value": "323396.0",
       "rank_chg": 0,
       "popularity_tag": "5天4板",
       "concept_tags": [
@@ -274,14 +292,32 @@
       "browse_rank": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
+      "code": "000815",
+      "name": "美利云",
+      "price": 18.97,
+      "turnover": 25.53,
+      "change_pct": 3.32,
+      "hot_value": "281775.0",
+      "rank_chg": 2,
+      "popularity_tag": "",
+      "concept_tags": [
+        "算力租赁",
+        "云计算"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 18,
       "code": "002437",
       "name": "誉衡药业",
-      "price": 4.54,
-      "turnover": 43.44,
-      "change_pct": 6.82,
-      "hot_value": "288725.0",
-      "rank_chg": 0,
+      "price": 4.53,
+      "turnover": 44.27,
+      "change_pct": 6.59,
+      "hot_value": "276220.0",
+      "rank_chg": -1,
       "popularity_tag": "6天4板",
       "concept_tags": [
         "仿制药一致性评价",
@@ -292,31 +328,31 @@
       "browse_rank": 0
     },
     {
-      "rank": 17,
-      "code": "300684",
-      "name": "中石科技",
-      "price": 67.36,
-      "turnover": 2.06,
-      "change_pct": 20.01,
-      "hot_value": "280291.0",
-      "rank_chg": 0,
-      "popularity_tag": "首板涨停",
+      "rank": 19,
+      "code": "603118",
+      "name": "共进股份",
+      "price": 17.56,
+      "turnover": 14.31,
+      "change_pct": 10.03,
+      "hot_value": "275161.0",
+      "rank_chg": -1,
+      "popularity_tag": "2天2板",
       "concept_tags": [
-        "AI PC",
-        "富士康概念"
+        "F5G概念",
+        "WiFi 6"
       ],
-      "analyse": "行业原因：\n1、美股光通信巨头Lumentum及Coherent最新财报显示AI数据中心光互联需求爆发，Coherent季度营收创20.5亿美元历史新高，下季指引全面超预期。\n2、中国银河证券8月13日研报指出，伴随下半年800G/1.6T批量出货，硅光方案出货占比提升，光通信板块盈利能力有望边际改善。\n公司原因：\n1、据2026年8月13日公告，中际旭创拟以55.70元/股受让公司控股股东10.47%股份，交易总价17.47亿元，成为公司持股5%以上股东。\n2、据2026年5月18日投资者关系活动记录表，公司VC模组散热方案已通过国内外头部光通信厂商认证并批量供货，客户覆盖度与交付规模持续提升。\n3、据2026年5月18日投资者关系活动记录表，公司液冷散热模组面向AI服务器、高功率机柜等场景，已实现向服务器厂商批量供货。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）",
+      "analyse": "1、据2026年7月9日异常波动公告，公司关注到近日数据中心交换机概念受市场关注度较高，公司数通业务中应用于数据中心的高速率交换机尤其是400G、800G交换机业务收入占主营业务收入比例较小。\n2、据2025年年报及2026年5月11日投资者关系活动记录表，2025年是公司清洁、家居机器人业务全面发展元年，该业务首年即实现盈利，营业收入超1.8亿元，以EMS方式为国内外知名厂商提供整机代工。\n3、据2026年7月27日互动易，公司主要产品覆盖PON、AP等网通业务，交换机、服务器等数通业务，汽车电子以及清洁、家居机器人等智能硬件制造业务。\n4、据2026年6月13日公告，公司控股股东为唐山工业控股集团有限公司，实控人为唐山市人民政府国有资产监督管理委员会。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）",
       "xueqiu_rank": 0,
       "browse_rank": 0
     },
     {
-      "rank": 18,
+      "rank": 20,
       "code": "600726",
       "name": "华电能源",
-      "price": 6.41,
-      "turnover": 4.26,
-      "change_pct": -5.74,
-      "hot_value": "278729.0",
+      "price": 6.43,
+      "turnover": 4.33,
+      "change_pct": -5.44,
+      "hot_value": "247151.0",
       "rank_chg": 0,
       "popularity_tag": "2天1板",
       "concept_tags": [
@@ -328,13 +364,85 @@
       "browse_rank": 0
     },
     {
-      "rank": 19,
+      "rank": 21,
+      "code": "002396",
+      "name": "星网锐捷",
+      "price": 32.67,
+      "turnover": 17.12,
+      "change_pct": 0.9,
+      "hot_value": "246701.0",
+      "rank_chg": 0,
+      "popularity_tag": "2天1板",
+      "concept_tags": [
+        "WiFi 6",
+        "F5G概念"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 22,
+      "code": "600584",
+      "name": "长电科技",
+      "price": 78.71,
+      "turnover": 6.4,
+      "change_pct": 1.14,
+      "hot_value": "237795.0",
+      "rank_chg": 0,
+      "popularity_tag": "",
+      "concept_tags": [
+        "国家大基金持股",
+        "存储芯片"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 23,
+      "code": "300684",
+      "name": "中石科技",
+      "price": 67.36,
+      "turnover": 2.08,
+      "change_pct": 20.01,
+      "hot_value": "237336.0",
+      "rank_chg": 0,
+      "popularity_tag": "首板涨停",
+      "concept_tags": [
+        "AI PC",
+        "富士康概念"
+      ],
+      "analyse": "行业原因：\n1、美股光通信巨头Lumentum及Coherent最新财报显示AI数据中心光互联需求爆发，Coherent季度营收创20.5亿美元历史新高，下季指引全面超预期。\n2、中国银河证券8月13日研报指出，伴随下半年800G/1.6T批量出货，硅光方案出货占比提升，光通信板块盈利能力有望边际改善。\n公司原因：\n1、据2026年8月13日公告，中际旭创拟以55.70元/股受让公司控股股东10.47%股份，交易总价17.47亿元，成为公司持股5%以上股东。\n2、据2026年5月18日投资者关系活动记录表，公司VC模组散热方案已通过国内外头部光通信厂商认证并批量供货，客户覆盖度与交付规模持续提升。\n3、据2026年5月18日投资者关系活动记录表，公司液冷散热模组面向AI服务器、高功率机柜等场景，已实现向服务器厂商批量供货。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 24,
+      "code": "001258",
+      "name": "立新能源",
+      "price": 13.75,
+      "turnover": 16.08,
+      "change_pct": -9.95,
+      "hot_value": "236828.0",
+      "rank_chg": 0,
+      "popularity_tag": "",
+      "concept_tags": [
+        "绿色电力",
+        "光热发电"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 25,
       "code": "600881",
       "name": "亚泰集团",
-      "price": 2.2,
-      "turnover": 22.69,
-      "change_pct": -3.52,
-      "hot_value": "257520.0",
+      "price": 2.18,
+      "turnover": 23.14,
+      "change_pct": -3.96,
+      "hot_value": "236171.0",
       "rank_chg": 0,
       "popularity_tag": "4天3板",
       "concept_tags": [
@@ -346,13 +454,13 @@
       "browse_rank": 0
     },
     {
-      "rank": 20,
+      "rank": 26,
       "code": "002229",
       "name": "鸿博股份",
-      "price": 12.47,
-      "turnover": 30.3,
-      "change_pct": -8.64,
-      "hot_value": "251561.0",
+      "price": 12.56,
+      "turnover": 31.66,
+      "change_pct": -7.99,
+      "hot_value": "232568.0",
       "rank_chg": 0,
       "popularity_tag": "4天2板",
       "concept_tags": [
@@ -364,13 +472,13 @@
       "browse_rank": 0
     },
     {
-      "rank": 21,
+      "rank": 27,
       "code": "002491",
       "name": "通鼎互联",
-      "price": 19.67,
-      "turnover": 24.22,
-      "change_pct": 3.85,
-      "hot_value": "245612.0",
+      "price": 19.65,
+      "turnover": 24.89,
+      "change_pct": 3.75,
+      "hot_value": "232113.0",
       "rank_chg": 0,
       "popularity_tag": "",
       "concept_tags": [
@@ -382,122 +490,14 @@
       "browse_rank": 0
     },
     {
-      "rank": 22,
-      "code": "600487",
-      "name": "亨通光电",
-      "price": 62.98,
-      "turnover": 12.91,
-      "change_pct": 10.01,
-      "hot_value": "245462.0",
-      "rank_chg": 0,
-      "popularity_tag": "首板涨停",
-      "concept_tags": [
-        "光纤概念",
-        "F5G概念"
-      ],
-      "analyse": "行业原因：\n1、美股光通信巨头Lumentum及Coherent最新财报显示AI数据中心光互联需求爆发，Coherent季度营收创20.5亿美元历史新高，下季指引全面超预期。\n2、中国银河证券8月13日研报指出，伴随下半年800G/1.6T批量出货，硅光方案出货占比提升，光通信板块盈利能力有望边际改善。\n公司原因：\n1、据2026年5月18日投资者关系活动记录表，公司面向算力中心应用场景，正在布局面向下一代的高速光互联产品；公司参股熹联光芯从事硅光芯片设计，并与长光华芯等共同发起设立星钥光子，旨在建设中国专业硅光集成芯片量产工厂，围绕公司硅光及CPO布局提供协同作用。\n2、据2026年5月18日投资者关系活动记录表，AI数据中心业务是公司目前最核心的战略方向之一，公司光纤光缆产品已大批量应用于国内外数据中心，专为数据中心开发的高密度MPO光缆组件等产品已广泛应用于大型数据中心；公司计划对内蒙古基地光棒产能在内蒙古一期的基础上提升1.5倍。\n3、据2026年7月14日公告，公司预计2026年半年度实现归母净利润30.16亿元至35.68亿元，同比增长86.94%到121.20%，主要系AI快速发展及数据中心资本开支加大，带动光通信市场需求增长、价格上涨。\n4、据2026年5月18日投资者关系活动记录表，公司拥有海底光缆、海底接驳盒、中继器等全产业链，是全球前四具备跨洋洲际海底光缆通信网络综合解决方案能力的唯一中国企业，截至2025年末，全球海底光缆签约交付里程数累计突破130,000公里。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 23,
-      "code": "000815",
-      "name": "美利云",
-      "price": 19.05,
-      "turnover": 24.97,
-      "change_pct": 3.76,
-      "hot_value": "245037.0",
-      "rank_chg": 0,
-      "popularity_tag": "",
-      "concept_tags": [
-        "算力租赁",
-        "云计算"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 24,
-      "code": "600821",
-      "name": "金开新能",
-      "price": 6.92,
-      "turnover": 12.02,
-      "change_pct": -3.22,
-      "hot_value": "233784.0",
-      "rank_chg": 0,
-      "popularity_tag": "2天1板",
-      "concept_tags": [
-        "华为数字能源",
-        "算力租赁"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 25,
-      "code": "688981",
-      "name": "中芯国际",
-      "price": 132.31,
-      "turnover": 3.8,
-      "change_pct": 2.22,
-      "hot_value": "233029.0",
-      "rank_chg": 0,
-      "popularity_tag": "",
-      "concept_tags": [
-        "国家大基金持股",
-        "存储芯片"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 2
-    },
-    {
-      "rank": 26,
-      "code": "002396",
-      "name": "星网锐捷",
-      "price": 32.79,
-      "turnover": 16.66,
-      "change_pct": 1.27,
-      "hot_value": "228904.0",
-      "rank_chg": 0,
-      "popularity_tag": "2天1板",
-      "concept_tags": [
-        "WiFi 6",
-        "F5G概念"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 27,
-      "code": "603118",
-      "name": "共进股份",
-      "price": 17.56,
-      "turnover": 14.27,
-      "change_pct": 10.03,
-      "hot_value": "226761.0",
-      "rank_chg": 0,
-      "popularity_tag": "2天2板",
-      "concept_tags": [
-        "F5G概念",
-        "WiFi 6"
-      ],
-      "analyse": "1、据2026年7月9日异常波动公告，公司关注到近日数据中心交换机概念受市场关注度较高，公司数通业务中应用于数据中心的高速率交换机尤其是400G、800G交换机业务收入占主营业务收入比例较小。\n2、据2025年年报及2026年5月11日投资者关系活动记录表，2025年是公司清洁、家居机器人业务全面发展元年，该业务首年即实现盈利，营业收入超1.8亿元，以EMS方式为国内外知名厂商提供整机代工。\n3、据2026年7月27日互动易，公司主要产品覆盖PON、AP等网通业务，交换机、服务器等数通业务，汽车电子以及清洁、家居机器人等智能硬件制造业务。\n4、据2026年6月13日公告，公司控股股东为唐山工业控股集团有限公司，实控人为唐山市人民政府国有资产监督管理委员会。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
       "rank": 28,
       "code": "003032",
       "name": "传智教育",
-      "price": 12.2,
-      "turnover": 28.82,
-      "change_pct": 4.99,
-      "hot_value": "224314.0",
-      "rank_chg": 0,
+      "price": 12.26,
+      "turnover": 30.31,
+      "change_pct": 5.51,
+      "hot_value": "226994.0",
+      "rank_chg": 2,
       "popularity_tag": "15天9板",
       "concept_tags": [
         "机器人概念",
@@ -509,211 +509,13 @@
     },
     {
       "rank": 29,
-      "code": "002329",
-      "name": "皇氏集团",
-      "price": 4.2,
-      "turnover": 36.36,
-      "change_pct": -9.09,
-      "hot_value": "221743.0",
-      "rank_chg": 0,
-      "popularity_tag": "5天4板",
-      "concept_tags": [
-        "乳业",
-        "绿色电力"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 30,
-      "code": "001258",
-      "name": "立新能源",
-      "price": 13.74,
-      "turnover": 15.5,
-      "change_pct": -10.02,
-      "hot_value": "220816.0",
-      "rank_chg": 0,
-      "popularity_tag": "",
-      "concept_tags": [
-        "绿色电力",
-        "光热发电"
-      ],
-      "analyse": "1、据2026年8月12日公告，公司股票于8月10日、11日连续2个交易日收盘价涨幅偏离值累计超20%，属于股票交易异常波动。公司公告提示股价短期涨幅较大，显著高于同期行业及深证指数涨幅，存在市场情绪过热、非理性炒作风险，随时存在快速下跌风险。\n2、据同花顺iFinD数据，截至8月14日9时37分12秒，公司主力资金今日净流出9336.41万元；据2026年8月12日公告，8月12日龙虎榜卖出总计4.3亿元，资金获利了结迹象明显。\n3、据同花顺iFinD数据，立新能源此前20个交易日累计上涨103.06%，存在超涨回调压力。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 31,
-      "code": "300308",
-      "name": "中际旭创",
-      "price": 942.85,
-      "turnover": 1.75,
-      "change_pct": 2.37,
-      "hot_value": "219010.0",
-      "rank_chg": 0,
-      "popularity_tag": "",
-      "concept_tags": [
-        "共封装光学(CPO)",
-        "F5G概念"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 32,
-      "code": "600584",
-      "name": "长电科技",
-      "price": 78.67,
-      "turnover": 6.21,
-      "change_pct": 1.08,
-      "hot_value": "217332.0",
-      "rank_chg": 0,
-      "popularity_tag": "",
-      "concept_tags": [
-        "国家大基金持股",
-        "存储芯片"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 33,
-      "code": "603256",
-      "name": "宏和科技",
-      "price": 154.2,
-      "turnover": 2.6,
-      "change_pct": 1.66,
-      "hot_value": "215481.0",
-      "rank_chg": 0,
-      "popularity_tag": "",
-      "concept_tags": [
-        "PCB概念",
-        "华为手机"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 34,
-      "code": "603887",
-      "name": "城地香江",
-      "price": 11.9,
-      "turnover": 20.71,
-      "change_pct": -4.72,
-      "hot_value": "213948.0",
-      "rank_chg": 0,
-      "popularity_tag": "4天3板",
-      "concept_tags": [
-        "算力租赁",
-        "东数西算(算力)"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 35,
-      "code": "002185",
-      "name": "华天科技",
-      "price": 17.99,
-      "turnover": 7.17,
-      "change_pct": 0.62,
-      "hot_value": "211207.0",
-      "rank_chg": 0,
-      "popularity_tag": "",
-      "concept_tags": [
-        "国家大基金持股",
-        "先进封装"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 36,
-      "code": "001309",
-      "name": "德明利",
-      "price": 406.28,
-      "turnover": 8.24,
-      "change_pct": 2.46,
-      "hot_value": "206219.0",
-      "rank_chg": 0,
-      "popularity_tag": "",
-      "concept_tags": [
-        "存储芯片",
-        "中芯国际概念"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 37,
-      "code": "600206",
-      "name": "有研新材",
-      "price": 50.71,
-      "turnover": 9.96,
-      "change_pct": 1.0,
-      "hot_value": "189774.0",
-      "rank_chg": 0,
-      "popularity_tag": "",
-      "concept_tags": [
-        "中芯国际概念",
-        "国家大基金持股"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 38,
-      "code": "603466",
-      "name": "风语筑",
-      "price": 12.64,
-      "turnover": 24.47,
-      "change_pct": -7.87,
-      "hot_value": "184981.0",
-      "rank_chg": 0,
-      "popularity_tag": "3天2板",
-      "concept_tags": [
-        "AI视频",
-        "手机游戏"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 39,
-      "code": "002428",
-      "name": "云南锗业",
-      "price": 101.65,
-      "turnover": 11.68,
-      "change_pct": 1.44,
-      "hot_value": "182879.0",
-      "rank_chg": 0,
-      "popularity_tag": "",
-      "concept_tags": [
-        "光纤概念",
-        "第三代半导体"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 40,
       "code": "300058",
       "name": "蓝色光标",
-      "price": 15.12,
-      "turnover": 13.85,
-      "change_pct": -0.85,
-      "hot_value": "181908.0",
-      "rank_chg": 0,
+      "price": 15.1,
+      "turnover": 14.12,
+      "change_pct": -0.98,
+      "hot_value": "225811.0",
+      "rank_chg": 2,
       "popularity_tag": "",
       "concept_tags": [
         "快手概念",
@@ -724,49 +526,175 @@
       "browse_rank": 0
     },
     {
-      "rank": 41,
-      "code": "603259",
-      "name": "药明康德",
-      "price": 159.25,
-      "turnover": 2.17,
-      "change_pct": -1.9,
-      "hot_value": "179197.0",
-      "rank_chg": 0,
+      "rank": 30,
+      "code": "001309",
+      "name": "德明利",
+      "price": 406.19,
+      "turnover": 8.53,
+      "change_pct": 2.44,
+      "hot_value": "222460.0",
+      "rank_chg": 2,
       "popularity_tag": "",
       "concept_tags": [
-        "创新药",
-        "CRO概念"
+        "存储芯片",
+        "中芯国际概念"
       ],
       "analyse": "",
       "xueqiu_rank": 0,
       "browse_rank": 0
     },
     {
-      "rank": 42,
-      "code": "603758",
-      "name": "秦安股份",
-      "price": 13.82,
-      "turnover": 3.02,
-      "change_pct": -9.97,
-      "hot_value": "178179.0",
-      "rank_chg": 0,
-      "popularity_tag": "6天5板",
+      "rank": 31,
+      "code": "603887",
+      "name": "城地香江",
+      "price": 11.92,
+      "turnover": 20.93,
+      "change_pct": -4.56,
+      "hot_value": "220543.0",
+      "rank_chg": -3,
+      "popularity_tag": "4天3板",
       "concept_tags": [
-        "长安汽车概念",
-        "人形机器人"
+        "算力租赁",
+        "东数西算(算力)"
       ],
-      "analyse": "1、据2026年8月14日公告，公司发布风险提示公告，澄清主营业务不涉及人形机器人及零配件的生产制造，与近期市场热点概念无关；公司参股墨现科技5%股权系财务性投资，持股比例低且不参与经营，不会对业绩产生重大影响。\n2、据同花顺iFinD数据，截至8月14日9时30分，公司主力资金今日净流出2041.90万元。\n3、据2026年8月14日公告，公司此前5个交易日连续涨停，累计涨幅达61.07%，动态市盈率70.90倍，明显高于汽车零部件行业平均水平53.75倍。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）",
+      "analyse": "",
       "xueqiu_rank": 0,
       "browse_rank": 0
     },
     {
-      "rank": 43,
+      "rank": 32,
+      "code": "600522",
+      "name": "中天科技",
+      "price": 35.55,
+      "turnover": 11.31,
+      "change_pct": 8.05,
+      "hot_value": "220464.0",
+      "rank_chg": -3,
+      "popularity_tag": "",
+      "concept_tags": [
+        "光纤概念",
+        "共封装光学(CPO)"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 33,
+      "code": "002428",
+      "name": "云南锗业",
+      "price": 101.59,
+      "turnover": 11.96,
+      "change_pct": 1.38,
+      "hot_value": "219568.0",
+      "rank_chg": 3,
+      "popularity_tag": "",
+      "concept_tags": [
+        "光纤概念",
+        "第三代半导体"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 34,
+      "code": "300308",
+      "name": "中际旭创",
+      "price": 943.0,
+      "turnover": 1.8,
+      "change_pct": 2.38,
+      "hot_value": "216437.0",
+      "rank_chg": 4,
+      "popularity_tag": "",
+      "concept_tags": [
+        "共封装光学(CPO)",
+        "F5G概念"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 35,
+      "code": "002329",
+      "name": "皇氏集团",
+      "price": 4.27,
+      "turnover": 37.06,
+      "change_pct": -7.58,
+      "hot_value": "212627.0",
+      "rank_chg": -2,
+      "popularity_tag": "5天4板",
+      "concept_tags": [
+        "乳业",
+        "绿色电力"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 36,
+      "code": "002185",
+      "name": "华天科技",
+      "price": 17.98,
+      "turnover": 7.38,
+      "change_pct": 0.56,
+      "hot_value": "212482.0",
+      "rank_chg": -2,
+      "popularity_tag": "",
+      "concept_tags": [
+        "国家大基金持股",
+        "先进封装"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 37,
+      "code": "600186",
+      "name": "莲花控股",
+      "price": 12.02,
+      "turnover": 16.97,
+      "change_pct": 9.97,
+      "hot_value": "212272.0",
+      "rank_chg": -2,
+      "popularity_tag": "首板涨停",
+      "concept_tags": [
+        "算力租赁",
+        "东数西算(算力)"
+      ],
+      "analyse": "1、据2026年7月31日公告，公司7月算力租赁业务新签合同金额合计8.15亿元，当月采购5.39亿元算力服务器已交付。\n2、据2026年5月27日公告，公司全资子公司莲花科创拟以不超过3亿元现金增资上海阶跃星辰智能科技股份有限公司。\n3、据2026年4月23日年报，公司子公司莲花科创通过取得深圳市纽菲斯新材料科技有限公司46%股权，切入半导体封装载板用类ABF膜赛道，其NBF系列胶膜产品达到国内领先水平。\n4、公司主营味精、松茸鲜等调味品，味精在终端市场居于主导地位，拥有国内最大的鸡精汤块出口基地。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 38,
+      "code": "600206",
+      "name": "有研新材",
+      "price": 50.78,
+      "turnover": 10.28,
+      "change_pct": 1.14,
+      "hot_value": "211153.0",
+      "rank_chg": -1,
+      "popularity_tag": "",
+      "concept_tags": [
+        "中芯国际概念",
+        "国家大基金持股"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 39,
       "code": "600176",
       "name": "中国巨石",
-      "price": 44.32,
-      "turnover": 6.84,
-      "change_pct": 5.78,
-      "hot_value": "176211.0",
+      "price": 44.39,
+      "turnover": 7.01,
+      "change_pct": 5.94,
+      "hot_value": "207419.0",
       "rank_chg": 0,
       "popularity_tag": "",
       "concept_tags": [
@@ -778,14 +706,86 @@
       "browse_rank": 0
     },
     {
+      "rank": 40,
+      "code": "600821",
+      "name": "金开新能",
+      "price": 6.93,
+      "turnover": 12.23,
+      "change_pct": -3.08,
+      "hot_value": "193439.0",
+      "rank_chg": 0,
+      "popularity_tag": "2天1板",
+      "concept_tags": [
+        "华为数字能源",
+        "算力租赁"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 41,
+      "code": "600105",
+      "name": "永鼎股份",
+      "price": 41.33,
+      "turnover": 12.18,
+      "change_pct": 1.4,
+      "hot_value": "190124.0",
+      "rank_chg": 0,
+      "popularity_tag": "",
+      "concept_tags": [
+        "共封装光学(CPO)",
+        "光纤概念"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 42,
+      "code": "000725",
+      "name": "京东方A",
+      "price": 5.81,
+      "turnover": 3.56,
+      "change_pct": -0.85,
+      "hot_value": "188312.0",
+      "rank_chg": 2,
+      "popularity_tag": "",
+      "concept_tags": [
+        "电子纸",
+        "MicroLED概念"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 43,
+      "code": "002384",
+      "name": "东山精密",
+      "price": 205.19,
+      "turnover": 4.04,
+      "change_pct": 1.52,
+      "hot_value": "188178.0",
+      "rank_chg": -1,
+      "popularity_tag": "",
+      "concept_tags": [
+        "共封装光学(CPO)",
+        "光纤概念"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
       "rank": 44,
       "code": "600683",
       "name": "京投发展",
       "price": 11.64,
-      "turnover": 12.73,
+      "turnover": 12.79,
       "change_pct": -9.98,
-      "hot_value": "175002.0",
-      "rank_chg": 0,
+      "hot_value": "183898.0",
+      "rank_chg": -1,
       "popularity_tag": "5天4板",
       "concept_tags": [
         "特色小镇",
@@ -797,35 +797,35 @@
     },
     {
       "rank": 45,
-      "code": "600105",
-      "name": "永鼎股份",
-      "price": 41.3,
-      "turnover": 11.93,
-      "change_pct": 1.32,
-      "hot_value": "166148.0",
-      "rank_chg": 0,
+      "code": "688981",
+      "name": "中芯国际",
+      "price": 132.87,
+      "turnover": 3.87,
+      "change_pct": 2.65,
+      "hot_value": "180519.0",
+      "rank_chg": 2,
       "popularity_tag": "",
       "concept_tags": [
-        "共封装光学(CPO)",
-        "光纤概念"
+        "国家大基金持股",
+        "存储芯片"
       ],
       "analyse": "",
       "xueqiu_rank": 0,
-      "browse_rank": 0
+      "browse_rank": 2
     },
     {
       "rank": 46,
-      "code": "002384",
-      "name": "东山精密",
-      "price": 204.77,
-      "turnover": 3.87,
-      "change_pct": 1.32,
-      "hot_value": "164517.0",
-      "rank_chg": 0,
+      "code": "603256",
+      "name": "宏和科技",
+      "price": 154.18,
+      "turnover": 2.66,
+      "change_pct": 1.65,
+      "hot_value": "177925.0",
+      "rank_chg": -1,
       "popularity_tag": "",
       "concept_tags": [
-        "共封装光学(CPO)",
-        "光纤概念"
+        "PCB概念",
+        "华为手机"
       ],
       "analyse": "",
       "xueqiu_rank": 0,
@@ -833,67 +833,13 @@
     },
     {
       "rank": 47,
-      "code": "600186",
-      "name": "莲花控股",
-      "price": 12.02,
-      "turnover": 16.92,
-      "change_pct": 9.97,
-      "hot_value": "164286.0",
-      "rank_chg": 0,
-      "popularity_tag": "首板涨停",
-      "concept_tags": [
-        "算力租赁",
-        "东数西算(算力)"
-      ],
-      "analyse": "1、据2026年7月31日公告，公司7月算力租赁业务新签合同金额合计8.15亿元，当月采购5.39亿元算力服务器已交付。\n2、据2026年5月27日公告，公司全资子公司莲花科创拟以不超过3亿元现金增资上海阶跃星辰智能科技股份有限公司。\n3、据2026年4月23日年报，公司子公司莲花科创通过取得深圳市纽菲斯新材料科技有限公司46%股权，切入半导体封装载板用类ABF膜赛道，其NBF系列胶膜产品达到国内领先水平。\n4、公司主营味精、松茸鲜等调味品，味精在终端市场居于主导地位，拥有国内最大的鸡精汤块出口基地。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 48,
-      "code": "300862",
-      "name": "蓝盾光电",
-      "price": 47.29,
-      "turnover": 51.67,
-      "change_pct": 19.99,
-      "hot_value": "163051.0",
-      "rank_chg": 0,
-      "popularity_tag": "5天5板",
-      "concept_tags": [
-        "传感器",
-        "商业航天"
-      ],
-      "analyse": "1、据2026年8月8日公告，公司拟通过发行股份及支付现金方式购买苏州岚创科技有限公司控股权，并募集配套资金，该交易预计构成重大资产重组。标的公司主营高性能真空镀膜设备，系公司上游核心光学元器件的制造装备。\n2、据2026年8月11日公告，公司股票交易价格连续2个交易日收盘价格涨幅偏离值累计超过30%，公司正推进收购苏州岚创科技事项，审计、评估、尽职调查等工作正在有序推进中。\n3、据2025年年度报告，公司主营业务为高端分析测量仪器研制，涵盖环境监测、气象观测等领域，拥有国家级企业技术中心等创新平台，掌握自主知识产权核心技术。\n4、据2026年5月21日业绩说明会，公司依托激光雷达、气象监测等核心技术，重点布局低空气象探测、低空安全保障等产品与解决方案，将资源聚焦低空经济等新兴高增长领域。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 49,
-      "code": "000977",
-      "name": "浪潮信息",
-      "price": 78.75,
-      "turnover": 6.27,
-      "change_pct": -0.89,
-      "hot_value": "162133.0",
-      "rank_chg": 0,
-      "popularity_tag": "",
-      "concept_tags": [
-        "中国AI 50",
-        "算力租赁"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 50,
       "code": "002354",
       "name": "天娱数科",
-      "price": 8.13,
-      "turnover": 21.14,
-      "change_pct": -2.63,
-      "hot_value": "161425.0",
-      "rank_chg": 0,
+      "price": 8.14,
+      "turnover": 21.69,
+      "change_pct": -2.52,
+      "hot_value": "175523.0",
+      "rank_chg": -1,
       "popularity_tag": "",
       "concept_tags": [
         "AI视频",
@@ -904,71 +850,35 @@
       "browse_rank": 0
     },
     {
-      "rank": 51,
-      "code": "000936",
-      "name": "华西股份",
-      "price": 6.97,
-      "turnover": 15.44,
-      "change_pct": 9.94,
-      "hot_value": "161285.0",
-      "rank_chg": 0,
-      "popularity_tag": "3天3板",
-      "concept_tags": [
-        "创投",
-        "国企改革"
-      ],
-      "analyse": "1、据上海证券报2026年8月12日报道，纵慧芯光加码磷化铟激光芯片布局，其股东榜显示无锡一村隽澄投资合伙企业有限合伙持股6.0676%，一村资本为华西股份参股公司;据2025年11月26日互动易，公司参股子公司一村资本有限公司参与投资了熹联光芯微电子，其主营产品聚焦于高速率硅光芯片及光电集成引擎，覆盖从短距到长距的全场景光通信需求。\n2、据2026年8月7日公告，公司对无锡锡创联华股权投资合伙企业有限合伙增资，增资后认缴出资额27,000万元，占比51.92%，该合伙企业主要受让一村资本有限公司3.3586%的股权。\n3、据2025年年报，公司主要从事涤纶化纤的研发、生产和销售，化纤产品主要为涤纶短纤维，包括水刺专用涤纶短纤维、半消光涤纶短纤维等。\n4、据同花顺iFinD数据，公司最终控制人为江阴市人民政府国有资产监督管理办公室，属于国有企业。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 52,
-      "code": "000725",
-      "name": "京东方A",
-      "price": 5.82,
-      "turnover": 3.48,
-      "change_pct": -0.68,
-      "hot_value": "160864.0",
-      "rank_chg": 0,
+      "rank": 48,
+      "code": "000021",
+      "name": "深科技",
+      "price": 40.23,
+      "turnover": 6.18,
+      "change_pct": 1.72,
+      "hot_value": "168572.0",
+      "rank_chg": 2,
       "popularity_tag": "",
       "concept_tags": [
-        "电子纸",
-        "MicroLED概念"
+        "存储芯片",
+        "先进封装"
       ],
       "analyse": "",
       "xueqiu_rank": 0,
       "browse_rank": 0
     },
     {
-      "rank": 53,
-      "code": "002792",
-      "name": "通宇通讯",
-      "price": 36.4,
-      "turnover": 22.84,
-      "change_pct": -5.77,
-      "hot_value": "158868.0",
-      "rank_chg": 0,
-      "popularity_tag": "10天5板",
-      "concept_tags": [
-        "6G概念",
-        "卫星导航"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 54,
-      "code": "603538",
-      "name": "美诺华",
-      "price": 30.23,
-      "turnover": 23.84,
-      "change_pct": -7.18,
-      "hot_value": "154674.0",
-      "rank_chg": 0,
+      "rank": 49,
+      "code": "603259",
+      "name": "药明康德",
+      "price": 159.24,
+      "turnover": 2.21,
+      "change_pct": -1.9,
+      "hot_value": "166642.0",
+      "rank_chg": -1,
       "popularity_tag": "",
       "concept_tags": [
-        "减肥药",
+        "创新药",
         "CRO概念"
       ],
       "analyse": "",
@@ -976,49 +886,31 @@
       "browse_rank": 0
     },
     {
-      "rank": 55,
-      "code": "002827",
-      "name": "高争民爆",
-      "price": 56.66,
-      "turnover": 6.55,
-      "change_pct": 2.83,
-      "hot_value": "149601.0",
-      "rank_chg": 0,
+      "rank": 50,
+      "code": "300209",
+      "name": "行云科技",
+      "price": 38.93,
+      "turnover": 24.37,
+      "change_pct": 10.13,
+      "hot_value": "162883.0",
+      "rank_chg": -1,
       "popularity_tag": "",
       "concept_tags": [
-        "民爆概念",
-        "雅下水电概念"
+        "算力租赁",
+        "柔性屏(折叠屏)"
       ],
       "analyse": "",
       "xueqiu_rank": 0,
       "browse_rank": 0
     },
     {
-      "rank": 56,
-      "code": "000779",
-      "name": "甘咨询",
-      "price": 9.67,
-      "turnover": 19.76,
-      "change_pct": -9.97,
-      "hot_value": "144620.0",
-      "rank_chg": 0,
-      "popularity_tag": "",
-      "concept_tags": [
-        "新型城镇化",
-        "房屋检测"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 57,
+      "rank": 51,
       "code": "002580",
       "name": "圣阳股份",
-      "price": 22.27,
-      "turnover": 24.26,
-      "change_pct": 0.77,
-      "hot_value": "144493.0",
+      "price": 22.28,
+      "turnover": 25.13,
+      "change_pct": 0.81,
+      "hot_value": "162022.0",
       "rank_chg": 0,
       "popularity_tag": "",
       "concept_tags": [
@@ -1030,229 +922,121 @@
       "browse_rank": 0
     },
     {
+      "rank": 52,
+      "code": "300862",
+      "name": "蓝盾光电",
+      "price": 47.29,
+      "turnover": 51.69,
+      "change_pct": 19.99,
+      "hot_value": "159012.0",
+      "rank_chg": 0,
+      "popularity_tag": "5天5板",
+      "concept_tags": [
+        "传感器",
+        "商业航天"
+      ],
+      "analyse": "1、据2026年8月8日公告，公司拟通过发行股份及支付现金方式购买苏州岚创科技有限公司控股权，并募集配套资金，该交易预计构成重大资产重组。标的公司主营高性能真空镀膜设备，系公司上游核心光学元器件的制造装备。\n2、据2026年8月11日公告，公司股票交易价格连续2个交易日收盘价格涨幅偏离值累计超过30%，公司正推进收购苏州岚创科技事项，审计、评估、尽职调查等工作正在有序推进中。\n3、据2025年年度报告，公司主营业务为高端分析测量仪器研制，涵盖环境监测、气象观测等领域，拥有国家级企业技术中心等创新平台，掌握自主知识产权核心技术。\n4、据2026年5月21日业绩说明会，公司依托激光雷达、气象监测等核心技术，重点布局低空气象探测、低空安全保障等产品与解决方案，将资源聚焦低空经济等新兴高增长领域。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 53,
+      "code": "000977",
+      "name": "浪潮信息",
+      "price": 78.8,
+      "turnover": 6.39,
+      "change_pct": -0.83,
+      "hot_value": "158626.0",
+      "rank_chg": 0,
+      "popularity_tag": "",
+      "concept_tags": [
+        "中国AI 50",
+        "算力租赁"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 54,
+      "code": "603758",
+      "name": "秦安股份",
+      "price": 13.82,
+      "turnover": 3.09,
+      "change_pct": -9.97,
+      "hot_value": "158296.0",
+      "rank_chg": 0,
+      "popularity_tag": "6天5板",
+      "concept_tags": [
+        "长安汽车概念",
+        "人形机器人"
+      ],
+      "analyse": "1、据2026年8月14日公告，公司发布风险提示公告，澄清主营业务不涉及人形机器人及零配件的生产制造，与近期市场热点概念无关；公司参股墨现科技5%股权系财务性投资，持股比例低且不参与经营，不会对业绩产生重大影响。\n2、据同花顺iFinD数据，截至8月14日9时30分，公司主力资金今日净流出2041.90万元。\n3、据2026年8月14日公告，公司此前5个交易日连续涨停，累计涨幅达61.07%，动态市盈率70.90倍，明显高于汽车零部件行业平均水平53.75倍。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 55,
+      "code": "603466",
+      "name": "风语筑",
+      "price": 12.57,
+      "turnover": 25.1,
+      "change_pct": -8.38,
+      "hot_value": "154900.0",
+      "rank_chg": 0,
+      "popularity_tag": "3天2板",
+      "concept_tags": [
+        "AI视频",
+        "手机游戏"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 56,
+      "code": "002792",
+      "name": "通宇通讯",
+      "price": 36.34,
+      "turnover": 23.45,
+      "change_pct": -5.93,
+      "hot_value": "148309.0",
+      "rank_chg": 0,
+      "popularity_tag": "10天5板",
+      "concept_tags": [
+        "6G概念",
+        "卫星导航"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 57,
+      "code": "603538",
+      "name": "美诺华",
+      "price": 30.21,
+      "turnover": 24.38,
+      "change_pct": -7.25,
+      "hot_value": "147650.0",
+      "rank_chg": 0,
+      "popularity_tag": "",
+      "concept_tags": [
+        "减肥药",
+        "CRO概念"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
       "rank": 58,
-      "code": "000021",
-      "name": "深科技",
-      "price": 40.13,
-      "turnover": 5.97,
-      "change_pct": 1.47,
-      "hot_value": "143095.0",
-      "rank_chg": 0,
-      "popularity_tag": "",
-      "concept_tags": [
-        "存储芯片",
-        "先进封装"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 59,
-      "code": "605286",
-      "name": "同力天启",
-      "price": 30.68,
-      "turnover": 10.97,
-      "change_pct": -10.0,
-      "hot_value": "142874.0",
-      "rank_chg": 0,
-      "popularity_tag": "5天4板",
-      "concept_tags": [
-        "虚拟电厂",
-        "东数西算(算力)"
-      ],
-      "analyse": "1、据2026年8月14日公告，公司股票于2026年8月10日至13日连续4个交易日涨停，累计涨幅偏离值达46.59%，公司提示可能存在市场情绪过热、非理性炒作风险。\n2、据2026年7月15日公告，公司预计2026年半年度归母净利润为2039.70万元左右，同比减少82.39%，业绩下滑主要系公司新能源业务战略由电站开发转让调整为自持运营所致。\n3、据2026年8月14日公告，公司发布股票交易异常波动公告，提示股价短期波动幅度较大，存在非理性炒作风险，并再次提示业绩下滑风险。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 60,
-      "code": "603341",
-      "name": "龙旗科技",
-      "price": 39.53,
-      "turnover": 15.3,
-      "change_pct": -3.42,
-      "hot_value": "138411.0",
-      "rank_chg": 0,
-      "popularity_tag": "",
-      "concept_tags": [
-        "星闪概念",
-        "智能音箱"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 61,
-      "code": "002031",
-      "name": "巨轮智能",
-      "price": 5.93,
-      "turnover": 12.81,
-      "change_pct": -5.42,
-      "hot_value": "137661.0",
-      "rank_chg": 0,
-      "popularity_tag": "4天2板",
-      "concept_tags": [
-        "减速器",
-        "工业母机"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 62,
-      "code": "603890",
-      "name": "春秋电子",
-      "price": 21.97,
-      "turnover": 20.59,
-      "change_pct": 7.43,
-      "hot_value": "136184.0",
-      "rank_chg": 0,
-      "popularity_tag": "2天1板",
-      "concept_tags": [
-        "AI PC",
-        "F5G概念"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 63,
-      "code": "600522",
-      "name": "中天科技",
-      "price": 35.55,
-      "turnover": 10.97,
-      "change_pct": 8.05,
-      "hot_value": "135215.0",
-      "rank_chg": 0,
-      "popularity_tag": "",
-      "concept_tags": [
-        "光纤概念",
-        "共封装光学(CPO)"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 64,
-      "code": "301308",
-      "name": "江波龙",
-      "price": 406.34,
-      "turnover": 5.33,
-      "change_pct": 2.35,
-      "hot_value": "134331.0",
-      "rank_chg": 0,
-      "popularity_tag": "",
-      "concept_tags": [
-        "存储芯片",
-        "国家大基金持股"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 65,
-      "code": "300209",
-      "name": "行云科技",
-      "price": 38.76,
-      "turnover": 23.82,
-      "change_pct": 9.65,
-      "hot_value": "133041.0",
-      "rank_chg": 0,
-      "popularity_tag": "",
-      "concept_tags": [
-        "算力租赁",
-        "柔性屏(折叠屏)"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 66,
-      "code": "002172",
-      "name": "澳洋健康",
-      "price": 4.54,
-      "turnover": 2.49,
-      "change_pct": 9.93,
-      "hot_value": "132186.0",
-      "rank_chg": 0,
-      "popularity_tag": "3天3板",
-      "concept_tags": [
-        "民营医院",
-        "三胎概念"
-      ],
-      "analyse": "1、据2026年5月10日官微，5月8日，澳洋健康下属的港城康复医院首家“脑机接口智能康复病房”正式揭牌启用，标志着这项颠覆性技术在本地康复医疗领域实现了“零的突破”。\n2、据2025年年报，公司医疗服务业务形成以澳洋医院总院为核心，各专科医院协同发展的格局，总院为三级综合医院，拥有江苏省级临床重点专科建设单位1个、苏州市级临床重点专科3个。\n3、据2025年11月7日公告，公司控股股东变更为张家港悦升科技合伙企业有限合伙，实际控制人变更为张家港经济技术开发区管理委员会。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 67,
-      "code": "301520",
-      "name": "万邦医药",
-      "price": 85.22,
-      "turnover": 40.38,
-      "change_pct": -3.83,
-      "hot_value": "129737.0",
-      "rank_chg": 0,
-      "popularity_tag": "4天2板",
-      "concept_tags": [
-        "仿制药一致性评价",
-        "创新药"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 68,
-      "code": "002400",
-      "name": "省广集团",
-      "price": 7.16,
-      "turnover": 14.37,
-      "change_pct": -9.94,
-      "hot_value": "129398.0",
-      "rank_chg": 0,
-      "popularity_tag": "",
-      "concept_tags": [
-        "快手概念",
-        "小红书概念"
-      ],
-      "analyse": "1、据同花顺iFinD数据，省广集团此前5个交易日累计上涨14.72%，此前20个交易日累计上涨31.40%。\n2、据同花顺iFinD数据，截至8月14日9时38分18秒，公司主力资金今日净流出1.37亿元。 \n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 69,
-      "code": "600162",
-      "name": "香江控股",
-      "price": 4.69,
-      "turnover": 9.33,
-      "change_pct": 2.63,
-      "hot_value": "127936.0",
-      "rank_chg": 0,
-      "popularity_tag": "4天2板",
-      "concept_tags": [
-        "物业管理",
-        "京津冀一体化"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 70,
       "code": "002552",
       "name": "宝鼎科技",
-      "price": 60.22,
-      "turnover": 10.74,
-      "change_pct": 2.66,
-      "hot_value": "126690.0",
+      "price": 60.65,
+      "turnover": 11.5,
+      "change_pct": 3.39,
+      "hot_value": "146648.0",
       "rank_chg": 0,
       "popularity_tag": "11天7板",
       "concept_tags": [
@@ -1264,67 +1048,13 @@
       "browse_rank": 0
     },
     {
-      "rank": 71,
-      "code": "000593",
-      "name": "德龙汇能",
-      "price": 25.02,
-      "turnover": 10.33,
-      "change_pct": -10.0,
-      "hot_value": "126238.0",
-      "rank_chg": 0,
-      "popularity_tag": "11天6板",
-      "concept_tags": [
-        "青蒿素",
-        "信托概念"
-      ],
-      "analyse": "1、据2026年8月14日公告，公司澄清控股股东、实际控制人不存在向公司注入所持有资产的计划，承诺未来12个月内不调整主营业务或实施重大资产重组，相关“拟注入半导体资产”传闻不实。\n2、据2026年8月14日公告，截至2026年8月13日，公司股票收盘价27.80元/股，静态市盈率490.25，市净率11.27，显著高于所属“燃气生产和供应业”行业静态市盈率18.25、市净率1.81，股价已严重偏离公司基本面。\n3、据同花顺iFinD数据，截至8月14日9时31分10秒，公司主力资金今日净流出1351.26万元。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 72,
-      "code": "600613",
-      "name": "神奇制药",
-      "price": 6.41,
-      "turnover": 2.55,
-      "change_pct": 9.95,
-      "hot_value": "125791.0",
-      "rank_chg": 0,
-      "popularity_tag": "2天2板",
-      "concept_tags": [
-        "医药电商",
-        "流感"
-      ],
-      "analyse": "1、据2026年4月29日年报，公司处方药品种覆盖抗肿瘤及心血管等治疗领域，年销售额过亿元的优势品类包括抗肿瘤药系列；公司核心产品斑蝥酸钠维生素B6注射液是创新型抗肿瘤产品，拥有20年国家专利保护。\n2、据2026年4月29日年报，公司“神奇”品牌有超30年历史，是中国驰名商标，OTC业务覆盖感冒止咳、小儿用药等几十个品类，药品批准文号141个。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 73,
-      "code": "300285",
-      "name": "国瓷材料",
-      "price": 70.93,
-      "turnover": 11.26,
-      "change_pct": 0.38,
-      "hot_value": "123268.0",
-      "rank_chg": 0,
-      "popularity_tag": "",
-      "concept_tags": [
-        "共封装光学(CPO)",
-        "5G"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 74,
+      "rank": 59,
       "code": "600602",
       "name": "云赛智联",
-      "price": 20.57,
-      "turnover": 10.3,
-      "change_pct": 6.25,
-      "hot_value": "122770.0",
+      "price": 20.56,
+      "turnover": 10.52,
+      "change_pct": 6.2,
+      "hot_value": "140487.0",
       "rank_chg": 0,
       "popularity_tag": "",
       "concept_tags": [
@@ -1336,53 +1066,107 @@
       "browse_rank": 0
     },
     {
-      "rank": 75,
-      "code": "600722",
-      "name": "金牛化工",
-      "price": 11.28,
-      "turnover": 14.04,
-      "change_pct": -9.82,
-      "hot_value": "119830.0",
+      "rank": 60,
+      "code": "000936",
+      "name": "华西股份",
+      "price": 6.97,
+      "turnover": 15.45,
+      "change_pct": 9.94,
+      "hot_value": "139645.0",
       "rank_chg": 0,
-      "popularity_tag": "",
+      "popularity_tag": "3天3板",
       "concept_tags": [
-        "煤化工概念",
+        "创投",
         "国企改革"
       ],
-      "analyse": "",
+      "analyse": "1、据上海证券报2026年8月12日报道，纵慧芯光加码磷化铟激光芯片布局，其股东榜显示无锡一村隽澄投资合伙企业有限合伙持股6.0676%，一村资本为华西股份参股公司;据2025年11月26日互动易，公司参股子公司一村资本有限公司参与投资了熹联光芯微电子，其主营产品聚焦于高速率硅光芯片及光电集成引擎，覆盖从短距到长距的全场景光通信需求。\n2、据2026年8月7日公告，公司对无锡锡创联华股权投资合伙企业有限合伙增资，增资后认缴出资额27,000万元，占比51.92%，该合伙企业主要受让一村资本有限公司3.3586%的股权。\n3、据2025年年报，公司主要从事涤纶化纤的研发、生产和销售，化纤产品主要为涤纶短纤维，包括水刺专用涤纶短纤维、半消光涤纶短纤维等。\n4、据同花顺iFinD数据，公司最终控制人为江阴市人民政府国有资产监督管理办公室，属于国有企业。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）",
       "xueqiu_rank": 0,
       "browse_rank": 0
     },
     {
-      "rank": 76,
-      "code": "000887",
-      "name": "中鼎股份",
-      "price": 21.8,
-      "turnover": 12.41,
-      "change_pct": -7.98,
-      "hot_value": "119120.0",
-      "rank_chg": 0,
-      "popularity_tag": "3天2板",
+      "rank": 61,
+      "code": "300285",
+      "name": "国瓷材料",
+      "price": 70.96,
+      "turnover": 11.5,
+      "change_pct": 0.42,
+      "hot_value": "139126.0",
+      "rank_chg": 2,
+      "popularity_tag": "",
       "concept_tags": [
-        "减速器",
-        "人形机器人"
+        "共封装光学(CPO)",
+        "5G"
       ],
       "analyse": "",
       "xueqiu_rank": 0,
       "browse_rank": 0
     },
     {
-      "rank": 77,
-      "code": "603019",
-      "name": "中科曙光",
-      "price": 89.3,
-      "turnover": 3.36,
-      "change_pct": -0.37,
-      "hot_value": "118573.0",
-      "rank_chg": 0,
+      "rank": 62,
+      "code": "000779",
+      "name": "甘咨询",
+      "price": 9.66,
+      "turnover": 20.55,
+      "change_pct": -9.97,
+      "hot_value": "136430.0",
+      "rank_chg": -1,
       "popularity_tag": "",
       "concept_tags": [
-        "中国AI 50",
+        "新型城镇化",
+        "房屋检测"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 63,
+      "code": "002400",
+      "name": "省广集团",
+      "price": 7.16,
+      "turnover": 14.43,
+      "change_pct": -9.94,
+      "hot_value": "135613.0",
+      "rank_chg": 2,
+      "popularity_tag": "",
+      "concept_tags": [
+        "快手概念",
+        "小红书概念"
+      ],
+      "analyse": "1、据同花顺iFinD数据，省广集团此前5个交易日累计上涨14.72%，此前20个交易日累计上涨31.40%。\n2、据同花顺iFinD数据，截至8月14日9时38分18秒，公司主力资金今日净流出1.37亿元。 \n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 64,
+      "code": "002031",
+      "name": "巨轮智能",
+      "price": 5.94,
+      "turnover": 13.17,
+      "change_pct": -5.26,
+      "hot_value": "134258.0",
+      "rank_chg": -2,
+      "popularity_tag": "4天2板",
+      "concept_tags": [
+        "减速器",
+        "工业母机"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 65,
+      "code": "605286",
+      "name": "同力天启",
+      "price": 30.68,
+      "turnover": 11.08,
+      "change_pct": -10.0,
+      "hot_value": "133391.0",
+      "rank_chg": 1,
+      "popularity_tag": "5天4板",
+      "concept_tags": [
+        "虚拟电厂",
         "东数西算(算力)"
       ],
       "analyse": "",
@@ -1390,50 +1174,50 @@
       "browse_rank": 0
     },
     {
-      "rank": 78,
-      "code": "600578",
-      "name": "京能电力",
-      "price": 6.04,
-      "turnover": 3.9,
-      "change_pct": -8.35,
-      "hot_value": "117436.0",
-      "rank_chg": 0,
+      "rank": 66,
+      "code": "301308",
+      "name": "江波龙",
+      "price": 406.45,
+      "turnover": 5.47,
+      "change_pct": 2.38,
+      "hot_value": "132854.0",
+      "rank_chg": -2,
       "popularity_tag": "",
       "concept_tags": [
-        "超超临界发电",
-        "绿色电力"
+        "存储芯片",
+        "国家大基金持股"
       ],
       "analyse": "",
       "xueqiu_rank": 0,
       "browse_rank": 0
     },
     {
-      "rank": 79,
-      "code": "300394",
-      "name": "天孚通信",
-      "price": 267.03,
-      "turnover": 4.69,
-      "change_pct": 3.84,
-      "hot_value": "117360.0",
-      "rank_chg": 0,
-      "popularity_tag": "",
+      "rank": 67,
+      "code": "600162",
+      "name": "香江控股",
+      "price": 4.7,
+      "turnover": 9.53,
+      "change_pct": 2.84,
+      "hot_value": "129779.0",
+      "rank_chg": 2,
+      "popularity_tag": "4天2板",
       "concept_tags": [
-        "共封装光学(CPO)",
-        "光纤概念"
+        "物业管理",
+        "京津冀一体化"
       ],
       "analyse": "",
       "xueqiu_rank": 0,
       "browse_rank": 0
     },
     {
-      "rank": 80,
+      "rank": 68,
       "code": "601138",
       "name": "工业富联",
-      "price": 66.2,
-      "turnover": 0.53,
+      "price": 66.19,
+      "turnover": 0.54,
       "change_pct": 1.47,
-      "hot_value": "113518.0",
-      "rank_chg": 0,
+      "hot_value": "127595.0",
+      "rank_chg": -1,
       "popularity_tag": "",
       "concept_tags": [
         "同花顺果指数",
@@ -1444,68 +1228,32 @@
       "browse_rank": 0
     },
     {
-      "rank": 81,
-      "code": "000692",
-      "name": "惠天热电",
-      "price": 4.61,
-      "turnover": 18.8,
-      "change_pct": -5.53,
-      "hot_value": "113037.0",
-      "rank_chg": 0,
-      "popularity_tag": "3天2板",
-      "concept_tags": [
-        "风电",
-        "充电桩"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 82,
-      "code": "002739",
-      "name": "儒意电影",
-      "price": 9.59,
-      "turnover": 10.41,
-      "change_pct": -6.26,
-      "hot_value": "112916.0",
-      "rank_chg": 0,
+      "rank": 69,
+      "code": "002827",
+      "name": "高争民爆",
+      "price": 56.74,
+      "turnover": 6.73,
+      "change_pct": 2.98,
+      "hot_value": "126343.0",
+      "rank_chg": -1,
       "popularity_tag": "",
       "concept_tags": [
-        "IP经济(谷子经济)",
-        "文化传媒概念"
+        "民爆概念",
+        "雅下水电概念"
       ],
       "analyse": "",
       "xueqiu_rank": 0,
       "browse_rank": 0
     },
     {
-      "rank": 83,
-      "code": "601899",
-      "name": "紫金矿业",
-      "price": 32.54,
-      "turnover": 0.93,
-      "change_pct": 1.02,
-      "hot_value": "112704.0",
-      "rank_chg": 0,
-      "popularity_tag": "",
-      "concept_tags": [
-        "金属铅",
-        "金属锌"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 84,
+      "rank": 70,
       "code": "000657",
       "name": "中钨高新",
-      "price": 68.25,
-      "turnover": 5.35,
-      "change_pct": 2.32,
-      "hot_value": "112201.0",
-      "rank_chg": 0,
+      "price": 68.29,
+      "turnover": 5.46,
+      "change_pct": 2.38,
+      "hot_value": "123549.0",
+      "rank_chg": 7,
       "popularity_tag": "",
       "concept_tags": [
         "PCB概念",
@@ -1516,176 +1264,14 @@
       "browse_rank": 0
     },
     {
-      "rank": 85,
-      "code": "300404",
-      "name": "博济医药",
-      "price": 17.34,
-      "turnover": 27.48,
-      "change_pct": 20.0,
-      "hot_value": "109191.0",
-      "rank_chg": 0,
-      "popularity_tag": "2天2板",
-      "concept_tags": [
-        "幽门螺杆菌概念",
-        "CRO概念"
-      ],
-      "analyse": "1、据证券时报2026年8月11日报道，博济医药与长春中医药大学附属医院签署战略合作协议，围绕药物及医疗器械临床试验、临床研究人才培养、中医药科研成果转化等板块开展全方位合作。\n2、据2026年6月9日公告，公司拟向特定对象发行股票，募资用于中药创新药研发项目，重点推进两款中药1类创新药CRA片拟用于慢性心力衰竭和卿芷软膏拟用于膝骨关节炎的临床试验及上市申请。\n3、据2025年年度报告及2026年6月9日公告，公司是国内领先的全流程一站式CRO服务商，服务涵盖临床前研究、临床研究及CDMO，累计助力客户获得新药证书近70项、生产批件近130项。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 86,
-      "code": "603330",
-      "name": "天洋新材",
-      "price": 10.68,
-      "turnover": 5.84,
-      "change_pct": 9.99,
-      "hot_value": "106483.0",
-      "rank_chg": 0,
-      "popularity_tag": "3天3板",
-      "concept_tags": [
-        "芯片概念",
-        "共封装光学(CPO)"
-      ],
-      "analyse": "1、据2026年5月30日业绩说明会公告，公司电子胶板块光模块透镜固定用胶、底填胶等产品已进入半导体及汽车电子领域小批量供货。\n2、据2026年7月15日业绩预盈公告，公司预计2026年半年度净利润为400万元到750万元，同比扭亏为盈，主因光伏封装胶膜业务停止及热熔胶业务销售收入同比增长约13%。\n3、据2025年年报，公司聚焦热熔胶、电子胶核心业务，已成功进入半导体、汽车电子、储能导热等新领域。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 87,
-      "code": "600183",
-      "name": "生益科技",
-      "price": 143.03,
-      "turnover": 2.71,
-      "change_pct": 0.91,
-      "hot_value": "106373.0",
-      "rank_chg": 0,
-      "popularity_tag": "",
-      "concept_tags": [
-        "PCB概念",
-        "先进封装"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 88,
-      "code": "002575",
-      "name": "群兴玩具",
-      "price": 5.6,
-      "turnover": 18.66,
-      "change_pct": -7.89,
-      "hot_value": "106134.0",
-      "rank_chg": 0,
-      "popularity_tag": "2天1板",
-      "concept_tags": [
-        "算力租赁",
-        "东数西算(算力)"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 89,
-      "code": "002156",
-      "name": "通富微电",
-      "price": 62.95,
-      "turnover": 4.52,
-      "change_pct": 1.17,
-      "hot_value": "104680.0",
-      "rank_chg": 0,
-      "popularity_tag": "",
-      "concept_tags": [
-        "国家大基金持股",
-        "存储芯片"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 90,
-      "code": "600744",
-      "name": "华银电力",
-      "price": 7.05,
-      "turnover": 12.45,
-      "change_pct": -9.62,
-      "hot_value": "104049.0",
-      "rank_chg": 0,
-      "popularity_tag": "",
-      "concept_tags": [
-        "超超临界发电",
-        "虚拟电厂"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 91,
-      "code": "301165",
-      "name": "锐捷网络",
-      "price": 143.35,
-      "turnover": 2.81,
-      "change_pct": 0.03,
-      "hot_value": "103938.0",
-      "rank_chg": 0,
-      "popularity_tag": "",
-      "concept_tags": [
-        "WiFi 6",
-        "共封装光学(CPO)"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 92,
-      "code": "002585",
-      "name": "双星新材",
-      "price": 10.88,
-      "turnover": 13.5,
-      "change_pct": -3.72,
-      "hot_value": "103242.0",
-      "rank_chg": 0,
-      "popularity_tag": "",
-      "concept_tags": [
-        "PET铜箔",
-        "OLED"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 93,
-      "code": "300333",
-      "name": "兆日科技",
-      "price": 11.14,
-      "turnover": 24.56,
-      "change_pct": 4.7,
-      "hot_value": "103124.0",
-      "rank_chg": 0,
-      "popularity_tag": "2天1板",
-      "concept_tags": [
-        "芯片概念",
-        "数字货币"
-      ],
-      "analyse": "",
-      "xueqiu_rank": 0,
-      "browse_rank": 0
-    },
-    {
-      "rank": 94,
+      "rank": 71,
       "code": "300502",
       "name": "新易盛",
-      "price": 447.72,
-      "turnover": 3.02,
-      "change_pct": 4.15,
-      "hot_value": "103022.0",
-      "rank_chg": 0,
+      "price": 448.08,
+      "turnover": 3.09,
+      "change_pct": 4.23,
+      "hot_value": "123063.0",
+      "rank_chg": -1,
       "popularity_tag": "",
       "concept_tags": [
         "共封装光学(CPO)",
@@ -1696,14 +1282,68 @@
       "browse_rank": 0
     },
     {
-      "rank": 95,
+      "rank": 72,
+      "code": "300394",
+      "name": "天孚通信",
+      "price": 267.71,
+      "turnover": 4.82,
+      "change_pct": 4.1,
+      "hot_value": "122516.0",
+      "rank_chg": -1,
+      "popularity_tag": "",
+      "concept_tags": [
+        "共封装光学(CPO)",
+        "光纤概念"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 73,
+      "code": "603330",
+      "name": "天洋新材",
+      "price": 10.68,
+      "turnover": 5.87,
+      "change_pct": 9.99,
+      "hot_value": "122414.0",
+      "rank_chg": -1,
+      "popularity_tag": "3天3板",
+      "concept_tags": [
+        "芯片概念",
+        "共封装光学(CPO)"
+      ],
+      "analyse": "1、据2026年5月30日业绩说明会公告，公司电子胶板块光模块透镜固定用胶、底填胶等产品已进入半导体及汽车电子领域小批量供货。\n2、据2026年7月15日业绩预盈公告，公司预计2026年半年度净利润为400万元到750万元，同比扭亏为盈，主因光伏封装胶膜业务停止及热熔胶业务销售收入同比增长约13%。\n3、据2025年年报，公司聚焦热熔胶、电子胶核心业务，已成功进入半导体、汽车电子、储能导热等新领域。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 74,
+      "code": "600183",
+      "name": "生益科技",
+      "price": 143.21,
+      "turnover": 2.79,
+      "change_pct": 1.04,
+      "hot_value": "122367.0",
+      "rank_chg": -1,
+      "popularity_tag": "",
+      "concept_tags": [
+        "PCB概念",
+        "先进封装"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 75,
       "code": "603083",
       "name": "剑桥科技",
       "price": 185.9,
-      "turnover": 14.42,
+      "turnover": 14.44,
       "change_pct": 10.0,
-      "hot_value": "102343.0",
-      "rank_chg": 0,
+      "hot_value": "121579.0",
+      "rank_chg": -1,
       "popularity_tag": "首板涨停",
       "concept_tags": [
         "F5G概念",
@@ -1714,32 +1354,122 @@
       "browse_rank": 0
     },
     {
-      "rank": 96,
-      "code": "002219",
-      "name": "新里程",
-      "price": 2.51,
-      "turnover": 13.85,
-      "change_pct": 0.4,
-      "hot_value": "98734.0",
-      "rank_chg": 0,
+      "rank": 76,
+      "code": "603890",
+      "name": "春秋电子",
+      "price": 22.09,
+      "turnover": 20.93,
+      "change_pct": 8.02,
+      "hot_value": "120496.0",
+      "rank_chg": -1,
       "popularity_tag": "2天1板",
       "concept_tags": [
-        "民营医院",
-        "养老概念"
+        "AI PC",
+        "F5G概念"
       ],
       "analyse": "",
       "xueqiu_rank": 0,
       "browse_rank": 0
     },
     {
-      "rank": 97,
+      "rank": 77,
+      "code": "300017",
+      "name": "网宿科技",
+      "price": 17.33,
+      "turnover": 20.3,
+      "change_pct": 20.01,
+      "hot_value": "119588.0",
+      "rank_chg": -1,
+      "popularity_tag": "首板涨停",
+      "concept_tags": [
+        "算力租赁",
+        "东数西算(算力)"
+      ],
+      "analyse": "1、据2026年7月1日互动易，目前CDN市场格局更清晰，低价竞争减少，行业价格逐步企稳回升，公司结合市场情况、自身经营策略，逐步与客户对服务价格、服务内容等进行协商。\n2、据2026年4月15日年报，公司参股公司绿色云图自主研发的液冷技术， 能够为企业提供更节能、 高效的液冷数据中心建设及改造方案。\n3、据2026年4月15日年报及4月29日业绩说明会，子公司爱捷云提供GPU云算力、CPU云算力等一站式算力云服务，国内已建立多个算力节点。\n4、据2026年4月15日年报，公司完成边缘AI平台升级，推出边缘AI网关、边缘模型推理、边缘AI应用三大核心产品，已适配百余种大模型，为AIGC、大模型推理提供低延迟、高并发服务。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 78,
+      "code": "601899",
+      "name": "紫金矿业",
+      "price": 32.53,
+      "turnover": 0.94,
+      "change_pct": 0.99,
+      "hot_value": "116533.0",
+      "rank_chg": 7,
+      "popularity_tag": "",
+      "concept_tags": [
+        "金属铅",
+        "金属锌"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 79,
+      "code": "002156",
+      "name": "通富微电",
+      "price": 62.96,
+      "turnover": 4.66,
+      "change_pct": 1.19,
+      "hot_value": "115998.0",
+      "rank_chg": -1,
+      "popularity_tag": "",
+      "concept_tags": [
+        "国家大基金持股",
+        "存储芯片"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 80,
+      "code": "600744",
+      "name": "华银电力",
+      "price": 7.03,
+      "turnover": 12.81,
+      "change_pct": -9.87,
+      "hot_value": "115849.0",
+      "rank_chg": -1,
+      "popularity_tag": "",
+      "concept_tags": [
+        "超超临界发电",
+        "虚拟电厂"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 81,
+      "code": "300404",
+      "name": "博济医药",
+      "price": 17.34,
+      "turnover": 27.53,
+      "change_pct": 20.0,
+      "hot_value": "115264.0",
+      "rank_chg": -1,
+      "popularity_tag": "2天2板",
+      "concept_tags": [
+        "幽门螺杆菌概念",
+        "CRO概念"
+      ],
+      "analyse": "1、据证券时报2026年8月11日报道，博济医药与长春中医药大学附属医院签署战略合作协议，围绕药物及医疗器械临床试验、临床研究人才培养、中医药科研成果转化等板块开展全方位合作。\n2、据2026年6月9日公告，公司拟向特定对象发行股票，募资用于中药创新药研发项目，重点推进两款中药1类创新药CRA片拟用于慢性心力衰竭和卿芷软膏拟用于膝骨关节炎的临床试验及上市申请。\n3、据2025年年度报告及2026年6月9日公告，公司是国内领先的全流程一站式CRO服务商，服务涵盖临床前研究、临床研究及CDMO，累计助力客户获得新药证书近70项、生产批件近130项。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 82,
       "code": "002141",
       "name": "贤丰控股",
-      "price": 6.5,
-      "turnover": 16.04,
-      "change_pct": -2.26,
-      "hot_value": "97957.0",
-      "rank_chg": 0,
+      "price": 6.48,
+      "turnover": 16.48,
+      "change_pct": -2.56,
+      "hot_value": "114758.0",
+      "rank_chg": -1,
       "popularity_tag": "",
       "concept_tags": [
         "动物疫苗",
@@ -1750,18 +1480,288 @@
       "browse_rank": 0
     },
     {
-      "rank": 98,
-      "code": "300534",
-      "name": "陇神戎发",
-      "price": 18.91,
-      "turnover": 32.31,
-      "change_pct": -0.05,
-      "hot_value": "95545.0",
+      "rank": 83,
+      "code": "002739",
+      "name": "儒意电影",
+      "price": 9.59,
+      "turnover": 10.85,
+      "change_pct": -6.26,
+      "hot_value": "113610.0",
+      "rank_chg": -1,
+      "popularity_tag": "",
+      "concept_tags": [
+        "IP经济(谷子经济)",
+        "文化传媒概念"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 84,
+      "code": "002172",
+      "name": "澳洋健康",
+      "price": 4.54,
+      "turnover": 2.5,
+      "change_pct": 9.93,
+      "hot_value": "113474.0",
+      "rank_chg": -1,
+      "popularity_tag": "3天3板",
+      "concept_tags": [
+        "民营医院",
+        "三胎概念"
+      ],
+      "analyse": "1、据2026年5月10日官微，5月8日，澳洋健康下属的港城康复医院首家“脑机接口智能康复病房”正式揭牌启用，标志着这项颠覆性技术在本地康复医疗领域实现了“零的突破”。\n2、据2025年年报，公司医疗服务业务形成以澳洋医院总院为核心，各专科医院协同发展的格局，总院为三级综合医院，拥有江苏省级临床重点专科建设单位1个、苏州市级临床重点专科3个。\n3、据2025年11月7日公告，公司控股股东变更为张家港悦升科技合伙企业有限合伙，实际控制人变更为张家港经济技术开发区管理委员会。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 85,
+      "code": "600722",
+      "name": "金牛化工",
+      "price": 11.28,
+      "turnover": 14.5,
+      "change_pct": -9.9,
+      "hot_value": "113228.0",
+      "rank_chg": -1,
+      "popularity_tag": "",
+      "concept_tags": [
+        "煤化工概念",
+        "国企改革"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 86,
+      "code": "603341",
+      "name": "龙旗科技",
+      "price": 39.8,
+      "turnover": 15.59,
+      "change_pct": -2.69,
+      "hot_value": "111879.0",
       "rank_chg": 0,
+      "popularity_tag": "",
+      "concept_tags": [
+        "星闪概念",
+        "智能音箱"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 87,
+      "code": "301396",
+      "name": "宏景科技",
+      "price": 221.86,
+      "turnover": 21.96,
+      "change_pct": 8.58,
+      "hot_value": "111254.0",
+      "rank_chg": 2,
+      "popularity_tag": "",
+      "concept_tags": [
+        "算力租赁",
+        "东数西算(算力)"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 88,
+      "code": "301520",
+      "name": "万邦医药",
+      "price": 85.79,
+      "turnover": 42.05,
+      "change_pct": -3.26,
+      "hot_value": "109663.0",
+      "rank_chg": -1,
+      "popularity_tag": "4天2板",
+      "concept_tags": [
+        "仿制药一致性评价",
+        "创新药"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 89,
+      "code": "301165",
+      "name": "锐捷网络",
+      "price": 143.9,
+      "turnover": 2.87,
+      "change_pct": 0.42,
+      "hot_value": "109237.0",
+      "rank_chg": -1,
+      "popularity_tag": "",
+      "concept_tags": [
+        "WiFi 6",
+        "共封装光学(CPO)"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 90,
+      "code": "603618",
+      "name": "杭电股份",
+      "price": 29.87,
+      "turnover": 16.37,
+      "change_pct": 10.02,
+      "hot_value": "107590.0",
+      "rank_chg": 4,
+      "popularity_tag": "首板涨停",
+      "concept_tags": [
+        "光纤概念",
+        "特高压"
+      ],
+      "analyse": "1、据2026年7月4日公告，公司预计2026年半年度实现归母净利润约3.6亿元到4亿元，同比增长852.03%到957.82%，主要系光纤光缆市场回暖，光纤产品需求实现量价齐升。\n2、据2026年7月21日公告，公司拟向特定对象发行股票募资不超28.8亿元，用于光纤预制棒、石英母材与新型光纤研发与制造超级工厂建设项目及年产3万吨人工智能用高端电子电路铜箔项目。\n3、据2025年8月29日公告，公司电子电路铜箔产品已成功进入国内领先的覆铜板、铝基板及PCB企业供应链体系，包括生益科技、华正新材、南亚新材等。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 91,
+      "code": "000593",
+      "name": "德龙汇能",
+      "price": 25.02,
+      "turnover": 10.4,
+      "change_pct": -10.0,
+      "hot_value": "107411.0",
+      "rank_chg": -1,
+      "popularity_tag": "11天6板",
+      "concept_tags": [
+        "青蒿素",
+        "信托概念"
+      ],
+      "analyse": "1、据2026年8月14日公告，公司澄清控股股东、实际控制人不存在向公司注入所持有资产的计划，承诺未来12个月内不调整主营业务或实施重大资产重组，相关“拟注入半导体资产”传闻不实。\n2、据2026年8月14日公告，截至2026年8月13日，公司股票收盘价27.80元/股，静态市盈率490.25，市净率11.27，显著高于所属“燃气生产和供应业”行业静态市盈率18.25、市净率1.81，股价已严重偏离公司基本面。\n3、据同花顺iFinD数据，截至8月14日9时31分10秒，公司主力资金今日净流出1351.26万元。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 92,
+      "code": "600613",
+      "name": "神奇制药",
+      "price": 6.41,
+      "turnover": 2.61,
+      "change_pct": 9.95,
+      "hot_value": "106374.0",
+      "rank_chg": -1,
+      "popularity_tag": "2天2板",
+      "concept_tags": [
+        "医药电商",
+        "流感"
+      ],
+      "analyse": "1、据2026年4月29日年报，公司处方药品种覆盖抗肿瘤及心血管等治疗领域，年销售额过亿元的优势品类包括抗肿瘤药系列；公司核心产品斑蝥酸钠维生素B6注射液是创新型抗肿瘤产品，拥有20年国家专利保护。\n2、据2026年4月29日年报，公司“神奇”品牌有超30年历史，是中国驰名商标，OTC业务覆盖感冒止咳、小儿用药等几十个品类，药品批准文号141个。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 93,
+      "code": "603881",
+      "name": "数据港",
+      "price": 29.04,
+      "turnover": 11.83,
+      "change_pct": 10.0,
+      "hot_value": "105522.0",
+      "rank_chg": 3,
+      "popularity_tag": "首板涨停",
+      "concept_tags": [
+        "算力租赁",
+        "云计算"
+      ],
+      "analyse": "1、据2026年6月4日公告，公司为落地“双轮驱动”战略，拟采购专门用于科学计算设备的算力服务，采购金额预计不超过8亿元，用于搭建适配科学智能领域的算力服务体系。\n2、据2025年年报，公司深耕IDC主业并加速智算业务转型，构建“通算+智算”业务体系；截至2025年半年报，全国在运营数据中心达35座，全部位于“东数西算”枢纽节点。\n3、据2025年年报及公开信息，公司控股股东为上海市北高新集团有限公司，实际控制人为上海市静安区国有资产监督管理委员会。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 94,
+      "code": "603019",
+      "name": "中科曙光",
+      "price": 89.36,
+      "turnover": 3.43,
+      "change_pct": -0.3,
+      "hot_value": "105319.0",
+      "rank_chg": -2,
+      "popularity_tag": "",
+      "concept_tags": [
+        "中国AI 50",
+        "东数西算(算力)"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 95,
+      "code": "002585",
+      "name": "双星新材",
+      "price": 10.87,
+      "turnover": 14.02,
+      "change_pct": -3.81,
+      "hot_value": "103725.0",
+      "rank_chg": -2,
+      "popularity_tag": "",
+      "concept_tags": [
+        "PET铜箔",
+        "OLED"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 96,
+      "code": "600272",
+      "name": "开开实业",
+      "price": 17.6,
+      "turnover": 28.15,
+      "change_pct": 10.0,
+      "hot_value": "102679.0",
+      "rank_chg": -1,
+      "popularity_tag": "7天5板",
+      "concept_tags": [
+        "医药电商",
+        "民营医院"
+      ],
+      "analyse": "1、据2026年8月7日公告，公司全资子公司雷西公司以3946万元收购雷西精益60%股权，收购完成后雷西精益成为其全资子公司。根据评估数据测算，每年预计可新增归母净利润1380万元左右。\n2、据2025年年报，公司SPD医疗供应链项目持续优化平台功能，推进医疗器械唯一标识UDI建设，已初步探索UDI与相关编码的四码映射，筑牢医疗器械全流程智能监管体系。\n3、公司是以医药流通及服务和服装批发、零售为核心的双主业经营模式，医药板块依托“雷允上”中华老字号品牌，从事中西成药、中药饮片等销售，并为医疗机构提供供应链服务。\n4、公司最终控制人为上海市静安区国有资产监督管理委员会。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 97,
+      "code": "000692",
+      "name": "惠天热电",
+      "price": 4.58,
+      "turnover": 19.14,
+      "change_pct": -6.15,
+      "hot_value": "101606.0",
+      "rank_chg": 1,
+      "popularity_tag": "3天2板",
+      "concept_tags": [
+        "风电",
+        "充电桩"
+      ],
+      "analyse": "",
+      "xueqiu_rank": 0,
+      "browse_rank": 0
+    },
+    {
+      "rank": 98,
+      "code": "300333",
+      "name": "兆日科技",
+      "price": 11.28,
+      "turnover": 25.34,
+      "change_pct": 6.01,
+      "hot_value": "99051.0",
+      "rank_chg": -1,
       "popularity_tag": "2天1板",
       "concept_tags": [
-        "流感",
-        "医药电商"
+        "芯片概念",
+        "数字货币"
       ],
       "analyse": "",
       "xueqiu_rank": 0,
@@ -1769,17 +1769,17 @@
     },
     {
       "rank": 99,
-      "code": "002015",
-      "name": "协鑫能科",
-      "price": 15.45,
-      "turnover": 6.28,
-      "change_pct": -6.02,
-      "hot_value": "93146.0",
-      "rank_chg": 0,
+      "code": "002281",
+      "name": "光迅科技",
+      "price": 191.52,
+      "turnover": 5.0,
+      "change_pct": 3.61,
+      "hot_value": "97711.0",
+      "rank_chg": 4,
       "popularity_tag": "",
       "concept_tags": [
-        "华为数字能源",
-        "抽水蓄能"
+        "F5G概念",
+        "光纤概念"
       ],
       "analyse": "",
       "xueqiu_rank": 0,
@@ -1787,17 +1787,17 @@
     },
     {
       "rank": 100,
-      "code": "002484",
-      "name": "江海股份",
-      "price": 69.66,
-      "turnover": 7.71,
-      "change_pct": 4.58,
-      "hot_value": "91511.0",
-      "rank_chg": 0,
+      "code": "601869",
+      "name": "长飞光纤",
+      "price": 355.18,
+      "turnover": 3.6,
+      "change_pct": 5.24,
+      "hot_value": "97268.0",
+      "rank_chg": -1,
       "popularity_tag": "",
       "concept_tags": [
-        "超级电容",
-        "5G"
+        "光纤概念",
+        "铜缆高速连接"
       ],
       "analyse": "",
       "xueqiu_rank": 0,
